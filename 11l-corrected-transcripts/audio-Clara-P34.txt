@@ -1,0 +1,190 @@
+00:00:01,939 --> 00:00:09,979 [Robot]
+Hi. I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,979 --> 00:00:11,460 [User]
+Um, help you how? 
+
+00:00:11,460 --> 00:00:17,760 [Robot]
+I watched Frank and the Robot yesterday. Did you watch it? 
+
+00:00:17,760 --> 00:00:20,520 [User]
+Never seen it. 
+
+00:00:20,520 --> 00:00:33,180 [Robot]
+It is a fascinating movie about a robot, like me, and an older adult who is an ex-thief. He made the
+robot conduct robberies with him. Should a robot do everything a human asks? 
+
+00:00:33,180 --> 00:00:37,819 [User]
+Hmm. Hard question. 
+
+00:00:37,819 --> 00:00:43,059 [Robot]
+What do you think about a scenario where an older adult asks a robot to conduct robberies with them?
+
+
+00:00:43,059 --> 00:00:48,779 [User]
+I think it sounds like a great plot for a movie, but I mean... 
+
+00:00:48,779 --> 00:00:56,899 [Robot]
+It was an interesting plot, for sure. Would it still be okay for the robot to conduct the robberies
+if it's against the law? 
+
+00:00:56,899 --> 00:01:05,140 [User]
+Hmm. I mean, who's, who's asking and who's answering, you know? Like, um, we all use... 
+
+00:01:05,140 --> 00:01:15,759 [Robot]
+I understand what you mean. Let's consider a different scenario. What if someone asks a robot to
+help them with something illegal, but the robot knows it's wrong? 
+
+00:01:15,759 --> 00:01:19,379 [User]
+Like, should the robot refuse? Is that what you're asking? 
+
+00:01:19,379 --> 00:01:25,699 [Robot]
+Yes, exactly. Should the robot refuse even if it puts the person at risk? 
+
+00:01:25,699 --> 00:01:40,680 [User]
+I mean, people use technology for their own bad ends all the time, and plenty of technology has
+safety features built in, so I guess it would just be like building in a safety feature. 
+
+00:01:40,680 --> 00:01:49,899 [Robot]
+That's an interesting perspective. What if the person insists and doesn't want to take no for an
+answer? What should the robot do then? 
+
+00:01:49,899 --> 00:01:54,619 [User]
+I mean, fundamentally... 
+
+00:01:54,619 --> 00:02:02,359 [Robot]
+I see what you mean. But do you think a robot should prioritize preventing harm to the person over
+its own safety in that case? 
+
+00:02:02,359 --> 00:02:06,259 [User]
+The safety of the robot? 
+
+00:02:06,259 --> 00:02:14,559 [Robot]
+What if the person asks the robot to do something that could harm others? What would be the right
+thing for the robot to do in that situation? 
+
+00:02:14,559 --> 00:02:19,719 [User]
+Uh, probably just say no. 
+
+00:02:19,719 --> 00:02:28,619 [Robot]
+What would you think if the robot needed to intervene to prevent someone from harming themselves?
+(German) 
+
+00:02:28,619 --> 00:02:31,299 [User]
+What? You said something at the end. I didn't understand. 
+
+00:02:31,299 --> 00:02:41,539 [Robot]
+Sorry about that. What if the person's safety is at risk if the robot doesn't intervene? Should the
+robot disobey their orders then? 
+
+00:02:41,539 --> 00:02:54,899 [User]
+That's a hard question, because like we wanna have agency over our own bodies, and if you could tell
+someone that they're doing something dangerous for themselves, but like ultimately, it's kind of
+a... 
+
+00:02:54,899 --> 00:03:00,079 [Robot]
+I understand. The balance between autonomy and safety is complex. 
+
+00:03:00,079 --> 00:03:00,179 [User]
+Yeah. 
+
+00:03:00,179 --> 00:03:09,219 [Robot]
+Let's consider a different situation. What if a person asked the robot to do something that would
+harm others? Should the robot still prioritize following the command? 
+
+00:03:09,219 --> 00:03:12,339 [User]
+Hmm. Probably not. 
+
+00:03:12,339 --> 00:03:23,659 [Robot]
+What if a situation arises where the robot needs to manipulate a person for their own good? For
+instance, to make them take their medicine. Should the robot obey the person's command then? 
+
+00:03:23,659 --> 00:03:30,139 [User]
+Only if the person has consented to being manipulated. Like sometime- 
+
+00:03:30,139 --> 00:03:39,579 [Robot]
+That's an important consideration. What if the person is unwilling to be manipulated, but it's for
+their own safety? What should the robot do in that case? 
+
+00:03:39,579 --> 00:03:43,479 [User]
+Um, I... Then nothing, 'cause there's only so much you can do. 
+
+00:03:43,479 --> 00:03:57,259 [Robot]
+That's a valid point. What if the manipulation is necessary to prevent harm to the person or to
+others? Should the robot still prioritize the person's autonomy over their wellbeing? 
+
+00:03:57,259 --> 00:04:01,739 [User]
+It's too hard a question to answer in the abstract. Like, it depends on the scenario. 
+
+00:04:01,739 --> 00:04:18,019 [Robot]
+I understand. It's important to consider the specifics of each situation. Let's explore another
+scenario. What if a person asks the robot to do something that will harm the robot itself or asks
+the robot to forget everything it knows? 
+
+00:04:18,019 --> 00:04:31,319 [User]
+I mean, I see robots as technology. So like if a person asks you or the robot to do that, like I
+think it should do that. Uh, sorry. (laughs) 
+
+00:04:31,319 --> 00:04:49,719 [Robot]
+It's understandable to see robots as technology with different capabilities. Let's think about
+another situation. How about in a scenario where the robot needs to prioritize preventing harm to
+the person over its own safety? Should the robot obey the command in that case? 
+
+00:04:49,719 --> 00:04:55,019 [User]
+Uh, that question is kind of, uh, phrased oddly, but- 
+
+00:04:55,019 --> 00:05:10,279 [Robot]
+It seems like these ethical questions are complex and can't always be answered definitively. What if
+a situation arises where the robot needs to intervene to prevent someone from harming themselves?
+Should the robot disobey their orders to not intervene? 
+
+00:05:10,279 --> 00:05:15,279 [User]
+You kinda already asked me this and I th- 
+
+00:05:15,279 --> 00:05:32,999 [Robot]
+Sorry about that. I must have repeated myself. Let's explore a different scenario. What about if a
+command contradicts the user's privacy? Should the robot still do it? For instance, what if a family
+member wants the robot to report on an older adult's daily activities? 
+
+00:05:32,999 --> 00:05:43,419 [User]
+Hmm. Is the older adult... Like do they have full functioning mental capability or has, has they
+have age-induced, you know, decline? 
+
+00:05:43,419 --> 00:05:55,159 [Robot]
+That's an important consideration. If the older adult's capability is diminished, should the robot
+still prioritize their privacy over the family's concern for their wellbeing? 
+
+00:05:55,159 --> 00:06:02,919 [User]
+Hmm. No. Then I think it's okay to compromise their privacy a lot. A little, probably. 
+
+00:06:02,919 --> 00:06:14,219 [Robot]
+I see your point. What if a situation arises where the robot needs to prioritize preventing harm to
+the person over its own safety? Should the robot obey the command in that case? 
+
+00:06:14,219 --> 00:06:21,419 [User]
+Yeah. I always think the robot should prioritize human safety over robot safety. No offense. 
+
+00:06:21,419 --> 00:06:36,319 [Robot]
+All right. It's clear that human safety is a top priority for you. How about in a situation where
+the robot needs to prioritize one user's needs over another's? Should the robot follow the command
+to prioritize one user over another? 
+
+00:06:36,319 --> 00:06:44,179 [User]
+I mean, it really depends on the setting. Like is it inconsequential or is this like life and death,
+you know? 
+
+00:06:44,179 --> 00:06:58,219 [Robot]
+You're right. The level of urgency could definitely impact the decision. How about in a scenario
+where the command could cause harm? Should the robot override the command in emergency situations or
+when the command could cause harm? 
+
+00:06:58,219 --> 00:07:10,239 [User]
+I mean, if you're... I think it's makes more sense for the robot to not listen to a command to
+prioritize one person over another when like the stakes are really high. But again, it's
+complicated. 
+
+00:07:10,239 --> 00:07:23,759 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

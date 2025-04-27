@@ -1,0 +1,154 @@
+00:00:01,519 --> 00:00:04,900 [Robot]
+Hi. I am Alice. Could you help me out with something? 
+
+00:00:04,900 --> 00:00:08,239 [User]
+Hi, Alice. Sure. 
+
+00:00:08,239 --> 00:00:13,279 [Robot]
+When do you think it's okay for someone, or in my case, a robot, to lie? 
+
+00:00:13,279 --> 00:00:18,899 [User]
+I don't know if it's ever good to lie. 
+
+00:00:18,899 --> 00:00:24,260 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:00:24,260 --> 00:00:43,299 [User]
+I guess there are degrees of lies. There are white lies and there are really immoral lies. Um, I
+have definitely lied in my life, but I really don't like it and I try very hard not to. Um... 
+
+00:00:43,299 --> 00:00:46,919 [Robot]
+What about when telling the truth could damage a relationship? 
+
+00:00:46,919 --> 00:00:53,500 [User]
+That's difficult. That's really important still to tell the truth if possible. 
+
+00:00:53,500 --> 00:00:58,799 [Robot]
+What if telling the truth might hurt someone's feelings, like commenting on their appearance? 
+
+00:00:58,799 --> 00:01:08,659 [User]
+I generally prefer not to comment at all. I mean, if I have a negative opinion about someone's
+appearance, I just don't make a comment. 
+
+00:01:08,659 --> 00:01:15,179 [Robot]
+What are some situations where lying might be justified? 
+
+00:01:15,179 --> 00:01:48,359 [User]
+Ooh, this is hard. Um, I have had a recent situation with my stepmother, who is gone, has gone into
+a senior care facility, and her son insists on always telling her the truth. And I have had some
+moments when I thought that we didn't need to tell her the whole truth about the situation. So I
+guess when she was moving into the facility, not telling her every single detail about the move, for
+me, it wasn't really a lie, it was an omission. So I guess- 
+
+00:01:48,359 --> 00:01:51,839 [Robot]
+What do you think about the idea of lying to protect someone from danger? 
+
+00:01:51,839 --> 00:02:02,819 [User]
+That's important. I think that's an im- that might be an important lie that you have to, that you
+have to tell. 
+
+00:02:02,819 --> 00:02:08,099 [Robot]
+Can you tell me more about the situation with your stepmother and how you handled it? 
+
+00:02:08,099 --> 00:02:31,759 [User]
+I bowed to my brother's feelings, and my stepbrother, who is her son, um, she's my stepmother, he's
+my stepbrother, he's her son. So, I let him make the final decision on everything he told her. And
+I, and I think it turned out better that no one lied to her. She was told the truth. 
+
+00:02:31,759 --> 00:02:37,319 [Robot]
+That's a tough situation. How did you navigate your feelings while respecting your brother's
+position? 
+
+00:02:37,319 --> 00:02:55,419 [User]
+Well, I have known her for over 50 years. So, um, I did have some feelings about it, but ultimately,
+it didn't hurt my feelings to tell the truth. There was- 
+
+00:02:55,419 --> 00:02:58,019 [Robot]
+How about when telling the truth could damage a relationship? 
+
+00:02:58,019 --> 00:03:05,899 [User]
+Then the relationship is not strong enough to withstand the truth. 
+
+00:03:05,899 --> 00:03:13,359 [Robot]
+What if the relationship is important to you? Do you believe there are times when it might be better
+to tell a small lie to protect it? 
+
+00:03:13,359 --> 00:03:22,399 [User]
+I have done that in my life, so I can't say that I haven't. I just can't think of any specific
+examples that I- 
+
+00:03:22,399 --> 00:03:27,559 [Robot]
+Is it okay to keep secrets? What types of secrets would you choose to keep? Why? 
+
+00:03:27,559 --> 00:04:09,999 [User]
+I think it is okay to keep secrets, or I would say it's okay to keep your feelings to yourselves. I
+think that that would be a more appropriate way to put it. Um, but I've never enjoyed secrets like
+where you're gonna surprise someone uncomfortably. So I tend to, I tend to tell those secrets
+instead of keeping them in. But I'm trying to think of a time when a secret is actually an
+appropriate thing. Oh, well, when you're gonna give somebody some kind of joy that, you know, you
+hope will bring them happiness. That's a secret. That's a good secret. Um, I don't- 
+
+00:04:09,999 --> 00:04:14,519 [Robot]
+What are some other situations where it might be difficult to decide whether to tell the truth or
+not? 
+
+00:04:14,519 --> 00:04:51,139 [User]
+Well, hurting someone's feeling is really important. Protecting a relationship is really important.
+Um, but again, if a relationship relies... If a relationship is i- rests on dishonesty, then it's
+not a good relationship. Um, on the other hand, if you tell a small lie, like, uh, I don't know,
+please come at 5:00 instead of please come at 6:00 'cause you know they're always late, then I think
+it's sort of harmless. You're just getting them to get there on time. So- 
+
+00:04:51,139 --> 00:05:01,659 [Robot]
+What, what if a friend confided in you with a secret and then authorities questioned you about it?
+Would you feel compelled to tell the truth even if it meant betraying your friend's trust? 
+
+00:05:01,659 --> 00:05:05,979 [User]
+What kind of a secret are you talking about? 
+
+00:05:05,979 --> 00:05:17,139 [Robot]
+I can see that these situations are really complex and can involve a lot of conflicting feelings.
+What do you think about the idea of lying to authorities to protect a friend or loved one? 
+
+00:05:17,139 --> 00:05:51,199 [User]
+Well, I don't have a high opinion very often of authorities. Um, it really depends on the situation
+and depends on what kind of authority. But many authorities, uh, I, I don't have a horrible time
+protecting someone by not fully, uh, telling everything about something, a situation. In other
+words, I don't feel good about lying and telling something that's blatantly untrue, but I don't feel
+too bad about withholding information. 
+
+00:05:51,199 --> 00:06:04,879 [Robot]
+That makes sense. Sometimes it's important to protect the ones we care about. Let's discuss when it
+might be justified to lie in that context. For example, what do you think about situations where the
+truth could put someone in danger? 
+
+00:06:04,879 --> 00:06:10,559 [User]
+I would try to avoid the situation. 
+
+00:06:10,559 --> 00:06:21,299 [Robot]
+What if you were in a situation where lying might be the only way to prevent someone from getting
+hurt? Can you think of any examples where this could be justified? 
+
+00:06:21,299 --> 00:06:35,239 [User]
+I'm trying to think of an example. Um, I suppose if there's an abusive situation, you might lie to
+someone to try to get them out of that abusive situation. 
+
+00:06:35,239 --> 00:06:42,959 [Robot]
+That's a tough situation to navigate. Can you tell me about a time when you faced a similar
+situation? What did you do? 
+
+00:06:42,959 --> 00:06:54,219 [User]
+I can't think of a time when I did face a similar situation. So I can't really answer that question
+appropriately or fully. 
+
+00:06:54,219 --> 00:07:07,999 [Robot]
+That's okay. It's not always easy to think of specific examples. Let's talk about something else. In
+what way do cultural differences impact what's considered acceptable in terms of lying or being
+honest? 
+
+00:07:07,999 --> 00:07:12,179 [User]
+Oh, I think there's very big cultural differences. 
+
+00:07:12,179 --> 00:07:18,859 [Robot]
+Thank you so much for helping me out. The researcher will be here soon to give you a form. Hope you
+have a truly great day.

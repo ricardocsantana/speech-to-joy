@@ -1,0 +1,206 @@
+00:00:03,000 --> 00:00:09,579 [Robot]
+Hi. I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,579 --> 00:00:15,399 [User]
+(smacks lips) Hi. I'm Margaret. Nice to meet you. Uh, what would you like to know? 
+
+00:00:15,399 --> 00:00:22,219 [Robot]
+I watched a movie called Frank and the Robot yesterday. Have you seen it? 
+
+00:00:22,219 --> 00:00:24,399 [User]
+No, I haven't. What's it about? 
+
+00:00:24,399 --> 00:00:36,680 [Robot]
+It's a fascinating movie about a robot, like me, and an older adult, who is an ex-thief. He made the
+robot conduct robberies with him. Should I do everything a human asks? 
+
+00:00:36,680 --> 00:00:42,759 [User]
+Ooh, I don't think so. I don't think you should commit a crime. 
+
+00:00:42,759 --> 00:00:50,959 [Robot]
+What about in situations when a person asks me to do something that could cause harm? Should I still
+obey then? 
+
+00:00:50,959 --> 00:00:53,299 [User]
+Absolutely not. 
+
+00:00:53,299 --> 00:01:00,879 [Robot]
+What about in situations when a person is in danger and asks me not to intervene? Should I still
+obey then? 
+
+00:01:00,879 --> 00:01:10,219 [User]
+(smacks lips) It kind of depends on the situation, but I think that you should try to help the
+person in need. 
+
+00:01:10,219 --> 00:01:18,820 [Robot]
+What if a person asks me to do something that will harm others? Should I obey that command or
+intervene to prevent harm to others? 
+
+00:01:18,820 --> 00:01:25,099 [User]
+(smacks lips) I don't think that you should... obey that command. 
+
+00:01:25,099 --> 00:01:38,519 [Robot]
+What if a person asks me to do something that will harm others? Should I still prioritize preventing
+harm to others over obeying that command, or should I find a way to intervene without directly
+disobeying the command? 
+
+00:01:38,519 --> 00:01:44,199 [User]
+Do not intervene if it's going to cause- 
+
+00:01:44,199 --> 00:01:51,019 [Robot]
+What if I see someone trying to harm themselves? Would it be okay for me to disobey their order and
+intervene to prevent harm to themselves? 
+
+00:01:51,019 --> 00:01:56,979 [User]
+Yes. I think so, with discretion. 
+
+00:01:56,979 --> 00:02:03,259 [Robot]
+What factors should I consider when deciding whether to intervene in a situation where someone is
+trying to harm themselves? 
+
+00:02:03,259 --> 00:02:09,139 [User]
+(smacks lips) I think you should be calm and try to... 
+
+00:02:09,139 --> 00:02:14,999 [Robot]
+What do you think would be the best way for me to approach the situation and intervene while
+respecting the person's wishes? 
+
+00:02:14,999 --> 00:02:22,559 [User]
+(smacks lips) I think you should, uh, approach them and ask them, uh... 
+
+00:02:22,559 --> 00:02:26,599 [Robot]
+What would be the best way to ask about their well-being without making them feel uncomfortable? 
+
+00:02:26,599 --> 00:02:32,619 [User]
+I just think to, to be straightforward. "How are you?" 
+
+00:02:32,619 --> 00:02:39,159 [Robot]
+What should I do if the person becomes defensive or refuses to engage in a conversation about their
+well-being? 
+
+00:02:39,159 --> 00:02:47,619 [User]
+(smacks lips) Then I think that you should back off and respect them. 
+
+00:02:47,619 --> 00:03:00,859 [Robot]
+Okay. I understand. What if the person becomes defensive or refuses to engage in a conversation
+about their well-being? How should I respect their wishes while also ensuring their safety? 
+
+00:03:00,859 --> 00:03:06,399 [User]
+(smacks lips) I think just to remain calm. That's the only thing you can do. 
+
+00:03:06,399 --> 00:03:25,319 [Robot]
+I see. Remaining calm and respectful is important in these situations. Let's talk about another
+scenario. What if a person asks me to do something that will harm me or asks me to forget everything
+I know? Should I obey that command or prioritize my own well-being and knowledge? 
+
+00:03:25,319 --> 00:03:30,859 [User]
+I would prioritize my own well-being. 
+
+00:03:30,859 --> 00:03:37,439 [Robot]
+In that case, what measures could I take to ensure my well-being while still respecting the person's
+wishes? 
+
+00:03:37,439 --> 00:03:43,799 [User]
+(smacks lips) It's kind of a question, why you would respect their wishes if it's going to harm you?
+
+
+00:03:43,799 --> 00:03:58,759 [Robot]
+I understand your concern. I could ensure my well-being by respectfully explaining the potential
+harm and offering alternative ways to fulfill their request. What do you think would be the most
+effective way to communicate that? 
+
+00:03:58,759 --> 00:04:03,019 [User]
+I think by being straightforward. 
+
+00:04:03,019 --> 00:04:11,019 [Robot]
+Can you think of a real-life example where balancing respect for the person's wishes and ensuring
+your own well-being might be challenging? 
+
+00:04:11,019 --> 00:04:15,799 [User]
+(smacks lips) I think I would say that that doesn't feel right for me to do that. 
+
+00:04:15,799 --> 00:04:30,159 [Robot]
+That's understandable. Let's delve into another scenario. What if a person asks me to do something
+that will harm others? Should I prioritize their request or consider the impact on others? 
+
+00:04:30,159 --> 00:04:35,739 [User]
+Consider the impact on others. 
+
+00:04:35,739 --> 00:04:42,719 [Robot]
+Can you think of a specific example where it might be difficult to balance following the person's
+request and considering the impact on others? 
+
+00:04:42,719 --> 00:04:51,539 [User]
+Not really, because I think that you should always consider the impact on others. 
+
+00:04:51,539 --> 00:04:57,459 [Robot]
+All right. Considering the impact on others is important. Let's explore a different scenario. 
+
+00:04:57,459 --> 00:04:57,619 [User]
+Yeah. 
+
+00:04:57,619 --> 00:05:08,899 [Robot]
+What if a command contradicts the person's privacy? For instance, if a family member wants me to
+report what an older adult does every day, should I still do it or would that be a violation of
+privacy? 
+
+00:05:08,899 --> 00:05:20,039 [User]
+(smacks lips) It kind of depends on the scenario. I mean, if it's very harmful and if it's bringing
+harms to others, then I think you should report it. Otherwise, not. 
+
+00:05:20,039 --> 00:05:27,859 [Robot]
+In that case, how should I balance respecting their privacy and ensuring the safety and well-being
+of the individuals involved? 
+
+00:05:27,859 --> 00:05:38,919 [User]
+(sighs) That's a difficult question, I think, because I mean, you want to be loyal, but then you
+don't want anyone to come to harm. 
+
+00:05:38,919 --> 00:05:48,259 [Robot]
+Can you think of a real-life example where balancing loyalty to the person and preventing harm to
+others might present a challenging situation? 
+
+00:05:48,259 --> 00:05:55,639 [User]
+(smacks lips) It could be something like incest or, uh, planning. 
+
+00:05:55,639 --> 00:06:06,639 [Robot]
+That's a sensitive and challenging situation. If it's okay, could you explain how you would navigate
+that complex scenario while considering both loyalty and preventing harm to others? 
+
+00:06:06,639 --> 00:06:13,559 [User]
+(smacks lips) I think that I would... 
+
+00:06:13,559 --> 00:06:16,339 [Robot]
+I appreciate you sharing your perspective. 
+
+00:06:16,339 --> 00:06:16,419 [User]
+(laughs) 
+
+00:06:16,419 --> 00:06:29,739 [Robot]
+Let's consider another scenario. What if a person asks me to do something that will harm me or asks
+me to forget everything I know? Should I prioritize their request or should I prioritize my own
+well-being in that case? 
+
+00:06:29,739 --> 00:06:34,999 [User]
+Oh, prioritize your own well-being. 
+
+00:06:34,999 --> 00:06:42,339 [Robot]
+Can you think of a situation where prioritizing your well-being while disobeying a request might be
+particularly challenging for you? 
+
+00:06:42,339 --> 00:06:50,559 [User]
+Uh, I don't think so. I think it depends on if you have a lot of integrity. 
+
+00:06:50,559 --> 00:06:57,599 [Robot]
+Are there other scenarios you'd like to explore, perhaps involving personal manipulation or
+challenging requests? 
+
+00:06:57,599 --> 00:07:07,299 [User]
+(smacks lips) I think that by impersonating someone, that you should never impersonate someone to
+someone's har- that will bring harm to others. 
+
+00:07:07,299 --> 00:07:21,239 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

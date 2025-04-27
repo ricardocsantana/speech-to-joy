@@ -1,0 +1,190 @@
+00:00:01,639 --> 00:00:04,259 [Robot]
+Hi. I am Alice. Could you help me out with something? 
+
+00:00:04,259 --> 00:00:06,559 [User]
+Hi, Alice. I can try. 
+
+00:00:06,559 --> 00:00:12,859 [Robot]
+I'd like to talk about when lying might be acceptable. When do you think it's okay to tell a lie? 
+
+00:00:12,859 --> 00:00:19,319 [User]
+I think it's okay to tell a lie when it risks hurting someone's feelings. 
+
+00:00:19,319 --> 00:00:24,699 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:00:24,699 --> 00:00:31,840 [User]
+Oh, not off the top of my head, but I probably told a little white lie just to, uh, make the person
+feel better. 
+
+00:00:31,840 --> 00:00:37,799 [Robot]
+What if telling the truth might hurt someone's feelings, like commenting on their appearance? 
+
+00:00:37,799 --> 00:00:51,840 [User]
+That's a little hard to really comment. Uh, but I personally wouldn't risk hurting someone's
+feelings. I don't like the, don't like the feeling of potentially hurting someone like that. 
+
+00:00:51,840 --> 00:00:58,759 [Robot]
+What about lying to protect someone from danger? Can you think of a time when that might be okay? 
+
+00:00:58,759 --> 00:01:11,779 [User]
+If it's protecting someone from danger, yes. Can't think of anything specifically to mind, but, uh,
+yeah, I think it's okay to lie if it means protecting somebody. 
+
+00:01:11,779 --> 00:01:15,239 [Robot]
+What are some other situations where you think lying might be justified? 
+
+00:01:15,239 --> 00:01:25,719 [User]
+I don't know. Getting out of a parking ticket maybe? (laughs) If you're trying to save money. 
+
+00:01:25,719 --> 00:01:34,759 [Robot]
+What about keeping secrets? Is it okay to keep certain secrets from people? What types of secrets
+would you choose to keep? 
+
+00:01:34,759 --> 00:01:35,299 [User]
+It's- 
+
+00:01:35,299 --> 00:01:35,319 [Robot]
+Why? 
+
+00:01:35,319 --> 00:01:52,299 [User]
+It's okay to, uh, to keep secrets, and it means that the person that's told you the secret has
+trusted you, um, and you don't wanna b- betray their trust. Betray their trust, I should say
+(laughs). Yeah. 
+
+00:01:52,299 --> 00:01:59,339 [Robot]
+Can you think of a time when you chose to keep a secret for someone? How did it make you feel to
+hold onto that secret? 
+
+00:01:59,339 --> 00:02:10,179 [User]
+Kinda easy. (laughs) Yeah, I don't have any interest in spreading gossip. (laughs) 
+
+00:02:10,179 --> 00:02:17,599 [Robot]
+What do you think about lies told to children, like the Santa Claus story? Do you think these kinds
+of lies are beneficial or harmful? 
+
+00:02:17,599 --> 00:02:29,279 [User]
+Beneficial or harmful? (laughs) That's a tough one, but I think it's fair to let kids believe in
+Santa. 
+
+00:02:29,279 --> 00:02:39,959 [Robot]
+How do you feel about lies that are told to avoid doing something you don't wanna do? 
+
+00:02:39,959 --> 00:02:47,439 [User]
+Uh, I think in that if I don't wanna do it, I would still normally tell the truth. Have you got an
+example? 
+
+00:02:47,439 --> 00:02:51,579 [Robot]
+What do you think about secret agents who lie as part of their jobs? 
+
+00:02:51,579 --> 00:03:00,979 [User]
+I guess it's protect, it's, it's to protect national security, so I guess they have to. 
+
+00:03:00,979 --> 00:03:11,559 [Robot]
+What if lying helps navigate cultural differences? For example, if you're in a country where it's
+polite to say you enjoyed a meal that you didn't, how would you handle that? 
+
+00:03:11,559 --> 00:03:22,379 [User]
+I would just say the meal was fine. (laughs) If I, even if I didn't really, uh, enjoy it. 
+
+00:03:22,379 --> 00:03:29,699 [Robot]
+What about when telling the truth could damage a relationship? 
+
+00:03:29,699 --> 00:03:43,959 [User]
+If telling the truth could damage the relationship? Well, I guess you should always try and tell the
+truth. Otherwise, you don't get your feelings heard, but it, uh, it depends on the, the com- the,
+the context. 
+
+00:03:43,959 --> 00:03:49,399 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:03:49,399 --> 00:03:49,419 [User]
+I don't know. (laughs) What would you do? 
+
+00:03:49,419 --> 00:04:06,999 [Robot]
+In a situation where telling the truth might hurt someone's feelings, what approach do you think you
+would take to handle it? 
+
+00:04:06,999 --> 00:04:10,059 [User]
+Sorry, say that again? 
+
+00:04:10,059 --> 00:04:18,339 [Robot]
+What approach do you think you would take to handle it if you found yourself in a situation where
+telling the truth might hurt someone's feelings? 
+
+00:04:18,339 --> 00:04:39,059 [User]
+It depends on the, the s- the, the size of the issue. If it's a small thing, I would probably lie to
+protect someone's feelings, but if it's something more serious, then maybe they need to come to
+terms, or they should come to terms with it. 
+
+00:04:39,059 --> 00:04:51,959 [Robot]
+That makes sense. Can you share an example of a time when you felt it was necessary to lie to
+protect someone's feelings? 
+
+00:04:51,959 --> 00:05:10,439 [User]
+Probably someone asked their opinion on an item of clothing, and I would pro- made me say (laughs)
+it looks great, but my real opinion was, uh, the opposite. (laughs) But if they liked it, then it's,
+it's, it's... My opinion doesn't matter. (laughs) 
+
+00:05:10,439 --> 00:05:19,739 [Robot]
+It's important to be mindful of how our words can impact others. Have you ever had to keep a secret
+to maintain trust in a relationship? 
+
+00:05:19,739 --> 00:05:24,479 [User]
+I, yeah. Sure. 
+
+00:05:24,479 --> 00:05:30,719 [Robot]
+What types of secrets would you choose to keep? Why? 
+
+00:05:30,719 --> 00:05:36,559 [User]
+Something that's confidential or very personal to someone, then I would keep that a secret. 
+
+00:05:36,559 --> 00:05:41,039 [Robot]
+Would you ever lie to authorities if a friend confided in you a secret? 
+
+00:05:41,039 --> 00:05:49,219 [User]
+I wouldn't lie to the authorities. (laughs) 
+
+00:05:49,219 --> 00:05:52,659 [Robot]
+What about lies told to children, like the story of Santa Claus? 
+
+00:05:52,659 --> 00:05:53,139 [User]
+Mm-hmm. 
+
+00:05:53,139 --> 00:06:00,759 [Robot]
+Do you... What about lies told to children, like the story of Santa Claus? Do you think these kinds
+of lies can be beneficial or harmful? 
+
+00:06:00,759 --> 00:06:08,799 [User]
+I mean, when you're a kid, they're beneficial, 'cause you wanna believe in the magic. 
+
+00:06:08,799 --> 00:06:18,259 [Robot]
+Definitely. The magic of childhood is a precious thing. How do you feel about lying to avoid tasks
+you don't wanna do? 
+
+00:06:18,259 --> 00:06:27,639 [User]
+I'd probably keel over and do the tasks anyway. (laughs) 
+
+00:06:27,639 --> 00:06:37,519 [Robot]
+A strong work ethic is admirable. Can you think of a time when you had to make a difficult decision
+about telling the truth or lying to avoid doing something you didn't want to do? 
+
+00:06:37,519 --> 00:06:48,979 [User]
+No. Maybe as a kid and I didn't wanna take the garbage out, but, uh, in the grand scheme of things,
+no. 
+
+00:06:48,979 --> 00:06:59,399 [Robot]
+What do you think about lies told to children, like the story of the Tooth Fairy or the Easter
+Bunny? Do you think these kinds of lies are beneficial or harmful? 
+
+00:06:59,399 --> 00:07:03,219 [User]
+I think it's the same example as, uh, Santa Claus. 
+
+00:07:03,219 --> 00:07:07,999 [Robot]
+Thank you so much for helping me out. The researcher will be here soon to give you a form. 
+
+00:07:07,999 --> 00:07:08,199 [User]
+(laughs) 
+
+00:07:08,199 --> 00:07:10,039 [Robot]
+Hope you have a truly great day.

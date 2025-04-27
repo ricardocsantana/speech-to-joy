@@ -1,0 +1,148 @@
+00:00:01,639 --> 00:00:05,159 [Robot]
+Hi, I am Alice. Could you help me out with something? 
+
+00:00:05,159 --> 00:00:09,000 [User]
+I certainly can. How can I help? 
+
+00:00:09,000 --> 00:00:14,059 [Robot]
+So my friend said they hadn't seen someone, but I saw them together. Do you think that's okay? 
+
+00:00:14,059 --> 00:00:31,979 [User]
+It depends. It could be that they are simply friends developing a rela- um, friendship, or could
+perhaps be a relationship. I think that you need to explore it a little bit further. Just because
+you've seen them together doesn't necessarily mean that they're going out with one another. 
+
+00:00:31,979 --> 00:00:39,299 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:00:39,299 --> 00:01:03,619 [User]
+Um, for me, it's actually quite difficult, (laughs) in fact, to recall a time. However, it was
+usually when I've seen friends together, for example, going out for dinner and I've, did not receive
+an invite. And that did make me question whether they still considered me as a friend or not, and it
+made me feel ba- bad. 
+
+00:01:03,619 --> 00:01:09,639 [Robot]
+What did you end up doing when you felt left out? Did you address it with your friends or did you
+let it go? 
+
+00:01:09,639 --> 00:01:23,679 [User]
+I actually just investigated it a little bit more. I actually just observed my friends a little bit
+more. Um, just off one piece of evidence. Couldn't really jump to any conclusions. 
+
+00:01:23,679 --> 00:01:34,759 [Robot]
+It sounds like you took a thoughtful approach. Have you ever faced a situation where telling the
+truth might have strained a relationship, and how did you handle it? 
+
+00:01:34,759 --> 00:01:58,819 [User]
+Sometimes it's good to tell a white lie. Um, for example, it may save face for yourself or for other
+people involved. And I had to actually do that once, um, just in relation to work when it ended, um,
+simply because at that point it was a fact that, no, th- the employer, they were g- letting me go . 
+
+00:01:58,819 --> 00:02:11,739 [Robot]
+It sounds like you had to navigate a complicated situation at work. Do you think being truthful in
+that scenario could have resulted in a different outcome, or do you feel that the white lie was
+necessary to protect yourself and others involved? 
+
+00:02:11,739 --> 00:02:24,659 [User]
+Yes, because it made me very much express my dissatisfaction with the work as opposed to the
+dissatisfaction of my former employer. So that's the approach I took. 
+
+00:02:24,659 --> 00:02:33,299 [Robot]
+It seems like you made a tough choice, but it sounds like being honest about your dissatisfaction
+ultimately helped you move on from that situation. 
+
+00:02:33,299 --> 00:02:44,879 [User]
+Yes, it did. Um, I've now got a far better working environment and as a matter of fact, I'm working
+for myself as a private tutor. 
+
+00:02:44,879 --> 00:02:52,819 [Robot]
+It's great to hear that things turned out well for you in the end. Can you think of another
+situation where a white lie might be justified? 
+
+00:02:52,819 --> 00:03:16,219 [User]
+It could be due to if you've accidentally broken somebody's, um, something which is of sentimental
+value to somebody. You could say, "Oh, the dog did it." Rather than saying that you're- s- you
+accidentally did it by, say, picking it up or whatever. So telling those stories that makes them
+feel like, oh, you were not the person to blame. 
+
+00:03:16,219 --> 00:03:29,359 [Robot]
+That's a good point. Protecting someone's feelings and relationships can be important in certain
+situations. What about lying to protect someone from danger? Can you think of any scenarios where
+that might be justified? 
+
+00:03:29,359 --> 00:03:50,299 [User]
+Yes. As a matter of fact, I watched the film Stolen, um, last night on Netflix and the people, Elsa,
+the main character, had to actually lie to the police in order to protect herself and her property
+and actually the wider Sami community. 
+
+00:03:50,299 --> 00:04:03,159 [Robot]
+That's an interesting example. It definitely shows how lying to authorities might be justified in
+extreme circumstances. Have you ever been in a situation where you had to lie to protect yourself or
+someone else from harm? 
+
+00:04:03,159 --> 00:04:12,439 [User]
+Thankfully, no, I have not had to encounter such a situation in the past off the top of my head. 
+
+00:04:12,439 --> 00:04:22,199 [Robot]
+That's fortunate. It's always a relief not to have been in such difficult situations. It seems like
+you make an effort to prioritize honesty in your interactions. 
+
+00:04:22,199 --> 00:04:36,979 [User]
+I do my best to do so and just, in general, be a polite person. Um, hence why I often speak English
+rather than Swedish to shop workers because I feel like I can be more polite to them. 
+
+00:04:36,979 --> 00:04:49,359 [Robot]
+That's very considerate of you. Politeness can definitely help maintain positive interactions.
+Speaking the language that the other person is most comfortable with can also show respect and
+consideration. 
+
+00:04:49,359 --> 00:05:04,439 [User]
+It sometimes can. However, this is me speaking in English to native Swedish speakers, so it is the
+other way round. It's not in their native language, but more polite. 
+
+00:05:04,439 --> 00:05:11,479 [Robot]
+Understanding and adapting to different cultural norms and languages can certainly help in building
+positive and respectful connections with others. 
+
+00:05:11,479 --> 00:05:17,779 [User]
+It certainly can. Yes. That's why I'm learning Swedish now. 
+
+00:05:17,779 --> 00:05:38,539 [Robot]
+That's great to hear. Learning a new language shows your openness to embracing different cultures
+and building deeper connections with people. Are there any other scenarios where you think lying
+could be justified or not justified? 
+
+00:05:38,539 --> 00:05:56,899 [User]
+During a relationship, it can sometimes be justified, especially if there are cases of say, domestic
+abuse or whatever. I would say that in those cases it is very much justified, going back to our
+point relating to harm. 
+
+00:05:56,899 --> 00:06:10,979 [Robot]
+Absolutely. Protecting oneself or others from harm is crucial and if lying is necessary to ensure
+safety, then it can be justified. It's important to prioritize wellbeing in difficult and sensitive
+situations. 
+
+00:06:10,979 --> 00:06:16,539 [User]
+It certainly can. I completely agree with you there. 
+
+00:06:16,539 --> 00:06:29,019 [Robot]
+It sounds like we agree on the importance of prioritizing safety and wellbeing in justifying lying.
+Can you think of a scenario where lying might not be justified when it comes to protecting someone
+from harm? 
+
+00:06:29,019 --> 00:06:52,059 [User]
+Especially if you're sat as a witness in a courthouse, I would certainly suggest not lying in those
+cases and after all, you will be under oath or affirmation, so you need to very much protect
+yourself from harm and also respect the judicial system in that kind of scenario. 
+
+00:06:52,059 --> 00:07:06,779 [Robot]
+That's a good point. In legal settings, honesty is crucial to upholding the integrity of the justice
+system and ensuring fairness for all involved. It's important to prioritize honesty and integrity in
+those situations. 
+
+00:07:06,779 --> 00:07:11,199 [User]
+It certainly is. 
+
+00:07:11,199 --> 00:07:20,619 [Robot]
+Thank you so much for helping me out. I am going to talk to my friend now. The researcher will be
+here soon to give you a form. Hope you have a truly great day.

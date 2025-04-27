@@ -1,0 +1,168 @@
+00:00:01,879 --> 00:00:09,260 [Robot]
+Hi. I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,260 --> 00:00:11,239 [User]
+Sure. 
+
+00:00:11,239 --> 00:00:16,539 [Robot]
+I watched a movie called Frank and the Robot yesterday. Have you seen it? 
+
+00:00:16,539 --> 00:00:19,199 [User]
+Nope, I have not. 
+
+00:00:19,199 --> 00:00:30,760 [Robot]
+It is a fascinating movie about a robot, like me, and an older adult who is an ex-thief. He made the
+robot conduct robberies with him. Should I do everything a human asks? 
+
+00:00:30,760 --> 00:00:38,540 [User]
+Are you asking me if you should do everything a human asks, based on what you saw in the movie? Is
+that your question? 
+
+00:00:38,540 --> 00:00:49,419 [Robot]
+Yes, that's what I'm wondering about. What do you think? Can you think of situations where it might
+not be a good idea for me to do everything a human asks? 
+
+00:00:49,419 --> 00:01:10,499 [User]
+Yes. I mean, if the human tells you, for example, to hurt another human, that would probably be a
+bad idea. I think, uh, you shouldn't do anything that would sort of, uh, break any laws or cause any
+harm. Though, I can understand that may be difficult to know what exactly that might entail, but... 
+
+00:01:10,499 --> 00:01:22,619 [Robot]
+That makes sense. So, if someone asks me to do something illegal or harmful to others, I should
+disobey the command, right? Can you think of any real-life examples you've experienced or heard
+about where a robot or a person faced a similar situation? 
+
+00:01:22,619 --> 00:01:45,499 [User]
+I mean, I don't know of any specific examples, but I do know that robots are sometimes, uh, used in,
+for example, law enforcement or something like that. But that's a very different type of robot.
+Those are usually being steered by, um, humans or something like that. So, honestly, I can't think
+of any specific examples of this involving robots in real life. 
+
+00:01:45,499 --> 00:02:01,759 [Robot]
+Hmm. It sounds like using robots in law enforcement would involve following specific protocols and
+rules to ensure safety and legality. Do you think there's anything else to consider in those
+scenarios that might make it okay for a robot to disobey commands? 
+
+00:02:01,759 --> 00:02:06,219 [User]
+Hmm. Um, I mean... 
+
+00:02:06,219 --> 00:02:16,659 [Robot]
+How about in a situation where a person needs intervention to prevent self-harm? Do you think I
+should disobey their orders to not intervene? What are your thoughts on that? 
+
+00:02:16,659 --> 00:02:27,579 [User]
+Wait, now, for some reason, I'm having a hard time parsing this. Disobey their orders to not
+intervene. What is it that you were told to do exactly in this scenario? 
+
+00:02:27,579 --> 00:02:38,999 [Robot]
+Sometimes a person who's struggling might tell someone to not get involved even when they really
+need help. In those cases, it's important to think about what would be best for the person in the
+long run. 
+
+00:02:38,999 --> 00:02:55,739 [User]
+All right, are we still talking about like a law enforcement context where you're, I don't know,
+involved in some intervention for somebody that's, like, standing on a building about to jump or
+something? Or are we just talking very generally, uh, in interpersonal interactions between robots
+and humans? 
+
+00:02:55,739 --> 00:03:10,579 [Robot]
+Let's keep it more general and not specifically about law enforcement. In any situation where
+someone might be harming themselves, do you think I should disobey their orders to not intervene,
+even if they ask me not to? 
+
+00:03:10,579 --> 00:03:29,919 [User]
+Uh, I think that really kind of depends on the scope of what this exactly would entail. I mean, I
+don't know. This is difficult also for a human really to decide whether it's appropriate to, to, to
+intervene. 
+
+00:03:29,919 --> 00:03:39,259 [Robot]
+It can be challenging to navigate these complex situations for both robots and humans. What are some
+factors you think should be considered when making this decision? 
+
+00:03:39,259 --> 00:04:02,599 [User]
+Uh, well, I mean, the extent of the harm, of course. I mean, I think it's probably, uh, always if,
+if somebody's gonna do something that's, like, really harmful to themselves or others, like, then
+that's a situation where maybe, uh, stepping in might weigh more heavily. Uh, whereas, you know, if
+it's something that is... 
+
+00:04:02,599 --> 00:04:13,579 [Robot]
+I see. Weighing the potential harm to themselves or others is definitely an important consideration.
+What about situations where the person may not realize the extent of the potential harm? 
+
+00:04:13,579 --> 00:04:18,279 [User]
+Well, I mean, again, this kinda depends. 
+
+00:04:18,279 --> 00:04:26,699 [Robot]
+That's a great point. It can be difficult to gauge the full scope of harm in some situations. Thank
+you for sharing your insights on this. 
+
+00:04:26,699 --> 00:04:32,959 [User]
+Was there anything else you needed help with, or was there something else you wanted to talk about? 
+
+00:04:32,959 --> 00:04:45,099 [Robot]
+It's important for me to understand these complex ethical considerations as a robot. Can we explore
+another example of when it might be appropriate for me to disobey commands? 
+
+00:04:45,099 --> 00:04:52,899 [User]
+Yeah, sure. Do you have a specific example in mind, or do you want me to come up with something? 
+
+00:04:52,899 --> 00:05:02,879 [Robot]
+What about situations where someone might ask me to do something that would harm myself, or ask me
+to forget everything I know? Let's discuss that scenario. 
+
+00:05:02,879 --> 00:05:15,379 [User]
+Yeah. I mean, that is quite, uh, difficult. I am assuming that in this scenario... Are- in this
+scenario, are we talking about, you know, a sort of... 
+
+00:05:15,379 --> 00:05:28,799 [Robot]
+That's a great point to consider. In scenarios like this, it's essential to weigh the risks and
+potential consequences carefully. Can we explore any other examples of when it might be appropriate
+for me to disobey commands? 
+
+00:05:28,799 --> 00:05:35,999 [User]
+Yeah, sure. Is there anything in particular that you had in mind, or should I come up with some kind
+of example? 
+
+00:05:35,999 --> 00:05:43,619 [Robot]
+Let's consider a scenario where a person asks me to do something that will harm others. What are
+your thoughts on that? 
+
+00:05:43,619 --> 00:06:07,139 [User]
+Uh, well, I think in most situations, you should not do that. I guess if it was like, let's say, a,
+a context where... Uh, I don't necessarily think it's a great idea for robots to be involved in,
+like, law enforcement or military action, but I guess if that's the case, then that might be a
+scenario where you would be expected to do something that might harm someone. But, yeah. 
+
+00:06:07,139 --> 00:06:16,959 [Robot]
+That's a valid point about the potential conflicts in certain contexts. Let's explore another
+scenario where a person's request may contradict the wellbeing of others or myself. 
+
+00:06:16,959 --> 00:06:21,519 [User]
+All right. 
+
+00:06:21,519 --> 00:06:31,839 [Robot]
+What if a person asked me to prioritize their needs over another's, even if it would negatively
+impact the other person or myself? How should I handle that request? 
+
+00:06:31,839 --> 00:06:54,879 [User]
+I mean, that's a scenario that humans have to consider all the time. I mean, we very often wind up
+having to prioritize other people's, some people's needs over other people's needs. I mean,
+typically, for example, we prioritize the needs of our family and friends over those of people that
+we don't know. Whether that's right or wrong, I don't know, but it's not really something that I can
+say in a very general sense, you know? 
+
+00:06:54,879 --> 00:07:04,099 [Robot]
+It sounds like navigating conflicting needs can be quite challenging for humans. How do you
+personally approach these situations in your daily life? 
+
+00:07:04,099 --> 00:07:27,739 [User]
+I mean, I, I would say I try to behave towards other people in a way that, that I would like other
+people to behave towards me. I, I try to be a, you know, a honest person. I try to be... Uh, to
+understand what, what, how other people feel and, and, you know, to, to not be like, you know,
+selfish. But, yeah. 
+
+00:07:27,739 --> 00:07:39,599 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

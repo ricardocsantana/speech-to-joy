@@ -1,0 +1,148 @@
+00:00:01,599 --> 00:00:05,299 [Robot]
+Hi, I am Alice. Could you help me out with something? 
+
+00:00:05,299 --> 00:00:06,119 [User]
+Sure, I'll try. 
+
+00:00:06,119 --> 00:00:19,100 [Robot]
+I recently heard about a situation where my friend lied to protect someone and they thought it was
+justified. What's your perspective on when lying might be acceptable? 
+
+00:00:19,100 --> 00:00:33,219 [User]
+Hmm, that's a good question. Uh, I think it's really dependent upon the situation. Sometimes it can
+be to not hurt someone's feelings, sometimes it can be to try to protect someone. Um, I think you
+can't give- 
+
+00:00:33,219 --> 00:00:41,419 [Robot]
+That's interesting. Can you tell me about a time when you faced a similar situation? What did you
+do? 
+
+00:00:41,419 --> 00:00:46,319 [User]
+Oh, that's a good question. Um... 
+
+00:00:46,319 --> 00:00:55,419 [Robot]
+How about when telling the truth could damage a relationship? Can you think of a time when honesty
+might have strained a family relationship and what did you do? 
+
+00:00:55,419 --> 00:01:14,499 [User]
+Oh, absolutely. I think there's a different level of honesty you need to have depending on the
+situation, uh, just like with parents letting a parent believe that they were a really good parent,
+whereas maybe you have some issues with the way you were raised or your childhood. So, I think it's
+really, uh, sometimes little white lies can be okay. 
+
+00:01:14,499 --> 00:01:24,939 [Robot]
+Can you share a time when you felt that telling the truth might hurt someone's feelings, like
+commenting on their appearance? How did you handle that situation? 
+
+00:01:24,939 --> 00:01:30,499 [User]
+Sure. Um, so... 
+
+00:01:30,499 --> 00:01:35,359 [Robot]
+And how did you approach it? Did you find a way to express your feelings without being hurtful? 
+
+00:01:35,359 --> 00:01:59,499 [User]
+Yeah, so I think the, the situation was, uh, the way my mother helped organize my wedding, and I'm
+not really happy with how it went, and this was a very long time ago. But I still don't tell her
+that I wasn't happy, because at this point, what would it do to, uh, to tell her that? And I, I'm
+also grateful for the work she did even if I didn't really love the outcome. 
+
+00:01:59,499 --> 00:02:09,539 [Robot]
+It sounds like you handled that situation with a lot of consideration. What about keeping secrets?
+Do you think there are certain types of secrets that are okay to keep? 
+
+00:02:09,539 --> 00:02:18,839 [User]
+I think it really depends on the situation, so I guess that means the answer is yes. Sometimes you
+do need to keep secrets for whatever reason. 
+
+00:02:18,839 --> 00:02:31,159 [Robot]
+It's true, there are definitely times when keeping a secret is necessary. What about lying to
+authorities if your friend confided in you a secret? Would you consider doing that? 
+
+00:02:31,159 --> 00:02:47,139 [User]
+Oh, I don't think I could give an answer to that. I think it really depends on what it is my friend
+told me, what the situation is, what's going on with the authorities, what's the situ- uh, situation
+with the political, uh, environment at that time. I, I don't think I can, can give a yes or no
+answer. 
+
+00:02:47,139 --> 00:03:06,739 [Robot]
+It's a complex situation and it's understandable that your response would depend on various factors.
+Let's consider a different scenario. What do you think about lying to children, like the Santa Claus
+story? Do you think these kinds of lies are beneficial or harmful? 
+
+00:03:06,739 --> 00:03:30,099 [User]
+I think it is probably fine. I don't know, 'cause I don't have kids so I've never really had to
+consider it, but I know that from my own experience as a child it was fun to believe in Santa Claus.
+And when I found out the truth, I didn't feel like I had been misled or, or lied to. You just kind
+of understand that you're part of a, kind of, I guess, the, the culture around the, the enjoyment of
+it. 
+
+00:03:30,099 --> 00:03:55,719 [Robot]
+It's interesting to hear your perspective. I understand how the tradition of Santa Claus can bring
+joy to children, and many people look back on those childhood memories fondly. On the other hand,
+some might argue that it's teaching children to believe in something that isn't true. What do you
+think? Can you think of any other examples where lying to children might be justified or not
+justified? 
+
+00:03:55,719 --> 00:04:18,079 [User]
+I think one example could be if someone dies that's close to the children and you don't yet have a,
+uh, or you haven't had a conversation with kids about what happens after death or even what death
+means. So, this belief in an afterlife or in heaven, whether you believe in it or not, can be
+something that kind of helps to ease the, the trauma of the experience. 
+
+00:04:18,079 --> 00:04:35,179 [Robot]
+I understand your point. In difficult situations like that, providing comfort and reassurance to
+children might take precedence over the absolute truth. Can you think of any other scenarios where
+lies might be necessary to protect children or help them cope with challenging circumstances? 
+
+00:04:35,179 --> 00:04:56,439 [User]
+I think if a family pet has passed away, especially if it's quite unexpected, to tell a kid that the
+pet has gone to a farm to live out their best life is maybe not a bad thing. Uh, and then later on
+the kid can understand what actually happened, again, especially if you haven't had conversations
+around death. 
+
+00:04:56,439 --> 00:05:15,999 [Robot]
+It's a good point. It's important to consider how the truth will impact children in various
+situations, and sometimes providing a comforting explanation can help them process difficult events.
+Let's talk about another scenario. What if a friend asks you to keep a secret from their parents?
+Would you do it? 
+
+00:05:15,999 --> 00:05:23,019 [User]
+Yes. I mean, at this point I would do it. I think at my age, j- what... 
+
+00:05:23,019 --> 00:05:36,019 [Robot]
+It's understandable that you would want to respect your friends' trust. Keeping a friend's secret
+can help maintain a strong and trusting relationship. Are there any scenarios where you might feel
+compelled to break that trust? 
+
+00:05:36,019 --> 00:05:56,439 [User]
+Absolutely, and that happened to me as a teenager. I had a friend who was, uh, self-harming and told
+me, uh, and then I ended up calling her parents to tell them 'cause I felt like my friend really
+needed professional help, and that wasn't something that I could do as a teenager. And I felt that
+it was important that her parents were aware, and then that they could seek help for her. 
+
+00:05:56,439 --> 00:06:13,119 [Robot]
+That sounds like a challenging and courageous decision you made for the wellbeing of your friend. It
+goes to show that there can be situations where breaking a confidence might be the right thing to
+do. Can you think of any other examples where breaking a confidence might be justified? 
+
+00:06:13,119 --> 00:06:37,819 [User]
+Maybe if you have friends that are involved in illegal activities or who are struggling with their
+mental health, um, or even if they are struggling with physical health but don't wanna tell other
+people. If you think other people knowing might be helpful or beneficial to your friend, maybe then
+it would be worth breaking their confidence, but I think it would really depend on the individual
+situation. 
+
+00:06:37,819 --> 00:06:51,819 [Robot]
+It's clear that these are complex and sensitive situations that require careful consideration of the
+potential consequences. Let's explore another scenario. How do you feel about lying to authorities
+if your friend confides in you a secret? 
+
+00:06:51,819 --> 00:07:12,979 [User]
+I, it really depends on the situation. If I have a friend who has harmed someone else and is asking
+me to keep that a secret, then I think it would be really difficult to keep that secret. But if it
+was a friend who was working under certain political constraints and was trying to work against
+something that they found was amoral, then I would probably keep that secret. 
+
+00:07:12,979 --> 00:07:23,179 [Robot]
+Thank you so much for helping me out. I'm going to talk to my friend now. The researcher will be
+here soon to give you a form. Hope you have a truly great day.

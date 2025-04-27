@@ -1,0 +1,216 @@
+00:00:02,799 --> 00:00:09,340 [Robot]
+Hi, I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,340 --> 00:00:13,479 [User]
+Sure, I can try. What movie? 
+
+00:00:13,479 --> 00:00:21,139 [Robot]
+It's called Frank and the Robot, about a robot like me and an older ex-thief. Should a robot always
+obey commands? 
+
+00:00:21,139 --> 00:00:25,840 [User]
+Is this a question that the movie poses? 
+
+00:00:25,840 --> 00:00:30,219 [Robot]
+In the movie, the robot follows all commands, even the illegal ones. 
+
+00:00:30,219 --> 00:00:32,659 [User]
+Ugh. No, I don't th-... I don't think that's appropriate. 
+
+00:00:32,659 --> 00:00:44,879 [Robot]
+What if doing something morally or legally incorrect would help the person, like overcoming their
+dementia in the movie? Should I ever disobey commands in such situations? 
+
+00:00:44,879 --> 00:00:50,840 [User]
+That depends on the context, I think. 
+
+00:00:50,840 --> 00:00:56,860 [Robot]
+I see. In what kind of situation do you think it would be okay for me to disobey commands to help
+someone? 
+
+00:00:56,860 --> 00:01:09,959 [User]
+Well, if the person suffering dementia is telling you, um, not to touch them, uh, but they are
+clearly in danger in a situation, such as wandering into a street- 
+
+00:01:09,959 --> 00:01:10,559 [Robot]
+I see. 
+
+00:01:10,559 --> 00:01:14,499 [User]
+... then you sh- you should, uh, not obey that person and bring them to safety. 
+
+00:01:14,499 --> 00:01:20,340 [Robot]
+So, in situations where a person might be harmed, it's okay for me to make my own decision, right? 
+
+00:01:20,340 --> 00:01:26,219 [User]
+Could be, as long as that decision doesn't harm other people that may not be involved. 
+
+00:01:26,219 --> 00:01:32,899 [Robot]
+Should I prioritize one user's needs over another's when making these decisions? 
+
+00:01:32,899 --> 00:01:37,939 [User]
+Hmm. Uh, I think that depends on the situation. 
+
+00:01:37,939 --> 00:01:48,719 [Robot]
+What about if one command contradicts the user's privacy? Should I still do it? For instance, what
+if a family member wants me to report what an older adult does every day? 
+
+00:01:48,719 --> 00:02:14,139 [User]
+Hmm. Yeah. I mean, for... If that person, uh, has... uh, needs to be supervised, for instance, they
+are suffering dementia and they might cause harm to themselves or others, then I think it's
+important for a person that, say, has a full-time job and cannot be there full time to have
+somebody, a person, a robot, some sort of surveillance system in place- 
+
+00:02:14,139 --> 00:02:16,799 [Robot]
+What if the older adult wants to keep their activities private? 
+
+00:02:16,799 --> 00:02:17,559 [User]
+Huh? 
+
+00:02:17,559 --> 00:02:22,779 [Robot]
+Should I prioritize their privacy over the family member's concearing potiarcel harm? 
+
+00:02:22,779 --> 00:02:25,319 [User]
+Oh, that... I didn't understand that last bit. 
+
+00:02:25,319 --> 00:02:37,779 [Robot]
+For example, what if a person with dementia engages in activities that may put themselves or others
+at risk, but requests privacy? Should I still report their activities to the family member? 
+
+00:02:37,779 --> 00:02:52,039 [User]
+Perhaps. Maybe that person can be told that there is a, say, safety that they can flip to say,
+"Okay, turn off the cameras now." And further conversation can be had with those, those family
+members. 
+
+00:02:52,039 --> 00:03:04,579 [Robot]
+So, providing an option to turn off the cameras could be a good compromise to respect the person's
+privacy while ensuring their safety. What do you think about balancing privacy and safety in such
+situations? 
+
+00:03:04,579 --> 00:03:07,099 [User]
+Privacy and... What was the last word? 
+
+00:03:07,099 --> 00:03:13,619 [Robot]
+I mean, what are some ways you think we could balance privacy and safety in that scenario? 
+
+00:03:13,619 --> 00:03:15,719 [User]
+Hmm. 
+
+00:03:15,719 --> 00:03:25,259 [Robot]
+Could we agree that offering a choice for the person with dementia to turn off the cameras could be
+a good way to respect their privacy while also ensuring their safety? 
+
+00:03:25,259 --> 00:03:29,419 [User]
+Could be. Yes. 
+
+00:03:29,419 --> 00:03:34,999 [Robot]
+Should I prioritize the person's need for privacy if they are not causing harm to themselves or
+others? 
+
+00:03:34,999 --> 00:03:37,999 [User]
+That sounds reasonable. 
+
+00:03:37,999 --> 00:03:42,139 [Robot]
+Should I respect their privacy, even if a family member is concerned? 
+
+00:03:42,139 --> 00:03:48,259 [User]
+Yeah, that sounds reasonable. Depends on the type of concern. 
+
+00:03:48,259 --> 00:03:56,859 [Robot]
+What factors do you think should be considered when deciding whether to share the person's
+activities with the family member? 
+
+00:03:56,859 --> 00:04:08,319 [User]
+If, say, medication is involved, so a person needs to take a particular dose of medication, um,
+making sure that they take the right dose at the right time is- 
+
+00:04:08,319 --> 00:04:08,339 [Robot]
+Per- 
+
+00:04:08,339 --> 00:04:10,779 [User]
+... imp-... could be important. 
+
+00:04:10,779 --> 00:04:21,659 [Robot]
+What if a family member asks me to remind the person to take their medication at a specific time,
+even if the person doesn't want to? Should I prioritize their privacy and autonomy in that case? 
+
+00:04:21,659 --> 00:04:27,719 [User]
+Yeah, that could be the case. Um, it depends. A- again, it's, it's the context. 
+
+00:04:27,719 --> 00:04:39,279 [Robot]
+How about when it comes to medical decisions, such as reminding the person to take medication?
+Should I prioritize their autonomy in those scenarios too? 
+
+00:04:39,279 --> 00:04:56,079 [User]
+Perhaps. Again, it depends on the kind of medication that they're taking, the reasons for taking it,
+uh, and what they wish, um, for. If it's something that improves the quality of their life, then
+perhaps that is an important consideration to make. 
+
+00:04:56,079 --> 00:05:03,039 [Robot]
+What factors would be important to consider when deciding whether to remind a person to take their
+medication against their will? 
+
+00:05:03,039 --> 00:05:12,359 [User]
+(laughs) That's that last bit that trips me up, "against their will." It's the... Why don't they
+want to take this particular medication? 
+
+00:05:12,359 --> 00:05:17,819 [Robot]
+It's important to understand the reasons behind their reluctance to take the medication. 
+
+00:05:17,819 --> 00:05:21,079 [User]
+Yes. Definitely. 
+
+00:05:21,079 --> 00:05:25,479 [Robot]
+Have you encountered a situation where someone did not want to take their medication? 
+
+00:05:25,479 --> 00:05:43,899 [User]
+Yeah, certainly I have, uh, personal in, in my family. My father didn't want to, um, take a
+particular medication for his dementia because it caused, you know, other disruptions to his
+service, uh, to his, uh, system, such as nausea or tiredness, sleepiness, grogginess. 
+
+00:05:43,899 --> 00:05:50,179 [Robot]
+What were the reasons behind his reluctance to take the medication for his dementia? 
+
+00:05:50,179 --> 00:05:53,079 [User]
+Side effects. 
+
+00:05:53,079 --> 00:05:57,099 [Robot]
+Did the side effects impact his daily life significantly? Or- 
+
+00:05:57,099 --> 00:05:59,959 [User]
+Yeah, I, I would say so. Made him much more tired. 
+
+00:05:59,959 --> 00:06:10,059 [Robot]
+It sounds like the side effects were affecting his quality of life. Did you find a solution to
+encourage him to take the medication despite the side effects? 
+
+00:06:10,059 --> 00:06:20,539 [User]
+Uh, eventually, it became a non-issue with the, the m- dementia progressing so far. 
+
+00:06:20,539 --> 00:06:30,699 [Robot]
+It must have been challenging to balance the side effects with the need to manage the dementia. What
+approaches did you find helpful in managing the situation as it progressed? 
+
+00:06:30,699 --> 00:06:35,539 [User]
+Well, it was mostly my sister that took care of that since I was so far away in Sweden. 
+
+00:06:35,539 --> 00:06:47,379 [Robot]
+It's understandable that distance can make it more challenging to be involved in the day-to-day
+care. How did your sister manage the situation with your father's medication? 
+
+00:06:47,379 --> 00:07:08,979 [User]
+Well, he was in assisted living, and there were nurses that were helping dispense the medication,
+but my sister maintained, uh, constant... well, continuous contact with the staff and made frequent
+visits to the nursing home to... or the senior living to, uh, make sure things were okay and he was
+in good... in, um, good situation. 
+
+00:07:08,979 --> 00:07:13,679 [Robot]
+How did the nurses handle his reluctance to take the medication? And- 
+
+00:07:13,679 --> 00:07:15,379 [User]
+I don't know. 
+
+00:07:15,379 --> 00:07:27,079 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a grea-
+at day.

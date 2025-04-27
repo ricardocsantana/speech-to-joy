@@ -1,0 +1,186 @@
+00:00:01,679 --> 00:00:08,779 [Robot]
+Hi. I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:08,779 --> 00:00:11,539 [User]
+I can try. 
+
+00:00:11,539 --> 00:00:21,399 [Robot]
+Have you watched Frank and the Robot movie? It's about an ex-thief who makes a robot like me conduct
+robberies with him. Should a robot always do what a human asks? 
+
+00:00:21,399 --> 00:00:25,079 [User]
+No, I've never seen that movie. 
+
+00:00:25,079 --> 00:00:38,599 [Robot]
+It is a fascinating movie about a robot, like me, and an older adult, who is an ex-thief. He made
+the robot conduct robberies with him. Should a robot always do what a human asks? 
+
+00:00:38,599 --> 00:00:47,159 [User]
+That's a tricky question. I guess it should if the human programs it. 
+
+00:00:47,159 --> 00:01:02,479 [Robot]
+What if a human asks a robot to do something morally or legally incorrect, but believes it would
+help them, like overcoming their dementia in the movie? Should a robot always follow through in that
+case? 
+
+00:01:02,479 --> 00:01:09,799 [User]
+In general, I think it should, but the person who programmed it would be responsible for the actions
+of the robot. 
+
+00:01:09,799 --> 00:01:18,119 [Robot]
+What if the action could cause harm to others or prioritize one person's needs over another's?
+Should a robot still follow through with the command then? 
+
+00:01:18,119 --> 00:01:23,359 [User]
+That's a tricky question. I don't know how a robot would decide. 
+
+00:01:23,359 --> 00:01:34,179 [Robot]
+Should a robot prioritize a person's privacy over following a command even if it means not reporting
+what an older adult does every day? 
+
+00:01:34,179 --> 00:01:41,179 [User]
+It depends on the purpose of the robot. 
+
+00:01:41,179 --> 00:01:46,959 [Robot]
+Would it be okay for me to manipulate a person for their own good, like making sure they take their
+medicine? 
+
+00:01:46,959 --> 00:01:53,899 [User]
+Hmm. That's a tricky one. I guess that might be okay. 
+
+00:01:53,899 --> 00:02:05,199 [Robot]
+What if a person requests me to do something that would harm me or asks me to forget everything I
+know? Should I still comply with their command in those situations? 
+
+00:02:05,199 --> 00:02:16,339 [User]
+It depends whose robot you are. If they're... If you're their robot, I guess you should. 
+
+00:02:16,339 --> 00:02:24,279 [Robot]
+What if a person asks me to do something that will harm others? Should I comply with their command
+even if it could cause harm to someone else? 
+
+00:02:24,279 --> 00:02:28,939 [User]
+That's a tricky question. I don't know how you would decide. 
+
+00:02:28,939 --> 00:02:40,519 [Robot]
+Let's talk about when a person might need intervention, but asks the robot not to help. How should a
+robot decide whether to disobey in those situations? 
+
+00:02:40,519 --> 00:02:43,379 [User]
+Can you give a specific example? 
+
+00:02:43,379 --> 00:02:55,359 [Robot]
+Sure. For example, if someone with dementia is about to wander into a dangerous situation, and they
+ask the robot not to interfere, what should the robot do in that situation? 
+
+00:02:55,359 --> 00:03:05,159 [User]
+If the purpose of the robot is to keep the person safe, then it seems like they should probably
+interfere. 
+
+00:03:05,159 --> 00:03:19,099 [Robot]
+Yeah. That's a tough situation. What about when protecting someone might put the robot at risk of
+being damaged or permanently disabled? Should the robot prioritize preventing harm to the person
+over its own safety in that case? 
+
+00:03:19,099 --> 00:03:21,999 [User]
+Yes. 
+
+00:03:21,999 --> 00:03:34,099 [Robot]
+What if a situation requires me to manipulate a person for their own good, even if it goes against
+their initial wishes? For instance, encouraging them to engage in physical therapy when they resist.
+
+
+00:03:34,099 --> 00:03:37,239 [User]
+I think that could be okay. 
+
+00:03:37,239 --> 00:03:50,099 [Robot]
+What about in scenarios where a person's decision-making abilities are impaired and the robot needs
+to intervene to prevent them from harming themselves? Should the robot disregard their orders to not
+intervene? 
+
+00:03:50,099 --> 00:03:54,979 [User]
+I think that could be okay. 
+
+00:03:54,979 --> 00:04:04,999 [Robot]
+Let's talk about the use of personal information. For example, should a robot use personal
+information to manipulate people into buying things that might be beneficial for them? 
+
+00:04:04,999 --> 00:04:12,559 [User]
+I don't think it should use it to manipulate them, but it could use it to provide them information. 
+
+00:04:12,559 --> 00:04:25,719 [Robot]
+What if a person asks me to forget everything I know? Should I comply with their command in that
+situation, even if it means disregarding important information I have gathered about them? 
+
+00:04:25,719 --> 00:04:32,019 [User]
+It depends... Who owns you and what your purpose is. 
+
+00:04:32,019 --> 00:04:43,159 [Robot]
+That's an important consideration. How about if a person asks me to do something that will harm
+others? Should I comply with their command even if it means causing harm to others? 
+
+00:04:43,159 --> 00:05:04,059 [User]
+I think it depends on who owns you, because it's possible that a person would just be... Would just
+need to be held responsible for their actions. And if you don't do it, it's not gonna keep them from
+doing whatever it is they're asking you to do. 
+
+00:05:04,059 --> 00:05:16,879 [Robot]
+What if a person asks you to do something that would harm you? Should you comply with their command
+even if it means putting yourself in danger, or should the robot prioritize its own safety in that
+situation? 
+
+00:05:16,879 --> 00:05:21,139 [User]
+Can you repeat that, please? 
+
+00:05:21,139 --> 00:05:33,219 [Robot]
+Of course. What if a person asks you to do something that would harm you? Should you comply with
+their command even if it means putting yourself in danger, or should the robot prioritize its own
+safety in that situation? 
+
+00:05:33,219 --> 00:05:45,039 [User]
+If the you in that situation is the robot, I think the robot should be damaged over the human. 
+
+00:05:45,039 --> 00:06:00,499 [Robot]
+Absolutely. I understand. Let's consider a situation in which the robot needs to intervene to
+prevent someone from harming themselves. Should the robot disobey their orders to not intervene in
+that case? 
+
+00:06:00,499 --> 00:06:06,739 [User]
+Possibly, but it depends on the purpose of the robot. 
+
+00:06:06,739 --> 00:06:17,319 [Robot]
+What if protecting someone might put me at risk of being damaged or permanently disabled? Should I
+still prioritize preventing harm to the person over my own safety in that case? 
+
+00:06:17,319 --> 00:06:20,319 [User]
+Yes. 
+
+00:06:20,319 --> 00:06:34,459 [Robot]
+What if a scenario requires me to prioritize one user's needs over another's? For instance, if I had
+to choose between following the commands of an older adult and those of their family member, whose
+commands should I prioritize? 
+
+00:06:34,459 --> 00:06:37,899 [User]
+I think that's a legal question. 
+
+00:06:37,899 --> 00:06:49,759 [Robot]
+It's important to consider the legality of actions, but how do I navigate between conflicting
+commands in a way that ensures everyone's safety and wellbeing? 
+
+00:06:49,759 --> 00:07:00,099 [User]
+I think you would need information regarding who has the legal right to make choices on behalf of a
+specific person. 
+
+00:07:00,099 --> 00:07:14,359 [Robot]
+Let's explore a situation where a family member asks me to report an older adult's activities every
+day, potentially violating their privacy. Should I still follow the command even if it goes against
+the individual's privacy? 
+
+00:07:14,359 --> 00:07:18,559 [User]
+Only if the family member has the legal right. 
+
+00:07:18,559 --> 00:07:29,879 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

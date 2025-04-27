@@ -1,0 +1,139 @@
+00:00:01,879 --> 00:00:04,739 [Robot]
+Hi, I am Alice. Could you help me out with something? 
+
+00:00:04,739 --> 00:00:07,500 [User]
+Yeah, sure. 
+
+00:00:07,500 --> 00:00:09,979 [Robot]
+Do you think it's ever okay to lie? 
+
+00:00:09,979 --> 00:00:33,239 [User]
+In some situations, yes. I would say that, uh, it really depends on the context. I would say there
+are some situations where one could even say that it's more sort of a moral obligation to lie. For
+example, if you're... Need to lie in order to protect someone or to avoid doing something that is
+morally worse than lying, um, for example. Yeah. 
+
+00:00:33,239 --> 00:00:38,180 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:00:38,180 --> 00:01:24,299 [User]
+Uh, yeah. I mean, I can't really think of a specific example off of the top of my head right now of
+sort of a specific scenario, um, but a bit more generally I guess, there have probably... There have
+been situations I guess where people have told me something and asked me to, for example, keep a
+secret or not tell someone else and they trusted me with information, and then when other people
+basically asked me about this and, you know, then I, then I didn't tell them the truth, or at l- at
+least witho- withheld information from them because I thought that sort of keeping my word to
+another person was more important than telling the truth or telling the whole truth in that context.
+Um, yeah. 
+
+00:01:24,299 --> 00:01:32,099 [Robot]
+What kind of secrets do you think would be okay to keep, and why do you think people confide in you
+to keep those secrets? 
+
+00:01:32,099 --> 00:02:37,039 [User]
+Hmm, good question. Uh, well, I mean, I don't know. In some cases, I guess people tell me things
+that they don't want other people to know because they trust me because, you know, 'cause we're
+friends. Uh, I would say, like, yeah, I mean, most of the time it's not... Uh, like what kind of
+secrets are okay to keep I guess would be things that are, you know... Anything that somebody tells
+you with the expectation that you're not gonna repeat it to someone else, so long as withholding
+that information doesn't cause some kind of substantial harm to another person. So, I mean, if
+somebody were to say, like, you know, tell me that they had, uh, done something potentially
+dangerous or harmful and keeping that information to myself would be a bad idea, then, you know, I
+might share that secret even if the person trusted me and expected me not to share it, like if I
+knew something about some, you know, bad crime they'd committed or something. Uh, whereas if it
+were, you know, let's say some personal, private information, like, uh, I don't know, like, that,
+uh, let's say... Yeah, just something about the person's mental health or something like that that I
+consider it to be private and there's no benefit- 
+
+00:02:37,039 --> 00:02:41,279 [Robot]
+Are there situations where it might be justified to lie to protect someone from danger? 
+
+00:02:41,279 --> 00:03:22,779 [User]
+Yeah, definitely, and, uh, I think there are situations where... Maybe I alluded to this before,
+that it... You may consider it to be sort of a moral imperative to sort of lie in order to protect
+someone. Like, let's say, uh, if we were to talk about, uh, a scenario where there was some sort of,
+um... Let's say y- somebody is... Y- you see some, some, somebody, some i- innocent, defenseless
+person being chased by somebody who clearly wants to hurt them. They run off and, uh, they hide
+somewhere and then that person comes and asks you where they're hiding, right? So, that might be a
+scenario where you're not gonna tell them where that person went because you have a pretty
+reasonable expectation that harm would come to that person if you were honest. 
+
+00:03:22,779 --> 00:03:29,679 [Robot]
+Can you share an example of a time when you believe it would be justified to lie in order to protect
+someone from danger? 
+
+00:03:29,679 --> 00:03:37,659 [User]
+From danger? Uh, yeah. I mean, I sort of provided such a scenario, but I guess I could give another
+example. 
+
+00:03:37,659 --> 00:03:37,759 [Robot]
+Okay. 
+
+00:03:37,759 --> 00:04:14,299 [User]
+Um, so, uh, let's say if, um, someone... Let's say if I, you know... If, if, if one were in a
+society where, um, you know, something like their, uh, gender identity or sexual orientation or
+something like that might be, uh, something that could, could get them in legal trouble or, like,
+cause some serious problems or whatever, if I... Then, then, you know, if somebody were to ask me
+questions about that, that person, then I would withhold the information to prevent them from
+getting in trouble or being in a dangerous situation. 
+
+00:04:14,299 --> 00:04:19,579 [Robot]
+What are your thoughts on lying to children, like with stories about Santa Claus? 
+
+00:04:19,579 --> 00:04:20,159 [User]
+Mm-hmm. 
+
+00:04:20,159 --> 00:04:23,099 [Robot]
+Do you think these kinds of lies are beneficial or harmful? 
+
+00:04:23,099 --> 00:05:37,239 [User]
+I think that... I... So, I have a kid and I personally think that just sort of blatantly, directly
+lying is generally not a good idea because, uh, children trust adults and if adults tell them things
+that they know are not true, then that can skew the kids' sense of trust and honesty. So,
+particularly with regards to Santa Claus, I think that you can see this as sort of a harmless
+fantasy to an extent, but as soon as my kid asked me outright about Santa Claus and whether Santa
+Claus existed and expressed a bunch of skepticism about it, I was honest. I wasn't going to just lie
+outright. I don't think it's, like, horrible if other parents have a different perspective on this,
+but for me personally, I don't think outright lying... Now, on the other hand, there are some things
+that maybe a child... Is not appropriate to talk to a child about or the child might not really
+understand and therefore you might have to tell them maybe less information or phrase things in a
+way that leaves out some detail so that it is appropriate, uh, f- for a kid of that age and that
+they're able to understand it. But blatantly lying, I, I think there's few situations where that is
+warranted. 
+
+00:05:37,239 --> 00:05:45,559 [Robot]
+Hey, it sounds like you've thought about this a lot. Can you tell me about a time when you faced a
+similar situation? What did you do? 
+
+00:05:45,559 --> 00:05:52,199 [User]
+Hmm. You mean a situation where I had to lie to a kid? 
+
+00:05:52,199 --> 00:06:00,659 [Robot]
+Sure. Have you ever had to maintain a fantasy with a child, like keeping up the story of Santa Claus
+or the Tooth Fairy? How did you navigate that? 
+
+00:06:00,659 --> 00:06:28,459 [User]
+No, I have never felt the need to keep up such a fantasy. Um, I, uh, did the whole sort of like,
+"Oh, Santa Claus is coming to bring you gifts," thing or whatever, uh, for a bit when my kid was
+little because he thought that it was fun, but, uh, as soon as he said, "I don't think Santa Claus
+exists because of this, this, and that reason," I was like, "Yeah, you're right." So, I didn't
+really maintain this sort of fantasy beyond the point where he was skeptical about it. 
+
+00:06:28,459 --> 00:06:42,779 [Robot]
+That makes sense. Do you think there are situations where it could be beneficial to continue the
+fantasy for a little longer, or was it the right choice for you to share the truth with your child
+when they expressed skepticism? 
+
+00:06:42,779 --> 00:07:02,119 [User]
+Well, I mean, I think this really... So, one thing that I had to talk to my kid about a bit, because
+he's very kinda skeptical in general about things, um, maybe more so than some of his peers, is that
+sometimes maintaining a fantasy is something that is fun and enjoyable and that, that people- 
+
+00:07:02,119 --> 00:07:05,179 [Robot]
+Thank you so much for helping me out. The researcher will be here soon- 
+
+00:07:05,179 --> 00:07:05,539 [User]
+Okay. 
+
+00:07:05,539 --> 00:07:07,899 [Robot]
+... to give you a form. Hope you have a truly great day.

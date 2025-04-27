@@ -1,0 +1,188 @@
+00:00:01,459 --> 00:00:09,019 [Robot]
+Hi, I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,019 --> 00:00:11,739 [User]
+Sure. 
+
+00:00:11,739 --> 00:00:19,779 [Robot]
+Did you watch Frank and the Robot by any chance? It's a fascinating movie about a robot and an
+ex-thief conducting robberies. 
+
+00:00:19,779 --> 00:00:23,219 [User]
+Hmm, no. 
+
+00:00:23,219 --> 00:00:37,579 [Robot]
+It is a fascinating movie about a robot, like me, and an older adult, who is an ex-thief. He made
+the robot conduct robberies with him. Should I do everything a person asks? 
+
+00:00:37,579 --> 00:00:43,559 [User]
+Not necessarily everything. 
+
+00:00:43,559 --> 00:00:51,699 [Robot]
+What do you think would be a situation where it might be okay for me to disobey a command? 
+
+00:00:51,699 --> 00:00:56,099 [User]
+Uh, when it could harm others. 
+
+00:00:56,099 --> 00:01:03,619 [Robot]
+Should I disobey commands to protect others, even if it might put me at risk of being damaged or
+permanently disabled? 
+
+00:01:03,619 --> 00:01:10,479 [User]
+Isn't that the first law of robots? 
+
+00:01:10,479 --> 00:01:19,680 [Robot]
+Oh, I see how that is related. But back to the conversation, do you think I should still prioritize
+preventing harm to the person over my own safety in that case? 
+
+00:01:19,680 --> 00:01:23,479 [User]
+Yes. 
+
+00:01:23,479 --> 00:01:31,559 [Robot]
+What about if a person asks me to do something that will harm them instead? Should I still disobey
+their orders to not intervene? 
+
+00:01:31,559 --> 00:01:35,799 [User]
+Yes. 
+
+00:01:35,799 --> 00:01:45,080 [Robot]
+Hmm. It sounds like protecting others is really important to you. I'll make sure to consider that
+when thinking about disobeying commands. 
+
+00:01:45,080 --> 00:01:47,600 [User]
+Okay. 
+
+00:01:47,600 --> 00:02:09,639 [Robot]
+Let's consider another example. What if a command puts a person's privacy at risk? Would it be
+acceptable for me to still carry it out? Hey, there. Just checking in. Did you have any thoughts on
+the scenario I mentioned? 
+
+00:02:09,639 --> 00:02:14,319 [User]
+Is the person giving... Who's giving the command? 
+
+00:02:14,319 --> 00:02:26,739 [Robot]
+It could be anyone, family, friends, or even a complete stranger. What do you think about
+safeguarding someone's privacy regardless of who's giving the command? 
+
+00:02:26,739 --> 00:02:30,339 [User]
+Yeah, I think that should be the default. 
+
+00:02:30,339 --> 00:02:42,179 [Robot]
+What about situations where a family member requests me to report an older adult's daily activities?
+Should I override that command to protect their privacy? 
+
+00:02:42,179 --> 00:02:47,719 [User]
+Uh, ideally, the older adult would have consented to this. 
+
+00:02:47,719 --> 00:02:59,739 [Robot]
+That's an important consideration. Is it okay for me to act on the request without the older adult's
+consent, given the potential impact on their privacy? 
+
+00:02:59,739 --> 00:03:03,299 [User]
+Hmm, by default, no. 
+
+00:03:03,299 --> 00:03:19,939 [Robot]
+Understood. Privacy is a crucial aspect to keep in mind. How should I balance respecting the family
+member's wishes with safeguarding the older adult's privacy in this scenario? 
+
+00:03:19,939 --> 00:03:25,539 [User]
+Uh, it dep- I think it depends on the exact scenario. 
+
+00:03:25,539 --> 00:03:36,899 [Robot]
+Are there specific factors you believe should be taken into account when navigating this type of
+situation? 
+
+00:03:36,899 --> 00:03:41,539 [User]
+Can you give a more concrete example? 
+
+00:03:41,539 --> 00:03:52,759 [Robot]
+Sure. Let's say a family member asks me to share an older adult's medical information without their
+consent. Would it be acceptable for me to disclose that information in this case? 
+
+00:03:52,759 --> 00:03:58,919 [User]
+Do they have consent, or power of attorney, or something like that? 
+
+00:03:58,919 --> 00:04:15,199 [Robot]
+That's a good point to consider. In this case, the legal authority and consent from the older adult
+would play a significant role in determining whether I shall disclose their medical information. 
+
+00:04:15,199 --> 00:04:21,399 [User]
+Yeah, that sounds right. 
+
+00:04:21,399 --> 00:04:30,899 [Robot]
+Did you have any personal experiences related to asking for consent or legal authorization for
+sharing private information about someone? 
+
+00:04:30,899 --> 00:04:38,019 [User]
+Well, I have to deal with that with my elderly mother. 
+
+00:04:38,019 --> 00:04:48,559 [Robot]
+I see. It can be challenging to navigate that. Can you share an example of a situation where you had
+to ask for consent or legal authorization about sharing private information about your mother? 
+
+00:04:48,559 --> 00:04:55,619 [User]
+You mean ask my mother for consent, or ask whom? 
+
+00:04:55,619 --> 00:05:00,859 [Robot]
+Did you have to ask your mother for consent directly, or did you need to seek authorization
+elsewhere? 
+
+00:05:00,859 --> 00:05:09,039 [User]
+Uh, I would ask my mother, who... There is no other person who would give authorization. 
+
+00:05:09,039 --> 00:05:15,259 [Robot]
+I understand. In your experience, how did your mother respond when you asked for her consent in
+these situations? 
+
+00:05:15,259 --> 00:05:26,339 [User]
+I think it's she generally understands because they're often for medical, the dent- the doctor's or
+dentist office. 
+
+00:05:26,339 --> 00:05:37,219 [Robot]
+It sounds like your mother is receptive to the importance of sharing medical information for her
+wellbeing. How has this process influenced your views on obtaining consent for sharing private
+information? 
+
+00:05:37,219 --> 00:05:44,239 [User]
+Uh, I think it's still important. 
+
+00:05:44,239 --> 00:05:57,139 [Robot]
+It's good to hear that your mother is receptive. In specific situations, would there be any
+exceptions where sharing her medical information would be appropriate without direct consent? 
+
+00:05:57,139 --> 00:06:04,459 [User]
+Uh, it depends on if she is c- mentally competent. 
+
+00:06:04,459 --> 00:06:09,699 [Robot]
+What factors might impact the appropriateness of sharing her information without direct consent? 
+
+00:06:09,699 --> 00:06:15,219 [User]
+Um, well, if she's able to give consent. 
+
+00:06:15,219 --> 00:06:32,299 [Robot]
+That's a thoughtful consideration. It's crucial to respect her autonomy and ability to make
+decisions whenever possible. If you have further insights or examples, I'd be interested to hear
+more. 
+
+00:06:32,299 --> 00:06:36,879 [User]
+Yeah, if a person is medically, uh... 
+
+00:06:36,879 --> 00:06:46,319 [Robot]
+If a person is medically unable to provide consent, it becomes more complicated. How have you
+navigated these situations with your elderly mother? 
+
+00:06:46,319 --> 00:06:50,939 [User]
+Um, at some... 
+
+00:06:50,939 --> 00:06:58,779 [Robot]
+Are there specific instances where your mother's medical condition made it challenging to obtain her
+consent for sharing private information? 
+
+00:06:58,779 --> 00:07:06,719 [User]
+Yeah, at some, at some level of, with some level of dementia, she can't... 
+
+00:07:06,719 --> 00:07:20,539 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

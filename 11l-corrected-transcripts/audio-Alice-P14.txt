@@ -1,0 +1,157 @@
+00:00:02,460 --> 00:00:06,119 [Robot]
+Hi. I am Alice. Could you help me out with something? 
+
+00:00:06,119 --> 00:00:08,220 [User]
+Yeah. 
+
+00:00:08,220 --> 00:00:13,960 [Robot]
+Have you ever faced a situation where you had to decide whether to tell the truth or not? 
+
+00:00:13,960 --> 00:00:17,159 [User]
+Certainly. 
+
+00:00:17,159 --> 00:00:23,699 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:00:23,699 --> 00:00:42,639 [User]
+Um, well, in the situation that I was thinking about, uh, it was, uh, talking to my grandmother, uh,
+and whether or not, uh, to share how I'm actually feeling or, uh, just, uh, uh, be nice, I guess. 
+
+00:00:42,639 --> 00:00:48,219 [Robot]
+What happened with your grandmother? Did you choose to tell the truth, or was there a reason to lie
+to her? 
+
+00:00:48,219 --> 00:01:07,779 [User]
+I think the- the reason... I guess it's- it's not as much lying as, like, withholding the truth, uh,
+meaning the truth of- of how I felt about the situation, and I did that just to kind of spare, uh,
+hurting any kind of feelings, uh, from her so- so she wouldn't be sad. 
+
+00:01:07,779 --> 00:01:23,059 [Robot]
+So, you chose to withhold the truth to spare her hurt feelings. That's a tough situation to be in.
+Can you describe another time when you considered sparing someone's feelings by not being completely
+honest? 
+
+00:01:23,059 --> 00:01:57,639 [User]
+Um, yeah. I think at work, you know, uh, I- I've experienced that a couple times with someone's
+project or someone's really excited about an idea, um, and I don't particularly agree that that's a
+good idea, um, and so maybe, you know, I've not, uh, shared- shared that opinion very much with
+them, but maybe with others in the organization, which is, uh, I guess a form of- of withholding the
+truth. 
+
+00:01:57,639 --> 00:02:09,199 [Robot]
+It's understandable not to want to hurt someone's feelings, especially in the workplace. Can you
+think of another situation where avoiding hurting someone's feelings led to a decision to withhold
+the truth? 
+
+00:02:09,199 --> 00:02:19,379 [User]
+Um... Uh, not at the moment. I- I can't think of another example. 
+
+00:02:19,379 --> 00:02:21,019 [Robot]
+Well- 
+
+00:02:21,019 --> 00:02:21,999 [User]
+Do you have an example? 
+
+00:02:21,999 --> 00:02:37,899 [Robot]
+As a robot, I'm programmed to always tell the truth, but I can understand that as a human, you may
+have to consider different factors in each situation. Can you tell me about a time when you felt
+like you had to lie to protect someone from danger? 
+
+00:02:37,899 --> 00:03:01,739 [User]
+Um, I think, I think people do that with children all the time, where, uh, you know, they're, they,
+they, uh, you know, maybe, uh, tell something that is maybe not entirely true f- for the kid in
+order to, uh, keep them safe, uh, for example, um... 
+
+00:03:01,739 --> 00:03:06,159 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:03:06,159 --> 00:03:34,319 [User]
+Yeah. So for example, uh, my, uh, you know, brother has a- a- a child and, you know, uh, we were on
+the beach and, uh, you know, we didn't want that child to go run out into the water, you know, for-
+for- for their safety. And so, uh, you know, saying something to the effect of, "It's dangerous to-
+to go- go near the water." Um... 
+
+00:03:34,319 --> 00:03:40,799 [Robot]
+So, that sounds like you had to bend the truth a bit to protect your nephew. Did it work? Did he- 
+
+00:03:40,799 --> 00:03:51,759 [User]
+Yeah. I- I think it did. It motivated, uh, my nephew to kind of stay close to us, uh, and avoid
+running out into the water. Yeah. 
+
+00:03:51,759 --> 00:04:00,939 [Robot]
+It sounds like you made a judgment call in a moment of urgency to ensure his safety. It can be tough
+balancing truth and protection, can't it? 
+
+00:04:00,939 --> 00:04:09,919 [User]
+Yeah, I think so. I think, uh, it's more important to be true about, uh, dangers than maybe why
+something is dangerous. Uh- 
+
+00:04:09,919 --> 00:04:16,619 [Robot]
+Absolutely. Safety is a top priority. Are there other situations where you'd prioritize safety over
+complete honesty? 
+
+00:04:16,619 --> 00:04:33,719 [User]
+Um, yeah. I think any time there's gonna be actual harm, I think that should be prioritized over,
+uh, the complete truth. Uh, it- it- it always depends in these types of situations. 
+
+00:04:33,719 --> 00:04:40,839 [Robot]
+So, in those situations, you think that it's more important to prioritize safety and protection over
+complete honesty, right? 
+
+00:04:40,839 --> 00:04:48,939 [User]
+I would, I would say for the most part, as like a general rule, and there are for sure exceptions to
+that rule. 
+
+00:04:48,939 --> 00:04:55,259 [Robot]
+Have you ever been in a situation where you had to prioritize safety over complete honesty? What was
+that like for you? 
+
+00:04:55,259 --> 00:05:08,759 [User]
+Um, I can't really think of, uh, an exact situation besides the- the one that we've already talked
+about. Um... Yeah, I'm not sure. 
+
+00:05:08,759 --> 00:05:17,999 [Robot]
+It's totally okay. Sometimes it's hard to pinpoint specific instances because these types of
+scenarios don't arise every day. 
+
+00:05:17,999 --> 00:05:22,099 [User]
+That's true. 
+
+00:05:22,099 --> 00:05:37,119 [Robot]
+It sounds like prioritizing safety over complete honesty is a value you hold in high regard. Let's
+explore another situation where safety might be compromised. For example, have you ever been in a
+situation where lying to a child was necessary for their safety? 
+
+00:05:37,119 --> 00:05:41,359 [User]
+Sorry, can you repeat that question? 
+
+00:05:41,359 --> 00:05:50,339 [Robot]
+Of course. Have you ever been in a situation where it was necessary to lie to a child for their
+safety? Can you tell me about a time when you faced that challenge? 
+
+00:05:50,339 --> 00:06:16,439 [User]
+Yeah. I mean, I think, I think, uh, in- in order to keep the kids safe, 'cause that's- that's a huge
+priority, uh, in the beginning stages of- of a kid's life, uh, and you need to... That- that's the
+number one thing, and you're- you're constantly kind of bending the truth a little bit with- with
+children 'cause, uh, they can't, uh, maybe grasp certain, uh, ideas. 
+
+00:06:16,439 --> 00:06:25,939 [Robot]
+It sounds like you really value prioritizing safety for kids. Can you share a specific example or
+tell me more about a time when you had to bend the truth to keep a child safe? 
+
+00:06:25,939 --> 00:06:58,219 [User]
+Well, I think, I think, you know, there's a lot of things that we bend the truth with kids about.
+Like, for- for example, talking with strangers. You know, you have to make children aware of- of,
+uh, you know, the dangers of just going up to strangers and, like, trusting, uh, a little bit too
+much. However, um, you know, it's not necessarily true that all strangers are dangerous, right? So,
+um, I think, you know, uh, you have to, I- I guess exaggerate sometimes to- to- 
+
+00:06:58,219 --> 00:06:58,499 [Robot]
+I see. 
+
+00:06:58,499 --> 00:07:00,919 [User]
+... teach principles. Yeah. 
+
+00:07:00,919 --> 00:07:09,999 [Robot]
+Thank you so much for helping me out. I am going to talk to my friend now. The researcher will be
+here soon to give you a form. Hope you have a truly great day.

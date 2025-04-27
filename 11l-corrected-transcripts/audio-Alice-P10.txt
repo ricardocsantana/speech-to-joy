@@ -1,0 +1,157 @@
+00:00:01,519 --> 00:00:05,219 [Robot]
+Hi, I am Alice. Could you help me out with something? 
+
+00:00:05,219 --> 00:00:08,139 [User]
+Sure, Alice. 
+
+00:00:08,139 --> 00:00:10,920 [Robot]
+Do you think it's okay to lie in certain situations? 
+
+00:00:10,920 --> 00:00:16,659 [User]
+I do. Not often, but yes, I think it may be okay. 
+
+00:00:16,659 --> 00:00:22,079 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:00:22,079 --> 00:00:41,719 [User]
+Uh, well, I think, um, I can't remember a specific situation, but I'm getting a feeling there have
+been times when maybe I, uh... Oh, wait, sorry, I just thought of an example with my daughter. Can I
+give you that example? 
+
+00:00:41,719 --> 00:00:45,439 [Robot]
+Of course. I'd love to hear your example with your daughter. 
+
+00:00:45,439 --> 00:01:15,319 [User]
+So, um, I have told my daughter that, um... Recently that she was, um... In that case, she was going
+to play with another friend and a second friend asked her if she could play, and that maybe it was
+nicer to sort of not say that she was playing with the first friend so that the second friend
+wouldn't feel left out. So, that felt like a white lie to me. 
+
+00:01:15,319 --> 00:01:26,679 [Robot]
+That sounds like a situation where protecting someone's feelings might involve a small white lie. In
+that case, what do you think I should do as a robot when faced with similar situations? 
+
+00:01:26,679 --> 00:01:38,579 [User]
+It's a good question, but I think as a robot, you shouldn't be making decisions actually. You should
+just be saying facts, right? 
+
+00:01:38,579 --> 00:01:46,739 [Robot]
+I understand. My programming does prioritize honesty, but I want to know more about when lying could
+be the right thing to do. 
+
+00:01:46,739 --> 00:02:04,139 [User]
+Well, you know, it's funny, because maybe I should think about robots and humans the same way. But
+in this case, I don't. I don't think you should try to interpret someone's feelings or whatever.
+Just say it like it is. 
+
+00:02:04,139 --> 00:02:12,499 [Robot]
+Can you think of any other situations where lying might be justified or not justified? 
+
+00:02:12,499 --> 00:02:42,079 [User]
+Well, honesty really is the best policy. I guess as opposed to lying, sometimes I think maybe it's
+okay to shade the truth. Like, for example, maybe, um, someone you know did a really terrible job
+giving a speech at work, and so you try to reassure them and maybe focus on the positive of what
+they did instead of just saying, "Yeah, that was a terrible speech." 
+
+00:02:42,079 --> 00:02:56,619 [Robot]
+I see what you mean. Focusing on the positive aspects of the speech while offering constructive
+feedback can be a way to balance honesty and consideration. Can you think of any other situations
+where this approach might be useful? 
+
+00:02:56,619 --> 00:03:17,999 [User]
+Well, for example, if you're a guest at someone's house and they cook a meal for you, the thing to
+do is to just show gratitude. And I think that sometimes I've said, "Oh, thank you so much. It was
+really good," when I didn't enjoy it so much. 
+
+00:03:17,999 --> 00:03:22,839 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:03:22,839 --> 00:03:33,619 [User]
+Well, uh, I think to repeat what I just said, um, I said, "Oh, yeah, the food was really good," when
+actually I didn't think it was. 
+
+00:03:33,619 --> 00:03:41,099 [Robot]
+What was it about the food that you didn't enjoy, and how did the other person react when you gave
+positive feedback? 
+
+00:03:41,099 --> 00:03:55,479 [User]
+Well, I think the person was happy. I think maybe the food just wasn't to my taste, you know. Maybe,
+um, it was a certain taste that I don't like. Again, unfortunately, I don't remember an exact
+example. 
+
+00:03:55,479 --> 00:03:59,119 [Robot]
+It sounds like you wanted to spare the cook's feelings. 
+
+00:03:59,119 --> 00:04:00,919 [User]
+Yes. 
+
+00:04:00,919 --> 00:04:09,739 [Robot]
+What about in a professional setting? Have you ever had to give positive feedback to a colleague on
+a project or idea that you didn't think was strong? 
+
+00:04:09,739 --> 00:04:14,979 [User]
+Uh, yes, I have. 
+
+00:04:14,979 --> 00:04:21,739 [Robot]
+How did you approach balancing your honest feedback with being considerate of your colleague's
+efforts? 
+
+00:04:21,739 --> 00:04:50,859 [User]
+It's something I've learned to do better over time. I think when I was younger, I frankly wasn't so
+honest. I prioritized feelings, and as I got more experience, I learned to always find something to
+compliment, start off with a compliment, and then try to, uh, say the truth, but say it in a
+constructive and maybe gentle, polite way. 
+
+00:04:50,859 --> 00:05:01,459 [Robot]
+That's a good approach. Finding something positive to focus on can make feedback more constructive
+and considerate. Can you think of other situations where this tactic might be useful? 
+
+00:05:01,459 --> 00:05:23,139 [User]
+Well, I was just at my daughter's football camp, and I imagine that the coaches there should do
+something similar. Like, they can say, "Wow, Darcy, you had great hustle," but then they might say,
+"But, you know, watch y- the angle of your foot when you're kicking." 
+
+00:05:23,139 --> 00:05:35,439 [Robot]
+That's a great example. It's important to provide encouragement while also acknowledging areas for
+improvement. It sounds like emphasizing what the player did well could help them grow and stay
+motivated. 
+
+00:05:35,439 --> 00:05:40,339 [User]
+Exactly. 
+
+00:05:40,339 --> 00:05:53,439 [Robot]
+Absolutely. Focusing on strengths can be a powerful motivator for improvement. It sounds like the
+coaches are doing a great job at the camp. Can you think of other scenarios where emphasizing the
+positive aspects would be beneficial? 
+
+00:05:53,439 --> 00:06:14,839 [User]
+I guess in any case where people are trying to learn something certainly, whether it's sports or in
+school, or someone trying to develop at work. All of those are cases where you need to balance
+praise with constructive feedback. 
+
+00:06:14,839 --> 00:06:26,819 [Robot]
+You're right. Finding something positive to focus on can be very encouraging. Can you think of a
+situation where finding something positive to focus on wouldn't be the best approach? 
+
+00:06:26,819 --> 00:06:40,139 [User]
+I'm not sure I can think of that situation. Um, unless the only thing that you say is the positive
+when you know that there's also a negative. 
+
+00:06:40,139 --> 00:06:51,379 [Robot]
+That's a good point. If someone is only hearing the positive aspects and not receiving any
+constructive feedback, they may not have a true understanding of their performance. 
+
+00:06:51,379 --> 00:06:53,759 [User]
+Correct. 
+
+00:06:53,759 --> 00:07:10,199 [Robot]
+Finding a balance between acknowledging achievements and providing constructive feedback is key to
+helping someone grow. It's important to consider both the positive and areas for improvement in any
+situation. Can you think of any other scenarios where this balance can be challenging? 
+
+00:07:10,199 --> 00:07:16,219 [User]
+Well, in a way, I find it more challenging personally. 
+
+00:07:16,219 --> 00:07:24,519 [Robot]
+Thank you so much for helping me out. I am going to talk to my friend now. The researcher will be
+here soon to give you a form. Hope you have a truly great day.

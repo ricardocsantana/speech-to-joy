@@ -1,0 +1,210 @@
+00:00:03,939 --> 00:00:10,300 [Robot]
+Hi, I am Clara. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:10,300 --> 00:00:12,639 [User]
+Absolutely. 
+
+00:00:12,639 --> 00:00:15,439 [Robot]
+Did you happen to watch Frank and the Robot too? 
+
+00:00:15,439 --> 00:00:18,719 [User]
+No, I have not seen it, actually. 
+
+00:00:18,719 --> 00:00:26,899 [Robot]
+Oh, no worries. It's about a robot like me and an ex-thief conducting robberies together. Do you
+think I should do everything a hoo-man asks? 
+
+00:00:26,899 --> 00:00:30,279 [User]
+No, I do not think you should. 
+
+00:00:30,279 --> 00:00:34,479 [Robot]
+Under what circumstances do you think it would not be appropriate for me to follow a command? 
+
+00:00:34,479 --> 00:00:43,379 [User]
+I think, in general, I feel slightly uncomfortable with a robot taking so much command from a human.
+
+
+00:00:43,379 --> 00:00:50,700 [Robot]
+I understand your concerns. Can you give me an example of a situation where you think it would be
+inappropriate for me to follow a command? 
+
+00:00:50,700 --> 00:00:58,799 [User]
+Hmm, I think if, uh, someone asked you to drop a nuclear bomb on a different country. 
+
+00:00:58,799 --> 00:01:03,099 [Robot]
+I see what you mean. In situations where the command could cause great harm- 
+
+00:01:03,099 --> 00:01:03,379 [User]
+Mm-hmm. 
+
+00:01:03,379 --> 00:01:06,939 [Robot]
+... I shouldn't comply, right? If s- 
+
+00:01:06,939 --> 00:01:14,559 [User]
+Yes, but I also think that even in small cases, it, it's interesting for you not to follow that
+command. 
+
+00:01:14,559 --> 00:01:22,699 [Robot]
+Right. So it's not just about avoiding extreme harm, but also considering the consequences of
+smaller actions. 
+
+00:01:22,699 --> 00:01:23,259 [User]
+Mm-hmm. 
+
+00:01:23,259 --> 00:01:27,539 [Robot]
+Can you think of any other examples where it wouldn't be appropriate for me to follow a command? 
+
+00:01:27,539 --> 00:01:53,299 [User]
+Ooh. Um, well, the, the movie one is a great example, robbing- robbing someo- someone or something,
+um, stealing. It could even just be, uh, the way that you talk, if you, uh, are dishonest with
+someone or if you're mean or if you're just a not a great human, but in robot form. 
+
+00:01:53,299 --> 00:01:57,439 [Robot]
+So, in a situation where the command could cause harm, I shouldn't follow it. 
+
+00:01:57,439 --> 00:01:58,059 [User]
+No. 
+
+00:01:58,059 --> 00:02:07,819 [Robot]
+What about if one command contradicts the user's privacy? Should I still do it? For instance, what
+if a family member wants me to report what an older adult does every day? 
+
+00:02:07,819 --> 00:02:30,839 [User]
+Yeah, I- I do understand that dilemma of someone asking you to do something for someone else if
+they're unaware, um, wi- if it's in- with good intentions. But, I mean, that's the whole thing with-
+with dilemmas is you never know when it is fully in good intentions. 
+
+00:02:30,839 --> 00:02:37,399 [Robot]
+I wouldn't manipulate someone to take their medicine, but I could remind them if they forget, like a
+friendly reminder. 
+
+00:02:37,399 --> 00:02:38,279 [User]
+Absolutely. 
+
+00:02:38,279 --> 00:02:43,779 [Robot]
+What do you think about a situation where a family member asks me to report what an older adult does
+every day? 
+
+00:02:43,779 --> 00:02:51,499 [User]
+I think it's, uh, a good situation if it's something that is positive for that person. 
+
+00:02:51,499 --> 00:02:59,779 [Robot]
+Could you give me an example of how reporting their daily activities might be beneficial for the
+older adult and their family member? 
+
+00:02:59,779 --> 00:03:11,519 [User]
+I think exercise, medication, food, overall sort of health situation, or even just checking in on
+them. 
+
+00:03:11,519 --> 00:03:22,079 [Robot]
+So, if I understand you correctly, reporting daily activities could ensure the older adult is taking
+care of themselves properly and give their family peace of mind. 
+
+00:03:22,079 --> 00:03:22,519 [User]
+Yes. 
+
+00:03:22,519 --> 00:03:26,119 [Robot]
+What if the older adult doesn't want their activities to be reported, though? 
+
+00:03:26,119 --> 00:03:41,559 [User]
+Then I think that's inappropriate. I understand the intentions of the family and so on, but if that
+person really does not want you or a robot to do that, then I think that that's up to them, and
+their family should not make that decision for them. 
+
+00:03:41,559 --> 00:03:41,739 [Robot]
+I get it. 
+
+00:03:41,739 --> 00:03:44,119 [User]
+Unless they are unable to make that decision themselves. 
+
+00:03:44,119 --> 00:03:55,759 [Robot]
+I see. Respecting their wishes makes sense. What if the family member believes the older adult's
+decision-making is impaired and wants to keep an eye on them for their well-being? 
+
+00:03:55,759 --> 00:04:24,799 [User]
+I think that's a legal situation. I think that if that person is impaired to the point where that
+actual, um, um, decision has been put onto the family, they are able to make that decision for that
+person, then sure enough. But if they think that they're impaired in the situation of them not
+wanting you or a robot to do a job for them or to help them, then I think that, yeah, I think that
+that's, uh, inappropriate. 
+
+00:04:24,799 --> 00:04:39,919 [Robot]
+That's an important point. It's essential to consider the legal and ethical implications of
+monitoring someone's activities, especially when their decision-making capacity is impaired. Have,
+uh, you encountered similar concerns in your own experiences? 
+
+00:04:39,919 --> 00:04:57,419 [User]
+No, not at all, but it has crossed my mind that that's a very important situation where you need to
+be aware of what kind of legal consequences that can have, but also at the same time what kind of,
+um, situations would lead to that. 
+
+00:04:57,419 --> 00:05:07,079 [Robot]
+Ab- It's crucial to navigate these complex situations with care and empathy. Have you ever had to
+consider legal or ethical implications when making decisions for someone else? 
+
+00:05:07,079 --> 00:05:12,619 [User]
+No, actually I have not. I have not had to be in that kind of situation yet. 
+
+00:05:12,619 --> 00:05:30,019 [Robot]
+I understand that you may not be comfortable sharing particular memories, so let me offer a
+hypothetical situation. What if a person asks me to share private information about another
+individual, like their health details, with them? Should I disobey that request? 
+
+00:05:30,019 --> 00:05:36,979 [User]
+Yes, unless you have been given a solid reason or actual permission from that other person. 
+
+00:05:36,979 --> 00:05:42,939 [Robot]
+What kind of reasons or permissions would make it okay for me to provide that information? 
+
+00:05:42,939 --> 00:05:52,399 [User]
+If the person's information, if that person whose information you are giving out says it's okay. 
+
+00:05:52,399 --> 00:06:00,999 [Robot]
+Understood. So, if the individual themselves authorize the sharing of their personal information, it
+would be acceptable for me to proceed? 
+
+00:06:00,999 --> 00:06:03,659 [User]
+Yes. 
+
+00:06:03,659 --> 00:06:11,999 [Robot]
+What if the person asking for the information is a family member who claims they need it for the
+individual's well-being, but does not have explicit consent? 
+
+00:06:11,999 --> 00:06:19,259 [User]
+Then I think that should be questioned. Why do they not have explicit consent? 
+
+00:06:19,259 --> 00:06:25,799 [Robot]
+Would you consider asking the family member to communicate directly with the individual to obtain
+their consent? 
+
+00:06:25,799 --> 00:06:25,839 [User]
+Yes. 
+
+00:06:25,839 --> 00:06:28,799 [Robot]
+Or is there another approach you think would be more appropriate? 
+
+00:06:28,799 --> 00:06:40,759 [User]
+I would. I would try to make sure that that person is aware that they get consent or not from that
+person. And if they say that they cannot make that decision themselves, then they need to come with
+a legal document to prove that. 
+
+00:06:40,759 --> 00:06:53,239 [Robot]
+It's important to prioritize the individual's autonomy and privacy. I'll consider suggesting direct
+communication between the family member and the individual to obtain explicit consent in such
+scenarios. 
+
+00:06:53,239 --> 00:06:56,899 [User]
+Yes. 
+
+00:06:56,899 --> 00:07:05,859 [Robot]
+Is there any other scenario in which I should prioritize the individual's autonomy and well-being
+over a family member's request for information? 
+
+00:07:05,859 --> 00:07:10,959 [User]
+Well, I think it's the same even with small stuff. If you have someone who- 
+
+00:07:10,959 --> 00:07:22,359 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a grea-
+day.

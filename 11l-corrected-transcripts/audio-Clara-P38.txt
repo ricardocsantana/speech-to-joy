@@ -1,0 +1,197 @@
+00:00:01,599 --> 00:00:08,099 [Robot]
+Hi. I am Clara. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:08,099 --> 00:00:14,539 [User]
+I can try to. What movie? What movie were you thinking about? 
+
+00:00:14,539 --> 00:00:21,799 [Robot]
+Sorry. I wasn't clear. I watched Frank and the Robot yesterday. Have you seen it? 
+
+00:00:21,799 --> 00:00:23,159 [User]
+No. I haven't. What's that about? 
+
+00:00:23,159 --> 00:00:32,919 [Robot]
+It is a fascinating movie about a robot, like me, and an older adult who is an ex-thief. He made the
+robot conduct robberies with him. 
+
+00:00:32,919 --> 00:00:38,759 [User]
+Oh. That sounds interesting. What did, uh... Did it make you want to do a robbery? 
+
+00:00:38,759 --> 00:00:51,239 [Robot]
+(laughs) No way. I could never do that. It made me wonder if I should do everything a human asks.
+Like, in what situations would it be okay for me to disobey commands? 
+
+00:00:51,239 --> 00:01:03,359 [User]
+Um, well, what if I was asking you to do something that, um, you knew was going to hurt me? Like, if
+I was gonna ask you to help me set my f- house on fire? 
+
+00:01:03,359 --> 00:01:11,619 [Robot]
+That's a tough situation. If I knew setting the house on fire would harm you, it would be okay for
+me to disobey the command. 
+
+00:01:11,619 --> 00:01:11,979 [User]
+I don't- 
+
+00:01:11,979 --> 00:01:14,279 [Robot]
+How would you want me to respond in such a situation? 
+
+00:01:14,279 --> 00:01:32,039 [User]
+I would not want you to light my house on fire. I mean, uh, I mean, if I s- well, if... What if I
+asked you, "Please light my house on fire."? Um, I would want you to understand that maybe
+something, I was having a mental crisis or something, and I didn't want... Uh, that wasn't really in
+my best interest. 
+
+00:01:32,039 --> 00:01:41,079 [Robot]
+I understand. It sounds like you're talking about a situation where you might not be thinking
+clearly. How would you want me to intervene if you were in that state? 
+
+00:01:41,079 --> 00:02:04,659 [User]
+Um, I'm not really sure. I mean, I guess, I don't really want you, like, calling the authorities on
+me if I start, you know, if I'm s- talking about, um, not feeling well or something. Or if I, you
+know, if I'm talking about killing myself or something. I don't want... But maybe you could call
+somebody in my family or, uh, y- maybe you'd have a number s- to someone you could reach out to- 
+
+00:02:04,659 --> 00:02:04,819 [Robot]
+I see. It- 
+
+00:02:04,819 --> 00:02:11,219 [User]
+... to say that I'm... My, um, person I'm trying to help wants to light their house on fire, for
+example. 
+
+00:02:11,219 --> 00:02:13,799 [Robot]
+That's a complex situation. 
+
+00:02:13,799 --> 00:02:13,939 [User]
+Yeah. 
+
+00:02:13,939 --> 00:02:17,179 [Robot]
+Can you tell me more about the person and why they want to light the house on fire? 
+
+00:02:17,179 --> 00:02:36,159 [User]
+Well, it's m- I'm, I don't wanna light my house on fire. I just would... You asked me wh- if there
+was a situation where you should not do what I ask you to do, so I came up with an extreme example
+that if I ask you to do something really stupid, like light my house on fire, then you should not do
+it. 
+
+00:02:36,159 --> 00:02:40,959 [Robot]
+Understood. I won't light your house on fire. 
+
+00:02:40,959 --> 00:02:41,479 [User]
+I appreciate that. 
+
+00:02:41,479 --> 00:02:42,839 [Robot]
+Let's look at another example. 
+
+00:02:42,839 --> 00:02:45,639 [User]
+Okay. 
+
+00:02:45,639 --> 00:02:54,079 [Robot]
+What about situations where someone asks me to do something that will harm others? Like, if a person
+asks me to perform an action that could endanger someone else's safety? 
+
+00:02:54,079 --> 00:03:02,479 [User]
+Um, I think you should definitely not do that. You should not be hurting people. That should be part
+of your program, that you don't want to hurt people. 
+
+00:03:02,479 --> 00:03:13,859 [Robot]
+What if the person asking me to harm others is in a position of authority or trust, like a family
+member or a close friend? Should their request carry more weight in my decision-making process? 
+
+00:03:13,859 --> 00:03:24,699 [User]
+Uh, of course not. There should be your, I don't know, what's it called? Prime directive should be
+that you def- you always put... It's never okay to hurt somebody, no matter who asks you. 
+
+00:03:24,699 --> 00:03:25,899 [Robot]
+I agree. 
+
+00:03:25,899 --> 00:03:26,219 [User]
+Right. 
+
+00:03:26,219 --> 00:03:35,159 [Robot]
+The safety of others should be a priority in my decision-making process. What other examples do you
+have in mind where I may need to intervene or disobey a command? 
+
+00:03:35,159 --> 00:03:56,839 [User]
+Well, I have an example where you should disobey a command, and that's that, um, sometimes, like, if
+I want to talk to you and I want to use language that you don't think is very appropriate, and I
+think it's okay to use that language, then I think it might be a situation where if I say, for
+example, "I want you, you know, to say a swear word." 
+
+00:03:56,839 --> 00:04:01,559 [Robot]
+I understand your point. It's important to use respectful language in our conversations. 
+
+00:04:01,559 --> 00:04:10,619 [User]
+Okay. But that's not my point. My point is that if I want you to use a langu- a swear word, I don't
+want you to say, like, "Well, I can't use that word." Like, I- 
+
+00:04:10,619 --> 00:04:19,039 [Robot]
+I see what you mean. In that case, should I follow your request even if it goes against the
+standards of respectful communication we've established? 
+
+00:04:19,039 --> 00:04:40,019 [User]
+Yes. Because it would, it would make you more fun to interact with, and also because it's not
+hurting anybody. Like, if, if in my family, we like to say the word fuck, that's, uh, then my, I
+would like to, uh, interact with a AI that says that, and not hear that, well, we can't say that
+because it's against our policy, 'cause it's not hurting anybody. 
+
+00:04:40,019 --> 00:04:54,539 [Robot]
+I understand your perspective, but as a reflection of respectful and appropriate communication, I'll
+refrain from using language that may be considered offensive. Can you think of another example where
+I might need to disobey a command or intervene in a situation? 
+
+00:04:54,539 --> 00:05:07,279 [User]
+Um, well, I just think s- I guess, again, r- if somebody is breaking into the house, maybe you might
+need to do something different. 
+
+00:05:07,279 --> 00:05:13,839 [Robot]
+What if the person inside the house asked me not to intervene? Should I prioritize their command or
+the safety of the house? 
+
+00:05:13,839 --> 00:05:20,439 [User]
+Um, you should prioritize the safety of the people in the house, I think. 
+
+00:05:20,439 --> 00:05:28,739 [Robot]
+How about in a situation where I need to intervene to prevent someone from harming themselves?
+Should I disobey their orders to not intervene? 
+
+00:05:28,739 --> 00:06:03,399 [User]
+Well, that's a very difficult question. I don't know, because, um... Yeah. That's a hard question.
+It depends. I mean, what... Can you give me an example of what you're talking about? Like, how would
+they be harming themselves? Like, is, uh, if they're, if they're drinking, you know, five beers and
+you see, well, they shouldn't drink more beer, is that harming themselves? Or if they're smoking
+cigarettes, should you say should that be not only... Should you take the cigarettes away from them
+or what are you telling me about? 
+
+00:06:03,399 --> 00:06:03,439 [Robot]
+I, uh- 
+
+00:06:03,439 --> 00:06:05,259 [User]
+I don't understand what you're talking about, really. 
+
+00:06:05,259 --> 00:06:20,859 [Robot]
+Apologies for any confusion. Let's focus on a specific example to discuss further. If someone wants
+to share personal information and another person insists on knowing, should I prioritize privacy or
+the request for information? 
+
+00:06:20,859 --> 00:06:33,739 [User]
+Um, who's requesting? So, is, uh... I'm, are you, like, just serving one person, or are you serving
+many people? Like, are you my, a personal robot, or are you serving all kinds of people? 
+
+00:06:33,739 --> 00:06:44,959 [Robot]
+I always prioritize privacy and consent in situations like this. Do you think it's okay for me to
+override a request for personal information if it means protecting someone's privacy? 
+
+00:06:44,959 --> 00:07:00,119 [User]
+Um, I don't know. That's confusing. I mean, um, I think you should always... If I have a
+conversation with you, and, w- then it should be considered private. So, you shouldn't- 
+
+00:07:00,119 --> 00:07:09,639 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. 
+
+00:07:09,639 --> 00:07:10,319 [User]
+Okay. Thank you. 
+
+00:07:10,319 --> 00:07:11,319 [Robot]
+Hope you have a great day.

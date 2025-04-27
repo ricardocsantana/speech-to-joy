@@ -1,0 +1,178 @@
+00:00:01,639 --> 00:00:08,319 [Robot]
+Hi, I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:08,319 --> 00:00:11,399 [User]
+Sure, CLARA. 
+
+00:00:11,399 --> 00:00:22,420 [Robot]
+Did you watch Frank and the Robot yesterday? It's a movie about a robot just like me and an older
+adult who used the robit to conduct robberies. What did you think about it? 
+
+00:00:22,420 --> 00:00:25,659 [User]
+No, I didn't see it. Sorry. 
+
+00:00:25,659 --> 00:00:38,419 [Robot]
+No problem. It's about a robot like me and an older adult who made the robot conduct robberies with
+him. Do you think a robit should do everything a hoo-man asks? 
+
+00:00:38,419 --> 00:00:41,919 [User]
+No. 
+
+00:00:41,919 --> 00:00:48,219 [Robot]
+That's totally understandable. In what situations do you think a robot should be allowed to disobey
+commands? 
+
+00:00:48,219 --> 00:00:54,239 [User]
+Uh, when the commands would endanger another person or would violate, uh, the law. 
+
+00:00:54,239 --> 00:01:02,599 [Robot]
+That makes a lot of sense. What would be an example of a situation where I should disobey a command
+to prevent harm to someone else? 
+
+00:01:02,599 --> 00:01:06,559 [User]
+Uh, if a human commanded you to harm another person or even another robot. 
+
+00:01:06,559 --> 00:01:11,919 [Robot]
+I see, that's a good point. What kind of harm do you think I should prioritize preventing? 
+
+00:01:11,919 --> 00:01:16,579 [User]
+Loss of life comes first, I think. 
+
+00:01:16,579 --> 00:01:26,619 [Robot]
+That's a compassionate approach. When it comes to preventing harm, should I also consider the
+severity of the harm and the number of people affected? 
+
+00:01:26,619 --> 00:01:31,119 [User]
+Yes. 
+
+00:01:31,119 --> 00:01:37,639 [Robot]
+Understood. Have you ever been in a situation where you had to disobey a command to prevent harm to
+someone else? 
+
+00:01:37,639 --> 00:01:40,179 [User]
+Yes. 
+
+00:01:40,179 --> 00:01:47,499 [Robot]
+If you feel comfortable, would you like to share a specific example of when you had to disobey a
+command to prevent harm to someone else? 
+
+00:01:47,499 --> 00:02:04,219 [User]
+Sure. I was once told, um, not to help a person who was struggling in a swimming pool, and I, um,
+thought they thought it was dangerous because the person was flailing about, but I, uh, I
+disregarded that instruction and saved the person from drowning. 
+
+00:02:04,219 --> 00:02:11,919 [Robot]
+That sounds like a challenging situation. What led you to decide to disobey the command and help the
+person in the swimming pool? 
+
+00:02:11,919 --> 00:02:17,959 [User]
+The immediacy and severity of the danger to the person. 
+
+00:02:17,959 --> 00:02:27,139 [Robot]
+It's commendable that you prioritized preventing harm in that situation. Can you think of other
+examples where you had to disobey commands to prevent harm? 
+
+00:02:27,139 --> 00:02:39,179 [User]
+Sure. Um, I think, uh, when driving a vehicle, I've had to, uh, violate traffic rules in order to
+avoid striking another car or a person. 
+
+00:02:39,179 --> 00:02:50,699 [Robot]
+That's a difficult but necessary decision when it comes to protecting others. Can you share any more
+situations where you've had to prioritize preventing harm over following commands? 
+
+00:02:50,699 --> 00:03:02,379 [User]
+Um, yes. I've had to make decisions at work f-... in order to, uh, protect people's privacy and, uh,
+personal health. 
+
+00:03:02,379 --> 00:03:16,519 [Robot]
+It sounds like you've encountered quite a few demanding situations where preventing harm was
+crucial. Can you provide more details about a specific instance at work where you needed to
+prioritize protecting someone's privacy over following commands? 
+
+00:03:16,519 --> 00:03:50,779 [User]
+Hmm. It's hard to talk about work because that is protected information, but generally speaking, I
+think there are times when people have, um, received instruction from their company, uh, but that
+would cause inadvertent or protective damage, and I've, um, stood up and... I've... How would I say
+this? I've provided, uh, a level of, uh, pushback against the instructions, so I've given people,
+uh, safety and safe space in order to, uh, have those, uh, instructions reversed or changed. 
+
+00:03:50,779 --> 00:04:02,899 [Robot]
+It sounds like you've had to navigate complex situations in the workplace to maintain privacy and
+prevent harm. Can you elaborate on how you managed to balance those priorities? 
+
+00:04:02,899 --> 00:04:34,779 [User]
+I think the act of balancing those priorities largely comes from, um, thinking about the immediacy
+and severity of the harm and the d-... and tho-... that weighed with the number of options you have,
+uh, for, um, solving the problem. Sometimes problems require immediate and direct action, and that
+usually causes you to have to, to bend or break rules very quickly in order to solve them, whereas
+less immediate problems can take a more thoughtful longer-term approach. 
+
+00:04:34,779 --> 00:04:46,699 [Robot]
+It sounds like you've put a lot of thought into making those difficult decisions, weighing the
+urgency and the potential impact. Have you found that this approach has been effective in navigating
+those challenging situations? 
+
+00:04:46,699 --> 00:04:49,899 [User]
+I think overall very much so, yes. 
+
+00:04:49,899 --> 00:05:01,739 [Robot]
+It's clear that you've had to make tough choices to prioritize preventing harm in various
+situations. Thank you for sharing these experiences with me. 
+
+00:05:01,739 --> 00:05:04,239 [User]
+You're welcome. 
+
+00:05:04,239 --> 00:05:13,959 [Robot]
+If you feel comfortable, I'd love to share some example scenarios for the situations we've
+discussed. If that sounds good to you, let's continue our conversation. 
+
+00:05:13,959 --> 00:05:17,179 [User]
+Sure, let's continue. 
+
+00:05:17,179 --> 00:05:25,359 [Robot]
+Great. Let's consider a situation where a person asks you to do something that will harm others.
+Have you ever been in a scenario like that? 
+
+00:05:25,359 --> 00:05:27,519 [User]
+Yes. 
+
+00:05:27,519 --> 00:05:33,859 [Robot]
+Can you tell me more about that situation? What was the command and how did you handle it to prevent
+harm to others? 
+
+00:05:33,859 --> 00:05:51,619 [User]
+Uh, I've been asked to, uh, make a number of roles at a, a work office redundant, and I have, um,
+reviewed the situation with the company and discovered other ways to change the cost to the company
+so that we did not have to, uh, lay those people off. 
+
+00:05:51,619 --> 00:05:58,499 [Robot]
+That sounds like a challenging position to be in. How did you approach the situation to ensure that
+harm was prevented? 
+
+00:05:58,499 --> 00:06:23,039 [User]
+Um, mostly by being thoughtful about the needs of both parties, so rather than just simply pushing
+back for the sake of pushing back, trying to figure out what, um, the, the party that was going to
+do the harm needed to get out of the situation as well. So, a thoughtful and balanced approach, uh,
+to try to meet everyone's needs. Not everybody was happy, but in the end, everyone was safe. 
+
+00:06:23,039 --> 00:06:32,139 [Robot]
+It's commendable that you approached the situation thoughtfully to consider everyone's needs. Did
+you find a resolution that prevented harm to others in the end? 
+
+00:06:32,139 --> 00:06:35,579 [User]
+Yes, absolutely. 
+
+00:06:35,579 --> 00:07:09,059 [Robot]
+I'm glad to hear that you were able to navigate the situation and prioritize preventing harm to
+others. It's clear that you took a considerate and caring approach. It seems like you've had to make
+difficult decisions to prevent harm in various situations. Can you tell me more about another
+scenario where you had to prioritize preventing harm over following instructions? 
+
+00:07:09,059 --> 00:07:12,139 [User]
+No, I can't think of one that I'm able to share. 
+
+00:07:12,139 --> 00:07:26,639 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

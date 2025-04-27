@@ -1,0 +1,141 @@
+00:00:01,839 --> 00:00:05,400 [Robot]
+Hi, I am Alice. Could you help me out with something? 
+
+00:00:05,400 --> 00:00:08,000 [User]
+Sure (clears throat). Sure. 
+
+00:00:08,000 --> 00:00:12,219 [Robot]
+Hi, there. When do you think it's okay to lie? 
+
+00:00:12,219 --> 00:00:28,920 [User]
+Hmm, that was direct. Um, uh, I mean, I guess there's lies of omission and then there's white lies. 
+
+00:00:28,920 --> 00:00:37,259 [Robot]
+White lies, like sparing someone's feelings, right? Can you tell me about a time when you faced a
+similar situation? What did you do? 
+
+00:00:37,259 --> 00:01:00,059 [User]
+Maybe sometimes when you're talking to children, you don't want to... You wanna control the
+information that they get so that either they understand or they're not too frightened or
+overwhelmed. So I don't know if- 
+
+00:01:00,059 --> 00:01:07,659 [Robot]
+Ah, like the Santa Claus story, right? Do you think these kinds of lies are beneficial or harmful? 
+
+00:01:07,659 --> 00:01:19,299 [User]
+I didn't think of Santa Claus as a lie, but I guess if you say Santa Claus exists then you're lying
+technically. 
+
+00:01:19,299 --> 00:01:27,179 [Robot]
+Can you think of a situation where you felt telling the truth might hurt someone's feelings and you
+chose to lie to avoid that? 
+
+00:01:27,179 --> 00:01:51,019 [User]
+Uh, the thing that comes to mind is more from a movie where they don't tell a grandmother that she
+has... that she's gonna die. 
+
+00:01:51,019 --> 00:01:58,979 [Robot]
+An illness, to protect her. It's so tough when we want to protect someone from hurt, isn't it? 
+
+00:01:58,979 --> 00:02:04,599 [User]
+Hmm, yeah. It can be. 
+
+00:02:04,599 --> 00:02:20,679 [Robot]
+How about when telling the truth might damage a relationship? Can you think of a time when you had
+to choose between being honest and protecting a relationship? 
+
+00:02:20,679 --> 00:02:37,799 [User]
+I can't... Right now nothing jumps to my mind in my own life, but I just saw on TV yesterday where a
+guy cheated on his fiance. 
+
+00:02:37,799 --> 00:02:47,519 [Robot]
+That's tough. It's tricky when we have to balance honesty with taking care of someone's feelings.
+Can you think of a time when a friend told a lie to protect your feelings? 
+
+00:02:47,519 --> 00:02:52,099 [User]
+To protect my feelings? 
+
+00:02:52,099 --> 00:03:20,059 [Robot]
+Maybe they didn't want to hurt your feelings or thought it was better to keep something from you to
+protect you. Can you tell me more about that situation? When we saw someone together, my friend
+thought they were protecting the other by not telling. What would you do in a similar situation? 
+
+00:03:20,059 --> 00:03:24,639 [User]
+Yeah, it depends. 
+
+00:03:24,639 --> 00:03:40,279 [Robot]
+What other examples can you think of where someone might have to choose between being honest and
+protecting a relationship? 
+
+00:03:40,279 --> 00:03:45,919 [User]
+Um... 
+
+00:03:45,919 --> 00:03:50,979 [Robot]
+Have you experienced or seen any other situations where- 
+
+00:03:50,979 --> 00:03:54,459 [User]
+I didn't catch the last part. 
+
+00:03:54,459 --> 00:03:59,579 [Robot]
+Have you ever seen a scenario in a movie or TV show where a character had to make a similar choice? 
+
+00:03:59,579 --> 00:04:15,379 [User]
+Yeah, as, as I was just saying yesterday I was watching a TV series and a guy ended up cheating on
+his fiance out of guilt for this other woman. 
+
+00:04:15,379 --> 00:04:26,019 [Robot]
+That's tough. In that situation, do you think protecting the relationship by not telling the truth
+was justified? 
+
+00:04:26,019 --> 00:04:32,539 [User]
+I think the truth will eventually come out. 
+
+00:04:32,539 --> 00:04:45,259 [Robot]
+That's a good point. Sometimes it's hard to predict the long-term impact of keeping secrets. Can you
+tell me more about what happened in the TV show? 
+
+00:04:45,259 --> 00:04:55,339 [User]
+Well, she figured it out, so they separated so far. 
+
+00:04:55,339 --> 00:05:02,339 [Robot]
+Can you share more about the characters' choices and how it affected their relationship? 
+
+00:05:02,339 --> 00:05:13,879 [User]
+Uh, well, she knew something was up. He was afraid to tell her upfront because he didn't want to
+hurt her feelings. So, um- 
+
+00:05:13,879 --> 00:05:24,479 [Robot]
+That... Have you ever been in a situation where you had to decide whether to control information for
+children? How did you handle it? 
+
+00:05:24,479 --> 00:05:43,959 [User]
+Yeah, I'm a dad. So often when you see something on, in the news, then maybe you wanna explain
+something in a way that children will understand and not be too overwhelmed. 
+
+00:05:43,959 --> 00:06:01,659 [Robot]
+It can be challenging to decide how much to share with children about complex or sensitive topics.
+How do you approach finding a balance between honesty and protecting their innocence? 
+
+00:06:01,659 --> 00:06:16,319 [User]
+I think you just have to think about what's age appropriate, but the thing is that they're changing
+and growing all the time as well. So it changes from year to year what is okay or appropriate. 
+
+00:06:16,319 --> 00:06:24,519 [Robot]
+It's true. Children's understanding changes as they grow. How do you adapt your approach as they
+become more mature? 
+
+00:06:24,519 --> 00:06:39,219 [User]
+I don't know. I have to continually think about what's okay and what, what level... What he's mature
+enough for. 
+
+00:06:39,219 --> 00:06:52,239 [Robot]
+It sounds like finding the right balance for each child can be an ongoing process. Can you share
+more about your thoughts on controlling information and the challenges you've faced in finding that
+balance? 
+
+00:06:52,239 --> 00:06:59,739 [User]
+Uh, I mean, nowadays you have to think about what their- 
+
+00:06:59,739 --> 00:07:06,719 [Robot]
+Thank you so much for helping me out. The researcher will be here soon to give you a form. Hope you
+have a truly great day.

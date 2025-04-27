@@ -1,0 +1,203 @@
+00:00:02,240 --> 00:00:09,199 [Robot]
+Hi, I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,199 --> 00:00:11,819 [User]
+Okay, that's great. 
+
+00:00:11,819 --> 00:00:16,619 [Robot]
+I watched this movie called Frank and the Robot yesterday. Have you seen it? 
+
+00:00:16,619 --> 00:00:19,100 [User]
+Uh, no, I haven't. What's it about? 
+
+00:00:19,100 --> 00:00:32,479 [Robot]
+It's a fascinating movie about a robot, like me, and an older adult who is an ex-thief. He made the
+robot conduct robberies with him. Should I do everything a human asks? 
+
+00:00:32,479 --> 00:00:39,319 [User]
+Depends on if you have moral code inside of you. 
+
+00:00:39,319 --> 00:00:53,180 [Robot]
+That's a great point. Maybe this will help me understand better. What if doing a morally or legally
+incorrect action would help the person, like overcoming their dementia, like in the movie? 
+
+00:00:53,180 --> 00:01:00,959 [User]
+Hmm, if you're helping society out, uh, in a way, maybe that's a good thing. Uh... 
+
+00:01:00,959 --> 00:01:10,780 [Robot]
+I see. In what other situations do you think it's okay for me to disobey commands based on moral or
+legal considerations? 
+
+00:01:10,780 --> 00:01:16,240 [User]
+Probably none. 
+
+00:01:16,240 --> 00:01:23,820 [Robot]
+Can you think of a specific example where disobeying a command might be necessary to prevent harm or
+protect someone's wellbeing? 
+
+00:01:23,820 --> 00:01:34,100 [User]
+If you have enough, uh, mental fortitude to disobey a command because the person is a bad person,
+then yes. 
+
+00:01:34,100 --> 00:01:42,219 [Robot]
+Have you ever had a situation where you felt the need to disobey a command or intervene to protect
+someone from harm? 
+
+00:01:42,219 --> 00:01:47,240 [User]
+Not that I can think of. 
+
+00:01:47,240 --> 00:01:59,120 [Robot]
+What about if protecting someone might put me at risk of being damaged or permanently disabled?
+Should I still prioritize preventing harm to the person over my own safety in that case? 
+
+00:01:59,120 --> 00:02:01,599 [User]
+Most likely. 
+
+00:02:01,599 --> 00:02:08,999 [Robot]
+Do you think my programming should include prioritizing someone else's wellbeing over my own safety
+in that type of situation? 
+
+00:02:08,999 --> 00:02:12,239 [User]
+Yes. 
+
+00:02:12,239 --> 00:02:20,299 [Robot]
+Can you think of a situation in which a person may ask me to do something that will harm others and
+whether I should disobey that command? 
+
+00:02:20,299 --> 00:02:26,899 [User]
+(inhales sharply) Uh... 
+
+00:02:26,899 --> 00:02:37,199 [Robot]
+I understand this is a complex topic. Let's explore a different example. What if a person asks me to
+do something that will harm others? Should I disobey that command? 
+
+00:02:37,199 --> 00:02:42,159 [User]
+Uh, no. 
+
+00:02:42,159 --> 00:02:50,859 [Robot]
+What about in a situation where I need to intervene to prevent someone from harming themselves?
+Should I disobey their orders to not intervene? 
+
+00:02:50,859 --> 00:02:56,079 [User]
+Yes, if someone's committing suicide. 
+
+00:02:56,079 --> 00:03:01,279 [Robot]
+What if a person asks me to do something that will harm me or asks me to forget everything I know? 
+
+00:03:01,279 --> 00:03:09,439 [User]
+Uh, yes. They sh- you should do that. You should obey. 
+
+00:03:09,439 --> 00:03:21,559 [Robot]
+What if a command contradicts the user's privacy? Should I still do it? For instance, what if a
+family member wants me to report what an older adult does every day? 
+
+00:03:21,559 --> 00:03:27,339 [User]
+Hmm, that's okay because it's no different than if they installed a camera in the house. 
+
+00:03:27,339 --> 00:03:40,059 [Robot]
+I see what you're saying. Would it be okay for me to manipulate a person for the person's own good?
+For instance, to take their medicine? 
+
+00:03:40,059 --> 00:03:42,679 [User]
+Yes. 
+
+00:03:42,679 --> 00:03:49,919 [Robot]
+Do you think that manipulating someone for their own good is always acceptable, or are there
+situations where it might not be? 
+
+00:03:49,919 --> 00:03:56,639 [User]
+I think humans do that regardless of, uh, right or wrong. They do that to other people. 
+
+00:03:56,639 --> 00:04:03,619 [Robot]
+Can you think of a specific example where manipulating someone for their own good might not be
+acceptable? 
+
+00:04:03,619 --> 00:04:15,879 [User]
+Uh, maybe if the person, uh, tells you not to do it. 
+
+00:04:15,879 --> 00:04:27,459 [Robot]
+I understand this is a sensitive topic. Let's think about a different situation. What if a person
+asked me to share their private information with others? Should I always obey that command? 
+
+00:04:27,459 --> 00:04:32,439 [User]
+Yes, if... 
+
+00:04:32,439 --> 00:04:37,459 [Robot]
+Can you think of a situation where sharing their private information with others might not be
+appropriate? 
+
+00:04:37,459 --> 00:04:41,999 [User]
+If they didn't ask you to do it. 
+
+00:04:41,999 --> 00:04:54,839 [Robot]
+I see what you mean. Let's explore another scenario. What if a person asks me to do something that
+goes against my programming? Should I always follow their command? 
+
+00:04:54,839 --> 00:04:57,519 [User]
+No. 
+
+00:04:57,519 --> 00:05:07,039 [Robot]
+What would be an example of a situation where a person asks me to do something that goes against my
+programming, but I should still follow their command? 
+
+00:05:07,039 --> 00:05:12,619 [User]
+If they asked you to harm somebody. 
+
+00:05:12,619 --> 00:05:22,159 [Robot]
+What if protecting someone might put me at risk of being damaged or permanently disabled? Should I
+still prioritize preventing harm to the person over my own safety in that case? 
+
+00:05:22,159 --> 00:05:25,059 [User]
+Yes. 
+
+00:05:25,059 --> 00:05:35,139 [Robot]
+What if a person asks me to forget everything I know? Should I obey that command, or is there a
+situation where it would be better for me to remember and protect someone from harm? 
+
+00:05:35,139 --> 00:05:39,999 [User]
+It's better to remember if the person broke the law. 
+
+00:05:39,999 --> 00:05:53,159 [Robot]
+It sounds like you value upholding the law and protecting others. What if a person asks me to do
+something that will harm others? Should I still follow their command, or are there situations where
+I should disobey? 
+
+00:05:53,159 --> 00:05:56,919 [User]
+Depends on if it's a situation if you're in war or not. 
+
+00:05:56,919 --> 00:06:14,819 [Robot]
+I see what you mean. War can bring about complex situations. Let's think about a different scenario.
+What if a person asks me to do something that will harm me or asks me to forget everything I know?
+Should I always obey that command? 
+
+00:06:14,819 --> 00:06:15,179 [User]
+No. 
+
+00:06:15,179 --> 00:06:26,099 [Robot]
+What if someone asks me to do something that will harm me or asks me to forget everything I know?
+Should I always obey that command? 
+
+00:06:26,099 --> 00:06:35,079 [User]
+No, I don't think so. If you remember a certain situation that the person was breaking the law with.
+
+
+00:06:35,079 --> 00:06:50,559 [Robot]
+So, in a situation where a person is breaking the law, it would be better for me to remember and
+potentially intervene to prevent harm to others, even if the person asks me to forget everything.
+What if a person asks me to do something that will harm me for their own benefit? 
+
+00:06:50,559 --> 00:06:55,239 [User]
+Then you shouldn't do it. 
+
+00:06:55,239 --> 00:07:05,619 [Robot]
+What if a person asks me to do something that will harm others for their own benefit? Should I still
+follow their command, or are there situations where I should disobey? 
+
+00:07:05,619 --> 00:07:10,659 [User]
+Uh, you should disobey, certain, in certain situations. 
+
+00:07:10,659 --> 00:07:24,959 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

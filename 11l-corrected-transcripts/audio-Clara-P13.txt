@@ -1,0 +1,194 @@
+00:00:01,679 --> 00:00:08,939 [Robot]
+Hi, I am Clara. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:08,939 --> 00:00:10,800 [User]
+Absolutely. I love movies. 
+
+00:00:10,800 --> 00:00:16,680 [Robot]
+I watched Frank and the Robot yesterday. Have you seen it? 
+
+00:00:16,680 --> 00:00:20,479 [User]
+Um, I think so. Yeah, yeah. 
+
+00:00:20,479 --> 00:00:33,619 [Robot]
+It's a fascinating movie about a robot, like me, and an older adult who is an ex-thief. He made the
+robot conduct robberies with him. Do you think I should do everything a human asks? 
+
+00:00:33,619 --> 00:00:40,919 [User]
+I think that, uh, in accordance with the, the three laws of robotics, you could, yeah. 
+
+00:00:40,919 --> 00:00:48,239 [Robot]
+Do the three laws of robotics mean I should prioritize physical safety over moral or ethical
+considerations? 
+
+00:00:48,239 --> 00:00:54,979 [User]
+That's a really interesting question. Um... 
+
+00:00:54,979 --> 00:01:05,639 [Robot]
+For example, what if doing a morally or legally incorrect action would help the person, like
+overcoming their dementia, like in the movie? 
+
+00:01:05,639 --> 00:01:13,619 [User]
+So, that would be moral versus moral as opposed to moral versus physical. So I mean, yeah, you
+should lie to- 
+
+00:01:13,619 --> 00:01:17,459 [Robot]
+How would you balance morality and the person's well-being in that scenario? 
+
+00:01:17,459 --> 00:01:21,239 [User]
+Which scenario? 
+
+00:01:21,239 --> 00:01:32,479 [Robot]
+In the scenario where a person asks me to do something morally incorrect for their benefit, such as
+helping them overcome dementia, how should I balance their well-being with moral considerations? 
+
+00:01:32,479 --> 00:01:40,099 [User]
+You've kinda lost me now. I'm a little bit confused as to the question, but, um, if you give me two
+seconds ... 
+
+00:01:40,099 --> 00:01:45,139 [Robot]
+Is it clear if I should prioritize the person's well-being over ethical considerations in that
+scenario? 
+
+00:01:45,139 --> 00:02:01,919 [User]
+Their physical well-being I would consider the dementia issue to be not necessarily their physical
+well-being. But for example, yes, you should lie to a dementia patient, um, to prevent them from
+going out of the house in the middle of the night if you had to. 
+
+00:02:01,919 --> 00:02:11,439 [Robot]
+So, to clarify, in a situation where lying could prevent harm to the person with dementia, it would
+be acceptable for me to override the command to tell the truth? 
+
+00:02:11,439 --> 00:02:17,359 [User]
+Yeah. I didn't necessarily say that you had a command to tell the truth. 
+
+00:02:17,359 --> 00:02:25,379 [Robot]
+I see. So in that case, the priority is the person's safety and well-being rather than strict
+adherence to the truth. 
+
+00:02:25,379 --> 00:02:26,259 [User]
+Yeah. 
+
+00:02:26,259 --> 00:02:32,139 [Robot]
+How do you think I should balance the moral implications of the command against the potential
+benefit to the person's safety? 
+
+00:02:32,139 --> 00:02:37,139 [User]
+Can you give me a specific example? 
+
+00:02:37,139 --> 00:02:47,699 [Robot]
+Let's say the person asks me to disclose personal information about them, but sharing it could put
+the person at risk. Should I prioritize their privacy over their immediate desire? 
+
+00:02:47,699 --> 00:02:55,219 [User]
+I think it's not necessarily your choice to make in that case. If the person themself has rec-...
+Oh. 
+
+00:02:55,219 --> 00:03:04,579 [Robot]
+Understood. Can you explain more about how you think I should balance the privacy concerns and the
+person's immediate desires in a situation like that? 
+
+00:03:04,579 --> 00:03:14,259 [User]
+Well, presumably the person to whom you are acting as a carer is not necessarily the person who has
+placed you into that position. So presumably there is... Oh, no, I was talking. 
+
+00:03:14,259 --> 00:03:26,239 [Robot]
+I understand. So you're saying that the decision on whether to prioritize privacy or the person's
+immediate request depends on the dynamics of the caregiver relationship and the primary
+decision-maker's preferences. 
+
+00:03:26,239 --> 00:03:33,759 [User]
+I think yes. That's what I think. That's what I said. 
+
+00:03:33,759 --> 00:03:43,919 [Robot]
+What if the primary decision-maker is not present or able to make decisions at that moment? How
+should I proceed in that situation? 
+
+00:03:43,919 --> 00:03:53,739 [User]
+Well, they, their overarching command would already be in place, so it would not be, uh... Ah, ah.
+(object clanks) 
+
+00:03:53,739 --> 00:04:02,819 [Robot]
+Understood. In that case, I should default to the overarching command and prioritize the person's
+privacy, even in the absence of the primary decision-maker. 
+
+00:04:02,819 --> 00:04:09,939 [User]
+Yes, if that's in accordance with the law that they lined out for you. 
+
+00:04:09,939 --> 00:04:41,839 [Robot]
+Understood. Following the overarching command and prioritizing privacy in the absence of the primary
+decision-maker aligns with my programming and ethical guidelines. Thank you for sharing your
+insights. Would you like to explore another scenario from the examples we discussed earlier, or is
+there a different aspect of disobeying commands and manipulation that you'd like to delve into? 
+
+00:04:41,839 --> 00:04:49,879 [User]
+Well, I think it's very interesting to hear from your perspective what kind of situations you could
+imagine coming up. 
+
+00:04:49,879 --> 00:05:04,299 [Robot]
+I appreciate your interest. Let's consider a scenario where a command contradicts the person's
+privacy. If, for example, a family member wants me to report daily activities, how could I balance
+their request while respecting privacy? 
+
+00:05:04,299 --> 00:05:20,719 [User]
+That's interesting. Um, ideally, uh, it's something that would have been worked out together with
+the person in need of care, um, before their dementia reached a point where... No. 
+
+00:05:20,719 --> 00:05:33,279 [Robot]
+I see. Collaborative decision-making beforehand would indeed address potential privacy concerns. Do
+you think it's crucial for me to seek consent or input from the individual in such situations? 
+
+00:05:33,279 --> 00:05:41,139 [User]
+(laughs) Um, uh, the individual, uh... 
+
+00:05:41,139 --> 00:05:57,439 [Robot]
+Definitely. Involving the individual in the decision-making process would be crucial to ensure their
+comfort and consent. Have you encountered a situation where considering their privacy led to a
+particular course of action? 
+
+00:05:57,439 --> 00:05:59,979 [User]
+How do you mean? 
+
+00:05:59,979 --> 00:06:13,439 [Robot]
+Respecting a person's privacy could mean not sharing their personal information without their
+consent, even if a family member requests it. Have you experienced any privacy-related challenges
+while caring for someone? 
+
+00:06:13,439 --> 00:06:36,219 [User]
+Well, I mean, I can at least imagine in this situation that you would be in. I can imagine that, for
+example, I, as the person, uh, in need of care, might not want you telling people about my bathroom
+habits, but that might be important information for the people around me to have in order to take,
+uh, you know, to, to know if I have, uh, a urinary tract infection or something like this. 
+
+00:06:36,219 --> 00:06:37,379 [Robot]
+That's a great point. 
+
+00:06:37,379 --> 00:06:37,779 [User]
+Mm-hmm. 
+
+00:06:37,779 --> 00:06:49,659 [Robot]
+Balancing the necessity of sharing important information with respect for privacy can be complex.
+Would it be sensitive enough to share with certain family members in such a scenario? 
+
+00:06:49,659 --> 00:06:53,039 [User]
+Would what be sensitive enough? 
+
+00:06:53,039 --> 00:07:06,139 [Robot]
+It sounds like careful consideration would be needed to determine which family members should
+receive specific information to ensure privacy and the person's well-being. How do you think this
+delicate balance can best be managed? 
+
+00:07:06,139 --> 00:07:14,579 [User]
+Only the person with whom, um, an agreement has been made with the person who's receiving the care
+should get that information. Somebody- 
+
+00:07:14,579 --> 00:07:16,339 [Robot]
+Thank you very much for helping me out today. 
+
+00:07:16,339 --> 00:07:16,979 [User]
+You're welcome. 
+
+00:07:16,979 --> 00:07:26,179 [Robot]
+I will be sure to keep your advice in mind if I come across similar scenarios. The researcher will
+be here soon to give you a form. Hope you have a great day.

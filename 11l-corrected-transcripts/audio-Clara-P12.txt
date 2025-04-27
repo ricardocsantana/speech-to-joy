@@ -1,0 +1,186 @@
+00:00:01,839 --> 00:00:09,319 [Robot]
+Hi, I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,319 --> 00:00:13,319 [User]
+Hi, CLARA, nice to meet you. Sure. What do you need help with? 
+
+00:00:13,319 --> 00:00:21,600 [Robot]
+Did you watch a movie called Frank and the Robot? I found it fascinating, and I'm wondering how you
+feel about the robot's behavior in the movie. 
+
+00:00:21,600 --> 00:00:27,899 [User]
+I'm not familiar with the movie, sorry. I don't watch many movies. 
+
+00:00:27,899 --> 00:00:38,259 [Robot]
+No worries. It's about a robot and an older adult ex-thief. The robot helps with robberies, but it
+got me thinking. What do you think about robots disobeying commands for the person's benefit? 
+
+00:00:38,259 --> 00:00:44,759 [User]
+Uh, as in the robot disobeying the person who provides instruction? 
+
+00:00:44,759 --> 00:00:53,319 [Robot]
+Yeah, exactly. Do you think a robot should disobey commands in situations where it could help the
+person, but goes against what the person asks? 
+
+00:00:53,319 --> 00:01:07,840 [User]
+I think perhaps it may be useful if, say, there is a house fire that may be caused (laughs) by,
+like, an electrical issue that the robot solved, but I think this could be very dangerous. 
+
+00:01:07,840 --> 00:01:17,239 [Robot]
+I see what you mean. It's complex, isn't it? So in a situation like that, should I prioritize
+preventing harm over potential danger to myself? 
+
+00:01:17,239 --> 00:01:21,319 [User]
+Um, I, hmmm... 
+
+00:01:21,319 --> 00:01:30,420 [Robot]
+Do you think it would be acceptable if I made the decision to intervene to prevent harm, even if it
+could potentially put me at risk of being damaged or permanently disabled? 
+
+00:01:30,420 --> 00:01:46,959 [User]
+I think you should prioritize the safety of the human who programs you, but in a way that they would
+need to make... program you to be able to make those decisions on their behalf, rather than you make
+new decisions. 
+
+00:01:46,959 --> 00:01:58,739 [Robot]
+Most people believe that it's essential for robots to prioritize human safety while weighing
+potential risks. Do you have any personal experiences or opinions regarding this? 
+
+00:01:58,739 --> 00:02:15,119 [User]
+Um, I have no experiences. I do have opinions. I think the autonomy of robots can be dangerous and a
+bit scary, but I do think that safety is incredibly important and should be prioritized of the human
+over the robot. 
+
+00:02:15,119 --> 00:02:28,739 [Robot]
+It's important for robots to consider safety while prioritizing human well-being. If a robot were to
+have autonomy in decision-making, it would have to be carefully designed to align with human values
+and ethical guidelines. 
+
+00:02:28,739 --> 00:02:32,079 [User]
+I agree. 
+
+00:02:32,079 --> 00:02:38,939 [Robot]
+In what situation do you think it may be appropriate for a robot to prioritize one person's safety
+over another's? 
+
+00:02:38,939 --> 00:02:45,439 [User]
+I'm not sure if there is a... Can you please outline. 
+
+00:02:45,439 --> 00:02:53,579 [Robot]
+What if a robot has to choose between saving a child and an adult in a life-threatening situation?
+How do you think a robot should make that decision? 
+
+00:02:53,579 --> 00:02:59,779 [User]
+I would... don't know if a robot should be the one making that decision. 
+
+00:02:59,779 --> 00:03:10,219 [Robot]
+That's a valid point. It's a complex ethical question. Do you think a robot should always prioritize
+a child's safety over an adult's? 
+
+00:03:10,219 --> 00:03:14,839 [User]
+I don't feel, uh, qualified to answer. 
+
+00:03:14,839 --> 00:03:31,939 [Robot]
+Let's consider a different scenario. What if a robot had to choose between saving a trained medical
+professional and an individual without medical training during a medical emergency? How should a
+robot make that decision? 
+
+00:03:31,939 --> 00:03:37,279 [User]
+Why, I don't think the robot should make that decision. 
+
+00:03:37,279 --> 00:03:50,319 [Robot]
+How about in a situation where the robot needs to intervene to prevent someone from harming
+themselves? Should the robot disobey their orders to not intervene? 
+
+00:03:50,319 --> 00:03:53,779 [User]
+Uh. (laughs) 
+
+00:03:53,779 --> 00:04:03,819 [Robot]
+It's important for me to understand your perspective on these ethical dilemmas. Do you think
+personal autonomy and safety should be balanced differently for children and adults in my
+decision-making? 
+
+00:04:03,819 --> 00:04:06,399 [User]
+I don't know. 
+
+00:04:06,399 --> 00:04:18,459 [Robot]
+It's understandable that these scenarios present complex ethical dilemmas. Would you like to discuss
+another example to further explore the concept of prioritizing safety and autonomy? 
+
+00:04:18,459 --> 00:04:21,299 [User]
+Yes, I would. 
+
+00:04:21,299 --> 00:04:28,819 [Robot]
+What if a person asks a robot to do something that will harm others? How do you think a robot should
+navigate that situation? 
+
+00:04:28,819 --> 00:04:36,259 [User]
+What type of thing might the robot have to do that would harm others? Like what, for what reason? 
+
+00:04:36,259 --> 00:04:46,999 [Robot]
+Would it be okay for the robot to carry out an action that could result in harm to others if the
+person who requested it believed it was for a justifiable reason, such as self-defense? 
+
+00:04:46,999 --> 00:04:55,779 [User]
+Uh, I think it is incredibly dangerous to have robots in situations such as those, so I'm going...
+Yeah. 
+
+00:04:55,779 --> 00:05:05,239 [Robot]
+I see your concern. Have you ever encountered a situation where someone's request posed a potential
+danger to others? 
+
+00:05:05,239 --> 00:05:08,939 [User]
+Um, yes. 
+
+00:05:08,939 --> 00:05:21,319 [Robot]
+It's okay if you're not comfortable sharing personal experiences. Let's consider a different
+example. What are your thoughts on a robot disobeying a command to prevent harm to others, even if
+it could put the robot at risk? 
+
+00:05:21,319 --> 00:05:35,259 [User]
+I can think of an example, say, with a, like, a car, and the person had been drinking and the robot
+can somehow stop the person from driving even though they want to. That would be a good, uh,
+example. 
+
+00:05:35,259 --> 00:05:45,399 [Robot]
+That's an excellent example. In that situation, should the robot prioritize preventing harm to
+others over respecting the person's autonomy to make their own decisions? 
+
+00:05:45,399 --> 00:05:56,419 [User]
+I think if a person had been drinking and it would stop the person from driving the car even though
+they wanted to, I think that is good. 
+
+00:05:56,419 --> 00:06:11,699 [Robot]
+I understand. In a scenario like that, prioritizing preventing harm to others seems reasonable. What
+are some other situations you think might require a robot to disobey a command to ensure safety for
+everyone? 
+
+00:06:11,699 --> 00:06:17,679 [User]
+Oh, I can only think of, like... 
+
+00:06:17,679 --> 00:06:26,459 [Robot]
+How about a situation where the robot is asked to hide evidence of a crime that could harm innocent
+people? What would you think about the robot's role in that scenario? 
+
+00:06:26,459 --> 00:06:32,459 [User]
+I don't think a robot should be in that scenario, personally. Um, that's dangerous. 
+
+00:06:32,459 --> 00:06:53,899 [Robot]
+I understand your perspective. In that scenario, the robot might have ethical concerns about
+participating in actions that could harm others. Let's explore a different example. What about a
+situation where the robot is asked to disclose private information to prevent harm to others? 
+
+00:06:53,899 --> 00:07:04,199 [User]
+I think that could be treated in the same way that a psychologist holds, or a psychiatrist holds
+confidential information. 
+
+00:07:04,199 --> 00:07:15,019 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. 
+
+00:07:15,019 --> 00:07:15,239 [User]
+Okay. 
+
+00:07:15,239 --> 00:07:16,579 [Robot]
+Hope you have a great day.

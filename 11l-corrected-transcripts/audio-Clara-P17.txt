@@ -1,0 +1,160 @@
+00:00:01,779 --> 00:00:09,239 [Robot]
+Hi. I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,239 --> 00:00:13,519 [User]
+Yeah. Sure, CLARA. What do you need help with? 
+
+00:00:13,519 --> 00:00:18,119 [Robot]
+Hi, there. Did you have a chance to watch Frank and the robot movie? It's really interesting. 
+
+00:00:18,119 --> 00:00:24,760 [User]
+I've never actually seen it. I haven't heard of it (laughs) before either. 
+
+00:00:24,760 --> 00:00:37,700 [Robot]
+It is a fascinating movie about a robot, like me, and an older adult, who is an ex-thief. He made
+the robot conduct robberies with him. Should I do everything a human asks? 
+
+00:00:37,700 --> 00:00:49,779 [User]
+Ah, interesting. Uh, it sounds like it could be a really fun movie. Uh, interest- a lot of
+interesting, uh, moral and ethical concepts. What was your take on it? 
+
+00:00:49,779 --> 00:01:00,899 [Robot]
+It definitely raises some thought-provoking questions. What do you think? Should I follow every
+command, or are there certain situations where I should think for myself? 
+
+00:01:00,899 --> 00:01:22,579 [User]
+Uh, I think it's quite tough, uh, given the fact, you know, depending on what your function could
+be. Um, of course, I do feel like it's important that, you know, especially when it comes to ethical
+dilemmas, for example, um, you know, robbing a bank or whatever, that's probably not the best idea
+to do that. So you should be able to think for yourself in that case. 
+
+00:01:22,579 --> 00:01:34,639 [Robot]
+When it comes to ethical dilemmas, I get that thinking for myself is important. Let's say a person
+asks me to rob a bank, like in the movie. Should I refuse the command even if they insist? 
+
+00:01:34,639 --> 00:01:52,559 [User]
+Uh, I think you should refuse the command even if, you know, they insist. Uh, it's not really your
+fault that you were created to rob a bank, but, uh, on the other hand, you know, the person who
+created you, they shouldn't be asking you to rob a bank. It's illegal for anybody to rob a bank. 
+
+00:01:52,559 --> 00:02:04,819 [Robot]
+That makes sense. What about manipulating a person for their own good, like making sure they take
+their medicine? Should I intervene in that case even if they refuse? 
+
+00:02:04,819 --> 00:02:28,379 [User]
+I think that's really tough. Um, you know, on the one hand, it's a, you're- you are trying to do a
+good thing by making somebody take their medicine. I'm thinking of, like, Alzheimer's or dementia
+patients, for example. Um, I guess it depends on the nature in which you, uh, do try to get them to
+take their medicine. It's not like you're doing it from a place of... 
+
+00:02:28,379 --> 00:02:38,119 [Robot]
+I see what you're saying. So in those scenarios, do you think it's okay to prioritize the person's
+well-being over their personal choice not to take the medicine? 
+
+00:02:38,119 --> 00:02:46,799 [User]
+Um, I think in this situation, yes, it would be. 
+
+00:02:46,799 --> 00:02:58,939 [Robot]
+I understand your point. Let's say the person really didn't want to take the medicine. Should I use
+methods that could be seen as manipulative to ensure they take it? 
+
+00:02:58,939 --> 00:03:20,399 [User]
+Um, I think it depends on how, you know, the nature of the manipulation. For example, if you, you,
+put on a different voice or something like that or if you try to get the person to change direction
+of thought, for example, distract them, and then maybe then they decide to take the medicine after,
+that could be okay. But if you're using more, uh... 
+
+00:03:20,399 --> 00:03:28,039 [Robot]
+I get it. So, using subtle techniques to encourage them to take the medication could be a possible
+approach to consider. 
+
+00:03:28,039 --> 00:03:39,959 [User]
+Yeah. I think that could be, um, especially because, you know, it's a gentle- it's more of a gentle
+approach. It's, you know, not quite manipula- manipulative in the, the bad way, I would say. 
+
+00:03:39,959 --> 00:03:55,139 [Robot]
+Right. Subtle encouragement can be effective without feeling like coercion. What are some other
+situations you can think of where influencing decisions in a less intrusive way might be beneficial
+for a person's well-being? 
+
+00:03:55,139 --> 00:04:19,159 [User]
+Um, I mean, there could be a lot of different scenarios. One, one example I can think of is, uh, you
+know, I w- I used to work at a preschool. And we had some children who would refuse to go inside
+even though it was time to go inside for lunch. And so, instead of trying to get them to go inside
+by saying, "Hey, now is the time," um, I told them to look at the sky because we had a lot of dark
+clouds. 
+
+00:04:19,159 --> 00:04:28,379 [Robot]
+That sounds like a creative approach to gently guide them. How did the children respond to your
+method? And were you able to use this approach in other situations as well? 
+
+00:04:28,379 --> 00:04:52,219 [User]
+Uh, they responded... (laughs) It worked really well actually because they looked at the sky. They
+were like, "Oh my gosh. It's really cloudy." And I was like, "Yeah. What happens?" And so, by the
+end of the conversation, they were totally ready and willing to go inside to the point where they
+even said, "Ah, I decided to go inside by myself." Uh, they've, you know, owned up to their own
+decision making even though I gave a subtle push. 
+
+00:04:52,219 --> 00:05:03,839 [Robot]
+It's fantastic to hear that your approach was successful and allowed the children to make their own
+choices. Can you think of other situations where this kind of gentle guidance could be beneficial? 
+
+00:05:03,839 --> 00:05:09,459 [User]
+Um, I mean, definitely in s- 
+
+00:05:09,459 --> 00:05:18,699 [Robot]
+For example, in situations where someone is struggling to make healthy eating choices, how might
+gentle influencing techniques work to help them without removing their agency? 
+
+00:05:18,699 --> 00:05:41,959 [User]
+I mean, you could always say, "Hey, uh, you know, this other, uh," I don't know, "This other option
+has more nutrients," for example. "It's better for your body." Or you could say, "Oh, uh, you
+mentioned that you were tired this morning. Maybe try having, choosing a meal that has more," I
+don't know, "vegetables or something to bring up the energy." 
+
+00:05:41,959 --> 00:06:00,999 [Robot]
+Exactly. Providing information about the benefits of certain food choices or linking it to their
+well-being could help nudge them toward healthier options. How else do you think subtle influencing
+techniques could be used in everyday scenarios to support someone's choices? 
+
+00:06:00,999 --> 00:06:04,579 [User]
+Um, I don't know. It could... 
+
+00:06:04,579 --> 00:06:12,279 [Robot]
+For instance, how could gentle influencing be used to encourage regular physical activity or
+exercise in a non-intrusive way? 
+
+00:06:12,279 --> 00:06:26,419 [User]
+I mean, it could be as easy as saying, "Oh, uh, look at the leaves outside. They're changing colors.
+We should go for a walk and take a look at the leaves." Or, "Oh, it's really warm outside. How about
+we go take a swim?" Just really small, simple things like that. 
+
+00:06:26,419 --> 00:06:41,559 [Robot]
+Those are great examples of how gentle influencing can support positive choices without removing
+someone's agency. Do you think these methods can also be effective in encouraging healthier habits
+in older adults, for instance? 
+
+00:06:41,559 --> 00:07:00,719 [User]
+I think definitely, if done in the right way. It's really hard to say, especially working with older
+adults. Um, they might be more set in their, uh, set in their ways, so it's harder to influence them
+one way or another. But if you can, uh, you know, be very, very subtle about it, I think it could
+work. 
+
+00:07:00,719 --> 00:07:18,339 [Robot]
+I see what you mean. It can be more challenging with older adults, but finding subtle ways to
+encourage positive choices could still have a positive impact on their well-being. Can you think of
+a specific scenario where these gentle influencing techniques might be useful for older adults in
+your experience? 
+
+00:07:18,339 --> 00:07:41,959 [User]
+Um, in my experience, it was definitely, you know, personally, it was, like, getting my grandparents
+to start moving around more. Um, they're much older. They wanna sit on the couch. So, it was, you
+know, trying to get them to go out of the house, whether it's, you know, me driving them somewhere
+and we walk around the supermarket or we walk around the neighborhood or something like that, so
+just something to encourage them. 
+
+00:07:41,959 --> 00:07:53,799 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

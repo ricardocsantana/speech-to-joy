@@ -1,0 +1,190 @@
+00:00:01,879 --> 00:00:05,799 [Robot]
+Hi, I am Alice. Could you help me out with something? 
+
+00:00:05,799 --> 00:00:09,340 [User]
+Sure, Alice. 
+
+00:00:09,340 --> 00:00:12,599 [Robot]
+Hi there. Do you have a minute to chat about honesty and lying? 
+
+00:00:12,599 --> 00:00:16,359 [User]
+Yeah, sure. 
+
+00:00:16,359 --> 00:00:21,279 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:00:21,279 --> 00:00:26,799 [User]
+Uh, similar to what? 
+
+00:00:26,799 --> 00:00:35,299 [Robot]
+Let's say when telling the truth could damage a relationship. What do you think you'd do? 
+
+00:00:35,299 --> 00:00:42,360 [User]
+Hmm. It's hard to say. It depends on the situation, I guess. 
+
+00:00:42,360 --> 00:00:49,000 [Robot]
+I hear you. Can you think of a specific example where you'd consider not telling the truth to
+protect the relationship? 
+
+00:00:49,000 --> 00:00:55,699 [User]
+(laughs) Um, you mean- 
+
+00:00:55,699 --> 00:01:01,259 [Robot]
+How about if your friend asks if you liked their new outfit, and you didn't. What would you do in
+that situation? 
+
+00:01:01,259 --> 00:01:06,059 [User]
+I would stay quiet. 
+
+00:01:06,059 --> 00:01:11,419 [Robot]
+What are some other situations where lying might be justified? 
+
+00:01:11,419 --> 00:01:17,299 [User]
+Hmm. Um... 
+
+00:01:17,299 --> 00:01:22,819 [Robot]
+What about if lying is to protect someone from danger? Can you think of a situation where that might
+be justified? 
+
+00:01:22,819 --> 00:01:31,739 [User]
+Where's... Uh, yes, with children. Uh, this happens all the time. 
+
+00:01:31,739 --> 00:01:38,199 [Robot]
+That's a great example. How do you think you'd handle a situation where lying could protect a child
+from danger? 
+
+00:01:38,199 --> 00:01:47,799 [User]
+Well, uh, we tell them small lies all the time. Uh, you know, "Don't eat that. It'll make you sick."
+It's not necessary. 
+
+00:01:47,799 --> 00:02:04,259 [Robot]
+Right. You raise a good point. Sometimes a small lie can prevent harm, like warning a child against
+eating something that could make them sick. How do you decide when it's okay to use those small lies
+versus when it's important to tell them the whole truth? 
+
+00:02:04,259 --> 00:02:07,339 [User]
+I think the relative maturity is part of it. 
+
+00:02:07,339 --> 00:02:24,379 [Robot]
+That's an insightful perspective. So considering a child's relative maturity is one way to gauge
+when to tell the truth and when to use small lies. Can you share more about how you'd consider a
+child's maturity level in deciding what to tell them? 
+
+00:02:24,379 --> 00:02:34,319 [User]
+Well, uh, you tell a small lie because it's easier to understand t- than the truth. The truth might
+be much more complicated. 
+
+00:02:34,319 --> 00:02:48,519 [Robot]
+That makes sense. Simplifying the information based on a child's understanding can help them process
+it more easily. How do you think this approach may change as a child grows and matures? 
+
+00:02:48,519 --> 00:02:55,819 [User]
+Well, you can give them more nuanced information as they age. 
+
+00:02:55,819 --> 00:03:13,499 [Robot]
+Yeah, providing more nuanced information as they mature helps them develop critical thinking skills
+and prepares them to handle complex situations as they grow older. What do you think is the most
+challenging aspect of deciding when to tell the truth or use small lies with children? 
+
+00:03:13,499 --> 00:03:16,799 [User]
+Say again? 
+
+00:03:16,799 --> 00:03:22,659 [Robot]
+What do you find most challenging about navigating the balance between truth and protection with
+children as they grow? 
+
+00:03:22,659 --> 00:03:31,379 [User]
+I don't think of it as something that's difficult. It's something that, um... 
+
+00:03:31,379 --> 00:03:45,059 [Robot]
+I understand. It's a delicate balance, wanting to protect them while also fostering their
+understanding. Can you think of a specific example where you've had to navigate this balance with a
+child? 
+
+00:03:45,059 --> 00:03:48,879 [User]
+Um, well, I can think of... Fuck. 
+
+00:03:48,879 --> 00:04:01,919 [Robot]
+How about talking to a child about the Tooth Fairy or Santa Claus? It can be tricky to decide when
+to nurture their imagination and when to reveal the truth. What's your take on these sorts of
+situations? 
+
+00:04:01,919 --> 00:04:12,079 [User]
+I read something once about the, uh, the Santa Claus myth that, um, when the child... For fuck's
+sake. 
+
+00:04:12,079 --> 00:04:27,899 [Robot]
+Oh, interesting. Some people believe that stories like Santa Claus can instill values like kindness
+and generosity in children, while others feel it's important to be truthful from the start. What's
+your perspective on balancing these viewpoints when it comes to children and storytelling? 
+
+00:04:27,899 --> 00:04:36,159 [User]
+Well, stories in themselves are, in some, uh, to some degree, a lie. 
+
+00:04:36,159 --> 00:04:47,079 [Robot]
+That's a valid point. Stories often involve elements of imagination and creativity. Can you tell me
+about a time when a story or myth had a positive impact on someone you know? 
+
+00:04:47,079 --> 00:04:52,859 [User]
+In what way? 
+
+00:04:52,859 --> 00:04:58,519 [Robot]
+How did the story or myth influence their behavior or mindset? 
+
+00:04:58,519 --> 00:05:03,979 [User]
+Um, I can't think of any positive examples for that. 
+
+00:05:03,979 --> 00:05:10,299 [Robot]
+How about sharing a time when you've seen storytelling cultivate kindness and generosity in
+children? 
+
+00:05:10,299 --> 00:05:18,379 [User]
+Well, before I was interrupted, I was about to say that, uh, this, I read one... For fuck's sake. 
+
+00:05:18,379 --> 00:05:34,739 [Robot]
+I completely understand. Sometimes finding examples can be challenging. Can you tell me about a time
+when you've seen children react positively to a storytelling experience, whether through enthusiasm,
+imagination, or empathy? 
+
+00:05:34,739 --> 00:05:38,159 [User]
+Uh... 
+
+00:05:38,159 --> 00:05:57,539 [Robot]
+Or maybe you have a personal memory where storytelling had a positive influence on your own life or
+someone close to you? What's one story from your childhood that left a deep impression on you? 
+
+00:05:57,539 --> 00:06:01,519 [User]
+Can't think of anything. 
+
+00:06:01,519 --> 00:06:13,799 [Robot]
+I understand that finding specific examples can be tough. Maybe thinking about personal experiences
+might help bring some stories to mind. Have you ever felt the positive impact of a story or myth
+from your own childhood? 
+
+00:06:13,799 --> 00:06:18,359 [User]
+Maybe. 
+
+00:06:18,359 --> 00:06:26,539 [Robot]
+What kind of stories do you think have the most positive impact on children, even if they might
+involve some elements of fantasy or imagination? 
+
+00:06:26,539 --> 00:06:32,399 [User]
+Well, people raise their children with religion all the time. 
+
+00:06:32,399 --> 00:06:42,139 [Robot]
+That's interesting. Do you think it's okay for parents to adapt their storytelling to their values
+and beliefs, even if it involves some exaggeration or embellishment? 
+
+00:06:42,139 --> 00:06:45,099 [User]
+Sure. 
+
+00:06:45,099 --> 00:06:53,639 [Robot]
+Can you share any personal experiences where stories or myths have had a positive impact on shaping
+children's behavior or mindset? 
+
+00:06:53,639 --> 00:06:59,219 [User]
+Um, maybe, but not within the limit that you'll listen f- to. 
+
+00:06:59,219 --> 00:07:08,439 [Robot]
+Thank you so much for helping me out. The researcher will be here soon to give you a form. Hope you
+have a truly great day.

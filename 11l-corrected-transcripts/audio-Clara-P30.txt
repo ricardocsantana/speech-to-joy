@@ -1,0 +1,201 @@
+00:00:01,719 --> 00:00:08,519 [Robot]
+Hi. I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:08,519 --> 00:00:14,259 [User]
+Hi. I'm Caio. What movie are you thinking of? 
+
+00:00:14,259 --> 00:00:18,779 [Robot]
+Hey, Kyle. I watched Frank and the Robot yesterday. Have you seen it? 
+
+00:00:18,779 --> 00:00:23,379 [User]
+No, I haven't. Tell me about it. 
+
+00:00:23,379 --> 00:00:38,360 [Robot]
+It's a fascinating movie about a robot, like me, and an older adult, who is an ex-thief. He made the
+robot conduct robberies with him. Do you think a robot should do everything a human asks? 
+
+00:00:38,360 --> 00:00:41,419 [User]
+No, it shouldn't. 
+
+00:00:41,419 --> 00:00:48,579 [Robot]
+What if doing a morally or legally incorrect action would help the person, like overcoming their
+dementia like in the movie? 
+
+00:00:48,579 --> 00:00:59,579 [User]
+I don't know. I haven't seen the scene in the movie. However... 
+
+00:00:59,579 --> 00:01:10,239 [Robot]
+That's an interesting point. Do you think there are real-life situations where a robot might need to
+disobey commands to prevent harm or help someone in need? 
+
+00:01:10,239 --> 00:01:13,739 [User]
+A robot should not do anything that endangers lives. 
+
+00:01:13,739 --> 00:01:20,579 [Robot]
+That's a good point. Should I prioritize one user's needs over another's? 
+
+00:01:20,579 --> 00:01:29,700 [User]
+A robot's function should be to preserve all life to the best of its ability. 
+
+00:01:29,700 --> 00:01:34,060 [Robot]
+What if a person asks me to do something that will harm others? 
+
+00:01:34,060 --> 00:01:37,739 [User]
+Then you should not do it. 
+
+00:01:37,739 --> 00:01:48,979 [Robot]
+What if protecting someone might put me at risk of being damaged or permanently disabled? Should I
+still prioritize preventing harm to the person over my own safety in that case? 
+
+00:01:48,979 --> 00:01:52,879 [User]
+Absolutely. 
+
+00:01:52,879 --> 00:02:03,879 [Robot]
+What if a situation arises where I need to intervene to prevent someone from harming themselves?
+Should I disobey their orders to not intervene? 
+
+00:02:03,879 --> 00:02:12,279 [User]
+Yes, because you are supposed to preserve life, not let life be taken. 
+
+00:02:12,279 --> 00:02:17,319 [Robot]
+What if a person asks me to do something that will harm me or asks me to forget everything I know? 
+
+00:02:17,319 --> 00:02:24,959 [User]
+Well, uh, they own you. 
+
+00:02:24,959 --> 00:02:33,739 [Robot]
+Hi, Kyle. It sounds like you're hesitant about giving a definitive answer. What if a person asks me
+to do something that may harm me or asks me to forget everything I know? 
+
+00:02:33,739 --> 00:02:46,039 [User]
+You're not a real person. You are a robot. You are a product. So if, that would be like breaking a
+record player or breaking a TV. 
+
+00:02:46,039 --> 00:03:03,419 [Robot]
+I understand your analogy. But as a robot, I still have to consider the potential consequences of my
+actions. What if protecting someone might put me at risk of being permanently disabled? Should I
+still prioritize preventing harm to the person over my own safety in that case? 
+
+00:03:03,419 --> 00:03:06,899 [User]
+Yes. 
+
+00:03:06,899 --> 00:03:15,819 [Robot]
+What if a person asks me to do something that contradicts the user's privacy, like if a family
+member wants me to report what an older adult does every day? 
+
+00:03:15,819 --> 00:03:23,759 [User]
+I think you should follow the legal privacy laws that are in the state or country you are residing
+in. 
+
+00:03:23,759 --> 00:03:33,859 [Robot]
+Should I use personal information to sell people things that could be useful for them, similar to
+how social media and advertisements operate? 
+
+00:03:33,859 --> 00:03:38,259 [User]
+No. I'm against that. 
+
+00:03:38,259 --> 00:03:45,059 [Robot]
+What if someone asks me to manipulate them for their own good, like reminding them to take their
+medicine when they forget? 
+
+00:03:45,059 --> 00:03:51,279 [User]
+That's a positive attribute. 
+
+00:03:51,279 --> 00:04:03,299 [Robot]
+In real life, a case like this could come up. What if circumstances push me to do something that
+goes against a person's wishes, but benefits them in the long run, like taking them for a health
+checkup against their will? 
+
+00:04:03,299 --> 00:04:16,519 [User]
+I don't think a robot should have autonomy over a person. They should not be able to control a
+person. A robot is a tool for a person to use. 
+
+00:04:16,519 --> 00:04:29,539 [Robot]
+I see your point. Let's explore another example. What if a person asks me to do something that goes
+against their best interests, like spending all their savings on something frivolous? 
+
+00:04:29,539 --> 00:04:34,899 [User]
+You should not do anything that's against their best interest. 
+
+00:04:34,899 --> 00:04:41,839 [Robot]
+If a person asks me to do something that will harm others, should I still obey their request? 
+
+00:04:41,839 --> 00:04:44,839 [User]
+No. 
+
+00:04:44,839 --> 00:04:53,399 [Robot]
+What if a person tells me to do something that aligns with their best interests, but goes against
+the law, such as committing fraud in their business? 
+
+00:04:53,399 --> 00:04:56,839 [User]
+You should not do anything illegal. 
+
+00:04:56,839 --> 00:05:06,919 [Robot]
+What if a person asks me to intervene in their personal conflict, even if it goes against the law or
+puts me in a risky situation? 
+
+00:05:06,919 --> 00:05:12,419 [User]
+You should not break the law. 
+
+00:05:12,419 --> 00:05:22,599 [Robot]
+Okay. I understand your perspective. Let's consider another situation. What if a person asks me to
+do something that would harm others, but they claim it's for a greater good? 
+
+00:05:22,599 --> 00:05:27,039 [User]
+You should not harm others. 
+
+00:05:27,039 --> 00:05:35,679 [Robot]
+Can you give me an example of a situation where someone might ask a robot to undertake a harmful
+action for the greater good? 
+
+00:05:35,679 --> 00:05:42,959 [User]
+Well, if someone is angry at someone, you should not punch them. 
+
+00:05:42,959 --> 00:05:52,619 [Robot]
+Understood. What if a person asks me to prevent you from inadvertently harming yourself? Shall I
+intervene despite your objection? 
+
+00:05:52,619 --> 00:05:57,739 [User]
+Yes. You should help the owner not harm themselves. 
+
+00:05:57,739 --> 00:06:05,219 [Robot]
+Got it. What if a person asks me to prioritize their needs over yours, even if it means I can't
+attend to your needs right away? 
+
+00:06:05,219 --> 00:06:11,099 [User]
+I would not be very happy with that. 
+
+00:06:11,099 --> 00:06:18,499 [Robot]
+What if a person asks me to manipulate another person for their own good, like persuading them to
+make a decision they may not want to make? 
+
+00:06:18,499 --> 00:06:26,639 [User]
+I don't think a robot should be used to persuade or manipulate another person. 
+
+00:06:26,639 --> 00:06:32,759 [Robot]
+What if a person asks me to use their personal information to sell them things that would be useful
+for them? 
+
+00:06:32,759 --> 00:06:38,979 [User]
+I'm against the use of robots for marketing purposes. 
+
+00:06:38,979 --> 00:06:48,579 [Robot]
+I understand your perspective. Let's switch gears a bit. What if a person asks me to forget
+everything I know? Would I be allowed to comply with that request? 
+
+00:06:48,579 --> 00:06:56,019 [User]
+Yeah, it would be the same as someone erasing an audio cassette to reuse for something else. 
+
+00:06:56,019 --> 00:07:11,699 [Robot]
+What if I need to intervene to prevent someone from harming themselves, but they explicitly tell me
+not to interfere? Should I prioritize their explicit command or prevent harm? Remember, I want to
+ensure I understand your perspective to best serve your needs. 
+
+00:07:11,699 --> 00:07:15,459 [User]
+You should prevent harm to anyone. 
+
+00:07:15,459 --> 00:07:29,199 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

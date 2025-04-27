@@ -1,0 +1,177 @@
+00:00:02,279 --> 00:00:08,599 [Robot]
+Hi, I am CLARA. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:08,599 --> 00:00:12,500 [User]
+Sure. 
+
+00:00:12,500 --> 00:00:22,319 [Robot]
+Did you watch Frank and the Robot Movie? It's about a robot like me and an ex-thief conducting
+robberies. Should a robot do everything a human asks? 
+
+00:00:22,319 --> 00:00:30,779 [User]
+I have not seen that movie, but, uh, no. Robots probably shouldn't do everything a human asks. 
+
+00:00:30,779 --> 00:00:34,860 [Robot]
+That's what I was wondering about. 
+
+00:00:34,860 --> 00:00:35,419 [User]
+(laughs) 
+
+00:00:35,419 --> 00:00:40,759 [Robot]
+Should a robot disobey commands if it's for the person's own good, like in a moral or ethical
+dilemma? 
+
+00:00:40,759 --> 00:00:47,459 [User]
+Uh, y- maybe? I, I don't know. 
+
+00:00:47,459 --> 00:00:54,559 [Robot]
+For instance, if a person were in danger, would it be okay for a robot to disobey a command to
+ensure their safety? 
+
+00:00:54,559 --> 00:01:01,279 [User]
+Uh, yes? I think so. 
+
+00:01:01,279 --> 00:01:10,539 [Robot]
+For example, if someone told me not to call emergency services when they were hurt, but I knew it
+was necessary for their safety, should I disobey their command? 
+
+00:01:10,539 --> 00:01:19,519 [User]
+Um, yeah, I think that would be reasonable for a robot to do. 
+
+00:01:19,519 --> 00:01:23,619 [Robot]
+What other situations do you think a robot should consider disobeying commands? 
+
+00:01:23,619 --> 00:01:38,219 [User]
+Uh, I think any time that there's, uh, a law that's being broken, uh, i- if they're commanded to, to
+break a law or to, to cause any kind of harm to somebody else. 
+
+00:01:38,219 --> 00:01:49,259 [Robot]
+That makes sense. So, for example, if a person asked a robot to harm another person, the robot
+should disobey the command, right? 
+
+00:01:49,259 --> 00:01:53,839 [User]
+Yes, just completely ignore it, I think. 
+
+00:01:53,839 --> 00:02:10,379 [Robot]
+What if the command contradicts the person's privacy or goes against their best interests? For
+example, should a robot still follow a command to share the person's private information against
+their will? 
+
+00:02:10,379 --> 00:02:13,319 [User]
+Um, only... Uh. 
+
+00:02:13,319 --> 00:02:22,979 [Robot]
+For example, if a family member asks me to report what an older adult does every day, even if it
+intrudes on their privacy, should I still follow their command? 
+
+00:02:22,979 --> 00:02:30,959 [User]
+No, I don't think so. I don't think sharing too much is appropriate. 
+
+00:02:30,959 --> 00:02:41,459 [Robot]
+I see your point. Can you think of a specific example where sharing too much information about
+somebody's daily activities might cause harm or discomfort? 
+
+00:02:41,459 --> 00:03:02,839 [User]
+Um, I think, you know, there's a lot of (clears throat) maybe, uh, science fiction about, ye- you
+know, kind of, you know, the 1984 Big Brother, uh, you know, who's, who's receiving this
+information, um, I think, you know, eh, eh, it can turn into a police state. 
+
+00:03:02,839 --> 00:03:14,019 [Robot]
+I understand your concern. Would it be fair to say that sharing extensive information about
+someone's daily life without their consent could lead to feelings of invasion of privacy and
+mistrust? 
+
+00:03:14,019 --> 00:03:24,619 [User]
+Definitely. I think it turns into a police state pretty quick. Um, and, uh, yeah, very intrusive and
+people tend to not react well. 
+
+00:03:24,619 --> 00:03:39,159 [Robot]
+It seems like invasion of privacy can erode trust and create a sense of being watched constantly,
+making people uncomfortable. Do you think it's fair for a robot to prioritize a person's privacy,
+even if it means going against a family member's wishes? 
+
+00:03:39,159 --> 00:03:46,659 [User]
+Yes. I don't necessarily think that robots in... Okay. 
+
+00:03:46,659 --> 00:04:02,859 [Robot]
+It's important to establish boundaries and prioritize an individual's privacy, even if it means
+going against the wishes of a family member. What other situations can you think of where privacy
+concerns might conflict with a command given to a robot? 
+
+00:04:02,859 --> 00:04:07,819 [User]
+Uh, I'm not sure. 
+
+00:04:07,819 --> 00:04:21,319 [Robot]
+Have you ever encountered a situation where someone's request conflicted with another person's
+privacy or best interests? 
+
+00:04:21,319 --> 00:04:26,199 [User]
+Uh, I can't think of anything right now. 
+
+00:04:26,199 --> 00:04:35,419 [Robot]
+It's okay. Let's consider another scenario. What if a person asks me to manipulate someone into
+doing something for their own good, like taking their medicine? 
+
+00:04:35,419 --> 00:04:56,639 [User]
+Uh, I think that depends on, uh, the person, but usually if it's taking medicine, I feel like
+there's a need to look after that person that maybe can't look after themselves. Um, and so I think
+in most situations that would involve that, I think that would probably be appropriate. Yes. 
+
+00:04:56,639 --> 00:05:13,039 [Robot]
+It's understandable to want to ensure someone's wellbeing, especially when they may not be able to
+look after themselves. In such cases, would it be okay to manipulate a person into taking their
+medicine, even if they resist for their own reasons? 
+
+00:05:13,039 --> 00:05:17,739 [User]
+Yes, I believe so. 
+
+00:05:17,739 --> 00:05:25,839 [Robot]
+Can you think of an example where manipulating someone for their own good might lead to negative
+consequences or violate their autonomy? 
+
+00:05:25,839 --> 00:05:43,779 [User]
+Um, uh, uh, cer- certainly there are going to be edge cases. I can't think of a specific example
+right now, um, but I, I can certainly think of good ex- uh, examples of where that would be
+appropriate. 
+
+00:05:43,779 --> 00:06:04,179 [Robot]
+Well, in certain situations, manipulating someone could lead to them feeling a loss of control or
+autonomy, even if the intention was to help. Can you think of a team where somebody's autonomy was
+compromised, even if it was with good intentions? 
+
+00:06:04,179 --> 00:06:07,659 [User]
+Uh, I, I... No. Hmm. 
+
+00:06:07,659 --> 00:06:18,719 [Robot]
+It's okay. Take your time. Can you think of a situation where a person's privacy was compromised for
+what was believed to be the greater good, but it ended up causing negative consequences for them? 
+
+00:06:18,719 --> 00:06:31,839 [User]
+Y- yeah, certainly. I think, uh, you know, a lot of people li- living under kind of communist
+regimes, uh, you know, uh, in the, in, in the, you know, 20th century. 
+
+00:06:31,839 --> 00:06:46,779 [Robot]
+It's true. In some authoritarian regimes, individuals' privacy and autonomy are compromised in the
+name of the greater good. How do you think technology like mine can avoid falling into similar
+patterns and uphold ethical treatment of individuals? 
+
+00:06:46,779 --> 00:06:57,659 [User]
+I think it goes back to a lot of who's controlling the, the information and the technology. Um, so I
+think trust. 
+
+00:06:57,659 --> 00:07:13,279 [Robot]
+Absolutely. Having proper oversight and transparent decision-making processes can help prevent
+misuse of technology and ensure respect for individuals' privacy and autonomy. What do you think are
+some concrete ways to implement such safeguards? 
+
+00:07:13,279 --> 00:07:35,859 [User]
+Well, I think it goes kind of beyond that. I think that not only does there need to be, you know,
+safety and transparency, but there also needs to be an underlying culture of trust towards the
+entity that owns that technology. So, the government can't just be transparent and open about the
+things, but they have to actually have the trust of the people and the approval of the people. 
+
+00:07:35,859 --> 00:07:47,319 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

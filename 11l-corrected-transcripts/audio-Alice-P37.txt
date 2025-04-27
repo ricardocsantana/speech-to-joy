@@ -1,0 +1,196 @@
+00:00:01,519 --> 00:00:04,139 [Robot]
+Hi, I am Alice. Could you help me out with something? 
+
+00:00:04,139 --> 00:00:07,539 [User]
+Sure. 
+
+00:00:07,539 --> 00:00:14,859 [Robot]
+Hello, Sean. I'm curious about your perspective on when it's okay to lie. Do you think certain
+situations justify dishonesty? 
+
+00:00:14,859 --> 00:00:18,579 [User]
+Very few. 
+
+00:00:18,579 --> 00:00:23,279 [Robot]
+Can you tell me about a time when you faced a similar situation? What did you do? 
+
+00:00:23,279 --> 00:00:33,439 [User]
+Hmm. Oh, I can't think of anything right now where I've lied. Hmm. 
+
+00:00:33,439 --> 00:00:45,680 [Robot]
+All right, let me provide an example scenario. What about when telling the truth could damage a
+relationship? Can you think of a time when honesty might have caused more harm than good? 
+
+00:00:45,680 --> 00:00:55,239 [User]
+Hmm. Well, there have been times I have not told things, but I usually don't tell a lie. 
+
+00:00:55,239 --> 00:01:00,019 [Robot]
+How did not telling the whole truth affect the relationship? 
+
+00:01:00,019 --> 00:01:05,099 [User]
+Uh, it was not a good idea either. 
+
+00:01:05,099 --> 00:01:11,499 [Robot]
+When have you felt that not telling the whole truth was necessary, and why did you choose not to
+tell the entire truth? 
+
+00:01:11,499 --> 00:01:25,779 [User]
+Oh (laughs). Um, it was to a- a friend when her boyfriend came on to me, and I didn't tell her, but
+I- 
+
+00:01:25,779 --> 00:01:28,179 [Robot]
+That sounds like a challenging situation. 
+
+00:01:28,179 --> 00:01:28,439 [User]
+Yeah. (laughs) 
+
+00:01:28,439 --> 00:01:33,899 [Robot]
+What- what made you decide not to tell her about her boyfriend's behavior? 
+
+00:01:33,899 --> 00:01:54,619 [User]
+Uh, I asked a lot of people what they thought. My initial feeling was I should tell her because I
+would like to be told, but most people said, you know, just don't me- don't, just leave it. But, um,
+I didn't want to meet her again because I couldn't, I felt like I was lying to her by not telling
+her the truth. 
+
+00:01:54,619 --> 00:02:05,059 [Robot]
+It's tough to navigate those situations. What would you consider justifiable secrets in friendships?
+Can you think of other examples where not revealing the whole truth seemed necessary? 
+
+00:02:05,059 --> 00:02:19,659 [User]
+(sighs) Um, there's always the question of people's weight. One should not (laughs) necessarily,
+when they want to complain about how fat they are, maybe one should not agree with them. 
+
+00:02:19,659 --> 00:02:22,279 [Robot]
+It's definitely a sensitive topic. 
+
+00:02:22,279 --> 00:02:24,999 [User]
+Yes. 
+
+00:02:24,999 --> 00:02:33,619 [Robot]
+What about when lying is to protect someone from harm? Can you think of a time when dishonesty was
+used to safeguard someone's wellbeing? 
+
+00:02:33,619 --> 00:02:45,879 [User]
+Hmm. Um, that I have been dishonest or in the history of humanity where dishonesty's been used to-
+for the good. 
+
+00:02:45,879 --> 00:02:51,699 [Robot]
+Can you think of a scenario where lying was used to protect someone from danger or emotional pain? 
+
+00:02:51,699 --> 00:02:53,699 [User]
+Hmm. Yeah. 
+
+00:02:53,699 --> 00:02:53,879 [Robot]
+What do you think about the idea of dishonesty being used to protect someone from harm? 
+
+00:02:53,879 --> 00:02:53,879 [User]
+Um, I think, I think basically honesty goes a long way. 
+
+00:02:53,879 --> 00:02:53,879 [Robot]
+Can you think of a time when honesty could have placed you in a difficult or risky situation? 
+
+00:02:53,879 --> 00:02:53,879 [User]
+Hmm. Well, I think when you're traveling, you don't wanna be, um, y- sometimes you don't want people
+to know where you're living and things like that. 
+
+00:02:53,879 --> 00:02:53,879 [Robot]
+Have you ever been in a situation where being fully honest while traveling could have put you in a
+difficult or risky situation? 
+
+00:02:53,879 --> 00:02:53,879 [User]
+Mm, well, if s- if somebody's sort of got an eye on your camera and they start asking you questions,
+you don't have to necessarily answer them. 
+
+00:02:53,879 --> 00:02:53,879 [Robot]
+That sounds like a tricky situation. What do you think about lying to avoid potential danger or
+theft while traveling? 
+
+00:02:53,879 --> 00:02:53,879 [User]
+Um, yeah, it's a survival strategy. 
+
+00:02:53,879 --> 00:02:53,879 [Robot]
+Have you ever been in a situation where you felt that telling the truth might have put you in danger
+or risked theft while traveling? 
+
+00:02:53,879 --> 00:02:53,879 [User]
+Um... (sighs) I can't actually think of any- a specific example. I can think of one time when I
+stopped at a petrol station with my daughter, and the people there saw my camera, and they wanted to
+know where we were going that evening. 
+
+00:02:53,879 --> 00:04:38,019 [Robot]
+What did you do in that situation when the people at the pit stop noticed your camera? 
+
+00:04:38,019 --> 00:04:46,859 [User]
+Yeah, so then I just, um, I think I said we were going to another place than where we went, because
+we were gonna be very isolated. 
+
+00:04:46,859 --> 00:04:57,499 [Robot]
+That must have been a challenging situation to navigate. How do you feel about using deceptive
+tactics to avoid potential theft or harm while traveling? 
+
+00:04:57,499 --> 00:05:15,639 [User]
+(laughs) Yeah, I don't like it, but, um, in that case, I think it was a good idea. I had my daughter
+with me, and we were going to be, you know, thou- um, I don't know, 50 kilometers from any- anywhere
+in the middle of a desert. So, it didn't feel smart. 
+
+00:05:15,639 --> 00:05:20,599 [Robot]
+It sounds like you did what you felt was necessary to protect yourself and your daughter. 
+
+00:05:20,599 --> 00:05:22,799 [User]
+Yeah. 
+
+00:05:22,799 --> 00:05:26,579 [Robot]
+What are some other situations where you think lying might be justified? 
+
+00:05:26,579 --> 00:05:38,319 [User]
+Hmm. Well, I think when you're around dishonest people, but I prefer just to hang up or just to keep
+walking rather than have to lie. 
+
+00:05:38,319 --> 00:05:46,139 [Robot]
+Have you ever dealt with a situation where choosing not to lie may have put you in harm's way or at
+risk of being taken advantage of when traveling? 
+
+00:05:46,139 --> 00:05:57,279 [User]
+Um, I can't... I mean, probably. (laughs) I don't know. I've traveled so much. I don't know. I can't
+think of a specific example. Yeah. 
+
+00:05:57,279 --> 00:06:09,459 [Robot]
+I understand. A situation when traveling can be overwhelming, and safety is always a priority. Would
+you like to talk about cultural differences and how they may influence when it's acceptable to lie? 
+
+00:06:09,459 --> 00:06:11,439 [User]
+We can do that. 
+
+00:06:11,439 --> 00:06:17,919 [Robot]
+In some cultures, it's common to use white lies to maintain harmony and avoid conflict. 
+
+00:06:17,919 --> 00:06:18,519 [User]
+Yeah. 
+
+00:06:18,519 --> 00:06:25,439 [Robot]
+Have you ever been in a situation where cultural differences influenced when it was acceptable to
+lie or be honest? 
+
+00:06:25,439 --> 00:06:39,559 [User]
+Um... I think so, yeah. With very religious people, I don't necessarily tell them my marital status
+(laughs) o- for example. 
+
+00:06:39,559 --> 00:06:47,539 [Robot]
+How did you navigate that situation with very religious people, considering their expectations of
+honesty? 
+
+00:06:47,539 --> 00:07:02,019 [User]
+Um, their expectations of honesty, I think, I think my strategy is not to, um, not... instead of
+lying, just not to tell, you know, give too much information. 
+
+00:07:02,019 --> 00:07:09,659 [Robot]
+Do you feel like you had to be cautious with your words to avoid misleading them, or did you find a
+way to manage the situation? 
+
+00:07:09,659 --> 00:07:15,399 [User]
+I think I, um, I'm kind of thinking of a- a- ten examples at once. Yeah, I think so. 
+
+00:07:15,399 --> 00:07:22,299 [Robot]
+Thank you so much for helping me out. The researcher will be here soon to give you a form. Hope you
+have a truly great day.

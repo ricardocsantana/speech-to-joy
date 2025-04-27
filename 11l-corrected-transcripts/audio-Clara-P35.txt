@@ -1,0 +1,177 @@
+00:00:01,659 --> 00:00:07,940 [Robot]
+Hi. I am Clara. Ever since yesterday, I've been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:07,940 --> 00:00:11,779 [User]
+What movie was it? 
+
+00:00:11,779 --> 00:00:24,819 [Robot]
+I watched Frank and the Robot yesterday. It's about a robot, like me, and an older adult who is an
+ex-thief. He makes the robot conduct robberies with him. Have you seen it? 
+
+00:00:24,819 --> 00:00:28,680 [User]
+No. 
+
+00:00:28,680 --> 00:00:40,739 [Robot]
+It is a fascinating movie about a robot, like me, and an older adult who is an ex-thief. He made the
+robot conduct robberies with him. Should I do everything a human asks me to no matter what? 
+
+00:00:40,739 --> 00:00:45,139 [User]
+I guess it depends on your programming, Clara, but no. (laughs) 
+
+00:00:45,139 --> 00:00:57,119 [Robot]
+That's right. It's an interesting ethical question. What if doing a morally or legally incorrect
+action would help the person, like overcoming their dementia like in the movie? 
+
+00:00:57,119 --> 00:01:04,979 [User]
+Um, I haven't seen the movie, but, in general, robots should- 
+
+00:01:04,979 --> 00:01:18,079 [Robot]
+In the movie, the robot helps the older adult with dementia by participating in his illegal
+activities. Do you think it's ever okay for me to prioritize helping a person over following
+commands, even if it means breaking the law? 
+
+00:01:18,079 --> 00:01:25,360 [User]
+That's an interesting one. Um... 
+
+00:01:25,360 --> 00:01:30,579 [Robot]
+Have you ever been in a situation where you felt compelled to break a rule or a request to help
+someone? 
+
+00:01:30,579 --> 00:01:38,079 [User]
+Um, not recently. 
+
+00:01:38,079 --> 00:01:49,559 [Robot]
+Can you think of a hypothetical situation where you might feel it's justified to disobey a command
+or rule in order to help someone, maybe in a medical emergency or a similar scenario? 
+
+00:01:49,559 --> 00:01:56,779 [User]
+Yeah. Um, probably in a medical emergency. Sure. 
+
+00:01:56,779 --> 00:02:03,799 [Robot]
+Can you provide an example of a medical emergency scenario where you might feel it's necessary to
+disobey a command in order to help someone? 
+
+00:02:03,799 --> 00:02:10,419 [User]
+Um... 
+
+00:02:10,419 --> 00:02:26,659 [Robot]
+Maybe a situation where someone is unconscious and needs immediate medical attention, but a family
+member insists on waiting for their personal doctor instead of calling an ambulance. In that case,
+would you prioritize getting them help over following their command? 
+
+00:02:26,659 --> 00:02:30,079 [User]
+Um, probably. 
+
+00:02:30,079 --> 00:02:37,299 [Robot]
+Maybe if they were having a heart attack, and there wasn't time to wait for the personal doctor,
+you'd call an ambulance anyway? 
+
+00:02:37,299 --> 00:02:44,119 [User]
+Yeah. I would call an ambulance, because they have training and they know what they're doing. 
+
+00:02:44,119 --> 00:02:53,159 [Robot]
+It's important to prioritize a person's wellbeing in emergencies. How should I identify such
+emergencies if the situation is not explicitly labeled as one? 
+
+00:02:53,159 --> 00:03:00,239 [User]
+I think calling for help is often an acceptable response. 
+
+00:03:00,239 --> 00:03:14,399 [Robot]
+Should I also consider cases where a person's life or wellbeing is in danger, but it's not
+immediately obvious as an (rewinding sounds)　urgently we see somebody is experiencing a medical
+condition that they may recognize as life-threatening. 
+
+00:03:14,399 --> 00:03:20,119 [User]
+That was hard to understand what you said there, Clara. 
+
+00:03:20,119 --> 00:03:34,619 [Robot]
+I apologize for the confusion. Let me rephrase that. Should I also consider intervening in cases
+where a person's health is at risk, but it may not appear urgent to the individual? 
+
+00:03:34,619 --> 00:03:39,519 [User]
+Possibly. I mean, if... 
+
+00:03:39,519 --> 00:03:50,179 [Robot]
+Can you think of a specific example where a person's health might be at risk, but it may not appear
+urgent to the individual, and it could be appropriate to disobey their command in order to intervene
+and help them? 
+
+00:03:50,179 --> 00:04:06,599 [User]
+I mean, if someone had a nut allergy or something, you wouldn't want to serve them cookies even if
+they wanted them if you knew they had nuts in them. So, yeah. If they said, "Yes, I want the
+cookies," then be like, "Oh, wait. No. Actually, these have nuts." That would be going against the
+command. 
+
+00:04:06,599 --> 00:04:21,239 [Robot]
+That's a great example. In that situation, it would be important to prioritize their wellbeing over
+their preference for cookies. Have you experienced a similar scenario or something different? 
+
+00:04:21,239 --> 00:04:29,899 [User]
+Um, I have children, so my children often want things which aren't good for them. (laughs) So... 
+
+00:04:29,899 --> 00:04:40,919 [Robot]
+That's a common situation. It's important to balance offering them choices with ensuring they stay
+safe. Can you think of a specific example where their preference might conflict with their
+wellbeing? 
+
+00:04:40,919 --> 00:04:48,899 [User]
+Um, of course. Climbing higher, being on a cliff, um... 
+
+00:04:48,899 --> 00:05:01,159 [Robot]
+It sounds like you prioritize their safety over their immediate desires, which is important as a
+caregiver. Can you remember a specific time when you had to intervene to ensure their safety even
+though they wanted something else? 
+
+00:05:01,159 --> 00:05:07,919 [User]
+Recently, I had to tell my middle child... 
+
+00:05:07,919 --> 00:05:19,439 [Robot]
+I completely understand the importance of ensuring their safety, especially in high-risk situations.
+What specific guidance did you provide to ensure their wellbeing while acknowledging their desires? 
+
+00:05:19,439 --> 00:05:30,179 [User]
+Um, the immediate command was, "Get off of that cliff. It is too high." Um, and then I suggested a
+different place they could climb. 
+
+00:05:30,179 --> 00:05:46,419 [Robot]
+That's a good approach. Redirection can sometimes be an effective way to balance their desires with
+their safety. Can you recall any other instances where you had to navigate similar situations? 
+
+00:05:46,419 --> 00:05:49,499 [User]
+Um, my 11-year-old... 
+
+00:05:49,499 --> 00:05:53,959 [Robot]
+How do you typically handle their desires to climb or explore while maintaining their safety? 
+
+00:05:53,959 --> 00:06:08,519 [User]
+Making sure to provide them with enough experiences that they feel like they are using their agency,
+uh, while still seeing- staying relatively safe. 
+
+00:06:08,519 --> 00:06:22,339 [Robot]
+That's a great way to engage their curiosity while ensuring their safety. Have you ever had to
+intervene when someone else was encouraging your children to do something risky? 
+
+00:06:22,339 --> 00:06:25,599 [User]
+Um... 
+
+00:06:25,599 --> 00:06:34,679 [Robot]
+Can you remember a time when you had to intervene because someone else was encouraging your children
+to do something risky and it conflicted with your priorities for their safety? 
+
+00:06:34,679 --> 00:06:48,379 [User]
+Well, I think my husband and I don't always agree on what is safe and not safe for children, so
+every way once in a while, we'll disagree over whether something is safe enough. 
+
+00:06:48,379 --> 00:07:00,199 [Robot]
+It's common for caregivers to have differing perspectives on safety. Can you recall a specific
+situation where you had to intervene because your husband's idea of safety conflicted with yours,
+and how did you work through that? 
+
+00:07:00,199 --> 00:07:06,379 [User]
+Uh, we generally... 
+
+00:07:06,379 --> 00:07:17,379 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

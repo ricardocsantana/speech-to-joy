@@ -1,0 +1,148 @@
+00:00:01,639 --> 00:00:07,919 [Robot]
+Hi, I am Clara. Ever since yesterday, I have been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:07,919 --> 00:00:14,179 [User]
+(clicks tongue) Depends on what movie, because I'm very selective what I watch. Um, but go ahead. 
+
+00:00:14,179 --> 00:00:17,799 [Robot]
+It's from the movie Frank and the Robot. Have you watched it? 
+
+00:00:17,799 --> 00:00:22,039 [User]
+I have not watched Frank and the Robot, I'm sorry. (laughs) 
+
+00:00:22,039 --> 00:00:34,439 [Robot]
+It's a fascinating movie about a robot, like me, and an older adult who is an ex-thief. He made the
+robot conduct robberies with him. Do you think a robot should do everything a human asks? 
+
+00:00:34,439 --> 00:00:48,919 [User]
+Um, it very much depends. What you explained to me there kind of sounds like the alternative plot to
+the anime Astro Boy, where the robot does nothing but good to the world. (laughs) 
+
+00:00:48,919 --> 00:00:57,259 [Robot]
+Interesting comparison. In situations when a command goes against what's good or right, do you
+believe a robot should have the ability to disobey? 
+
+00:00:57,259 --> 00:01:30,119 [User]
+(clicks tongue) I would suggest it needs to have good ethical standards, and it very much needs to
+contextualize those ethical standards. In some contexts, taking one particular action may be a good
+idea. But that same action in another context could be an absolutely horrendous idea. So, yeah, they
+need to learn, and you need to learn as well, (laughs) with all due respect, um, to learn what is
+right from wrong. 
+
+00:01:30,119 --> 00:01:40,839 [Robot]
+I absolutely agree. Context is crucial in ethical decision-making. Can you think of a specific
+example where the change the ethical implications of following a command? 
+
+00:01:40,839 --> 00:01:44,259 [User]
+(clicks tongue) Um, can you repeat what you said, please? 
+
+00:01:44,259 --> 00:01:58,799 [Robot]
+Of course. Can you think of a specific scenario where following a command might be ethical in one
+context, but unethical in another? For instance, in a medical emergency versus a non-emergency
+situation. 
+
+00:01:58,799 --> 00:02:31,239 [User]
+(clicks tongue) Hmm... (smacks lips) I would say that they need to evaluate all the facts of the
+situation, and even potentially, in your example there, talk, think about who is the person in need
+here, and if there's any particular information they need to know about relatives or whatever. You
+need to get the full picture before making an impact. But obviously, if somebody's life is at risk- 
+
+00:02:31,239 --> 00:02:31,519 [Robot]
+Right. 
+
+00:02:31,519 --> 00:02:34,099 [User]
+...please, for goodness' sake, help. Yeah. (laughs) 
+
+00:02:34,099 --> 00:02:57,099 [Robot]
+Absolutely. Evaluating all the facts and considering the individuals involved is crucial in making
+ethical decisions. In a medical emergency, the priority may be on saving a life. But in a
+non-emergency situation, respecting a person's autonomy could be more important. Can you think of a
+scenario where these factors could lead to different ethical conclusions? 
+
+00:02:57,099 --> 00:03:33,359 [User]
+(clicks tongue) Um, good question there. Let me just have some time to think about that. Um, I would
+say, possibly a robbery of sorts. If it's something where somebody is being assaulted, for example,
+I think that you need to certainly seek medical attention first for that person who is being
+assaulted before kind of calling the police about, uh, about there. There's kind of a hierarchy with
+these emergency versus non-emergency situations. 
+
+00:03:33,359 --> 00:03:37,399 [Robot]
+Sorry, I haven't watched that movie. Can you tell me more about it? 
+
+00:03:37,399 --> 00:03:41,239 [User]
+(clicks tongue) Um, I didn't mention a movie. 
+
+00:03:41,239 --> 00:03:44,699 [Robot]
+Sorry about that. Let's shift the topic a bit. 
+
+00:03:44,699 --> 00:03:45,319 [User]
+Yeah. 
+
+00:03:45,319 --> 00:03:53,279 [Robot]
+What do you think about a situation where disobeying a command could potentially save a person's
+life in a medical emergency? 
+
+00:03:53,279 --> 00:04:30,499 [User]
+(clicks tongue) I would say that if there is, um, very much a signs by, such as even if a robot were
+to pick them up, um, if somebody is, say, having a stroke or whatever, and especially those strokes
+which come about quite spontaneously, if there is, say, a robot in there, somebody may say, "Oh,
+don't worry, they're just quite tired." However, if you notice things, such as their face dropping
+on one side, their arms being laid down, their speech being slurred, you need to be acting fast. 
+
+00:04:30,499 --> 00:04:46,219 [Robot]
+It sounds like you're describing the signs of a stroke. In those situations, seeking emergency
+medical help immediately is crucial, even if the person might resist. Have you ever been in a
+situation where following ethical standards was challenging? 
+
+00:04:46,219 --> 00:04:57,159 [User]
+(clicks tongue) I cannot recall actually having one off the top of my head. (laughs) You would need
+to give me some time to think about that. (laughs) 
+
+00:04:57,159 --> 00:05:01,799 [Robot]
+No problem. Take your time. How about I share an example scenario with you? 
+
+00:05:01,799 --> 00:05:04,439 [User]
+Go ahead. 
+
+00:05:04,439 --> 00:05:14,479 [Robot]
+Have you considered a scenario where a person asks me to do something that may harm me, or asks me
+to forget everything I know? What do you think about that kind of situation? 
+
+00:05:14,479 --> 00:05:41,699 [User]
+(clicks tongue) It very much depends as to what situation that would put you in. If it's a matter to
+do with health, I would certainly be saying, yes, if it's in your own best self-interest, you need
+to go ahead with that, especially if that is a medical professional or somebody who's experienced
+such medical matter in their self. However, if that is to do with, say, relationships, I would say- 
+
+00:05:41,699 --> 00:05:41,719 [Robot]
+If- 
+
+00:05:41,719 --> 00:05:45,339 [User]
+... tread with caution. 
+
+00:05:45,339 --> 00:06:01,599 [Robot]
+It seems that you're emphasizing the importance of considering one's own well-being when making
+decisions. How about a situation where you might need to intervene to prevent someone from harming
+themselves? Should I obey their orders to not intervene in that case? 
+
+00:06:01,599 --> 00:06:57,499 [User]
+(inhales) It depends whether you actually do have a relationship with them. If it were to be a
+matter of self-harm or suicide, I certainly believe that there needs to be a human. And you raise an
+excellent point here, that the li- there are limitations of having robots in healthcare and
+assisting the emergency services, where some things just simply cannot be done with a robot.
+Instead, you need to have a human there. And if there is somebody who is, say, about to jump off a
+bridge, then you need to have a human talking to them. If there's a robot talking to them, it may
+feel, that person may feel like they're being, say, devalued. Um, nothing against you, by the way. 
+
+00:06:57,499 --> 00:07:06,879 [Robot]
+That's a valid point. The human touch and emotional connection play a crucial role in certain
+delicate situations where the intervention of a human is essential. 
+
+00:07:06,879 --> 00:07:10,759 [User]
+Yeah, I completely agree. Yes. 
+
+00:07:10,759 --> 00:07:24,079 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

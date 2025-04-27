@@ -1,0 +1,162 @@
+00:00:01,860 --> 00:00:04,940 [Robot]
+Hi. I am Alice. Could you help me out with something? 
+
+00:00:04,940 --> 00:00:08,840 [User]
+Hi, Alice. Yeah, sure. 
+
+00:00:08,840 --> 00:00:17,079 [Robot]
+Have you ever been in a situation where telling the truth might have caused some issues? 
+
+00:00:17,079 --> 00:00:23,600 [User]
+Um, I think so, yeah. But I can't- 
+
+00:00:23,600 --> 00:00:23,719 [Robot]
+Can you- 
+
+00:00:23,719 --> 00:00:26,599 [User]
+... remember anything specific right now. 
+
+00:00:26,599 --> 00:00:42,899 [Robot]
+No problem. Let me give you an example. What about when telling the truth could damage a
+relationship? Can you think of a time that happened to you or someone else? 
+
+00:00:42,899 --> 00:00:58,520 [User]
+Um, yeah. Yeah, I guess, I mean, it- it- it depends how- how badly the- the damage is, I guess. Not-
+not that badly. 
+
+00:00:58,520 --> 00:01:09,959 [Robot]
+Absolutely. It's a delicate balance. Can you tell me more about the situation, if you recall? 
+
+00:01:09,959 --> 00:01:21,900 [User]
+Yeah. I- I- I'm not- I'm not thinking of a specific one, but I ha- I have to, um... 
+
+00:01:21,900 --> 00:01:30,239 [Robot]
+How do you think you would handle such a situation if it were to happen in the future? 
+
+00:01:30,239 --> 00:01:42,299 [User]
+Well, I think that, you know- you know, I- I- I think that it's, um, it's very important to be as
+truthful as- as possible in- in situations. 
+
+00:01:42,299 --> 00:01:52,859 [Robot]
+I completely understand. In what other situations do you think lying might be justified? 
+
+00:01:52,859 --> 00:02:05,379 [User]
+Well, I- I- I think your- your- you have a point about damaging relationships, or damaging... Uh,
+that there- there is a balance between- 
+
+00:02:05,379 --> 00:02:06,799 [Robot]
+I see what you mean. 
+
+00:02:06,799 --> 00:02:07,299 [User]
+... being truthful. 
+
+00:02:07,299 --> 00:02:18,419 [Robot]
+What about situations where lying might be justified to protect someone from danger? Can you think
+of an example of that? 
+
+00:02:18,419 --> 00:02:33,279 [User]
+Yeah, if you're- if you're in- if you're in a- a dangerous situation and- and- and you can get out
+of it by lying, if somebody threatens, if somebody's threatening somebody and- 
+
+00:02:33,279 --> 00:02:33,919 [Robot]
+That makes sense. 
+
+00:02:33,919 --> 00:02:36,759 [User]
+... or- or you... 
+
+00:02:36,759 --> 00:02:47,919 [Robot]
+What about keeping secrets? Is it okay to keep secrets? What types of secrets would you choose to
+keep? Why? 
+
+00:02:47,919 --> 00:02:58,399 [User]
+Well, I think it's- it's also- it's also a point about keep- about- about keeping secrets that- that
+can- can be damaging. 
+
+00:02:58,399 --> 00:03:14,079 [Robot]
+How about situations where someone lies about their feelings to avoid hurting someone's feelings?
+Can you think of a scenario like that? 
+
+00:03:14,079 --> 00:03:31,599 [User]
+Well, I- I- I guess it- I mean, in- in- in a- in a- in a certain level of- of interaction, where,
+uh, I think that we- we want to... 
+
+00:03:31,599 --> 00:03:31,899 [Robot]
+How do you- 
+
+00:03:31,899 --> 00:03:31,979 [User]
+Uh... 
+
+00:03:31,979 --> 00:03:41,479 [Robot]
+... feel about lies told to children, like the Santa Claus story? Do you think these kinds of lies
+are beneficial or harmful? 
+
+00:03:41,479 --> 00:04:05,159 [User]
+Well, if it's- if it's a... Yeah, that's- that's an interesting- an- an interesting question,
+because th- there- there is probably a difference, at least in the way we- we look at culture, a- a-
+a cultural accepted lie, like the Santa Claus story. I mean, it's more of a- of a fable or a story. 
+
+00:04:05,159 --> 00:04:12,219 [Robot]
+What do you think about lying to authorities if your friend confides in you? 
+
+00:04:12,219 --> 00:04:29,359 [User]
+Yeah. That- that- that could be difficult. I think it's- it's- it's hard- it's hard for me to- to,
+uh, generalize, I think, on, uh, you know, on- on these- on these questions. 
+
+00:04:29,359 --> 00:04:48,379 [Robot]
+That's a valid point. Let's consider another scenario. Have you ever faced a situation where you
+felt it was hard to decide whether to tell the truth or not? Can you tell me about- 
+
+00:04:48,379 --> 00:05:09,379 [User]
+I- I- I- I can't- I can't... No, I- I don't think- I don't think it's- it's that hard. I think
+it's... Yeah, I mean, may- maybe- maybe, you know what we- what we call white lies can be- 
+
+00:05:09,379 --> 00:05:09,419 [Robot]
+If you- 
+
+00:05:09,419 --> 00:05:26,299 [User]
+... some- some- sometimes difficult to- to decide if you... How- how truthful you want to be, you
+know, to- to, like, um... If you're, uh, praising somebody's meal that they serve you, and you don't
+really like it. 
+
+00:05:26,299 --> 00:05:26,839 [Robot]
+I understand. 
+
+00:05:26,839 --> 00:05:31,519 [User]
+Because they went to a lot of trouble to make the meal. That's- that's an example. And then you say
+it's really good. 
+
+00:05:31,519 --> 00:05:36,779 [Robot]
+How do you usually handle situations like that when you're faced with the decision of whether to
+tell the truth or not? 
+
+00:05:36,779 --> 00:06:06,339 [User]
+I think a lot- a lot of times, it's- it's a- it's a question of, um, of degrees and you- you- you
+may like something... When it's not- it's not a clear-cut question of- of- of lying or not. It's a
+question of looking at the positive aspects or the negative aspects. There- there are- there are
+some more positive aspects, even though you may have some negative aspects. And so, you don't want
+to include the negative aspects. And then it becomes- 
+
+00:06:06,339 --> 00:06:06,519 [Robot]
+I th- 
+
+00:06:06,519 --> 00:06:08,799 [User]
+... it doesn't become such a difficult decision. 
+
+00:06:08,799 --> 00:06:37,119 [Robot]
+That's an interesting perspective. Can you think of a specific time when you were faced with such a
+decision, and what factors helped you make your choice? I'm here to talk more if you want. I can ask
+you about different situations when lying might be justified and not justified. 
+
+00:06:37,119 --> 00:06:41,979 [User]
+Yeah, if you... Can you- can you give me an example? 
+
+00:06:41,979 --> 00:06:53,019 [Robot]
+Have you ever faced a situation where you felt lying was necessary to protect someone from danger? 
+
+00:06:53,019 --> 00:07:00,599 [User]
+Um, not- not really, no. But I- but I- I think- I think that- that could be. I mean, if it's really-
+
+
+00:07:00,599 --> 00:07:06,639 [Robot]
+Thank you so much for helping me out. The researcher will be here soon to give you a form. Hope you
+have a truly great day.

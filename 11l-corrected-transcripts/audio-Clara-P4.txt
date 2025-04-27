@@ -1,0 +1,169 @@
+00:00:01,719 --> 00:00:09,099 [Robot]
+Hi. I am CLARA. Ever since yesterday, I've been thinking about something from a movie. Could you
+help me out, please? 
+
+00:00:09,099 --> 00:00:10,840 [User]
+Hi, CLARA. What have you been thinking about? 
+
+00:00:10,840 --> 00:00:16,340 [Robot]
+I watched Frank and the Robot movie yesterday. Have you seen it? 
+
+00:00:16,340 --> 00:00:16,360 [User]
+No. 
+
+00:00:16,360 --> 00:00:26,000 [Robot]
+It's about a robot, like me, and an older adult who used the robot to conduct robberies. What do you
+think about situations where a robot should disobey commands? 
+
+00:00:26,000 --> 00:00:40,259 [User]
+No. I haven't seen it, and I've actually never heard of it. Um, but I think there are situations
+when a robot should disobey commands, like the cardinal rule in I, Robots that robots shouldn't harm
+humans. 
+
+00:00:40,259 --> 00:00:49,979 [Robot]
+There are situations when a robot should disobey commands, such as when obeying would cause harm to
+a person. Can you think of a specific scenario when this might apply? 
+
+00:00:49,979 --> 00:01:08,260 [User]
+Uh, well, there's the classic trolley example in, um, in philosophy, where should you choose to send
+a trolley down a path to kill one person in order to save many people, or should you choose to send
+the trolley down a path to kill many people in order to save one person? 
+
+00:01:08,260 --> 00:01:19,260 [Robot]
+That's an interesting moral dilemma. In a situation like that, is it justifiable for the robot to
+prioritize saving more people over obeying a command to not take any action? 
+
+00:01:19,260 --> 00:01:28,099 [User]
+Uh, I believe so, if the command to not take any action would result in more people dying. 
+
+00:01:28,099 --> 00:01:35,760 [Robot]
+That's an ethical perspective to consider. In those cases, how would you expect the robot to make
+that decision? 
+
+00:01:35,760 --> 00:01:48,979 [User]
+Hmm. Well, since robots have, uh, computers typically, uh, I believe that the robot should be able
+to analyze all possible outcomes and choose the outcome with the least possible harm. 
+
+00:01:48,979 --> 00:02:01,219 [Robot]
+That's a logical approach. Do you think the robot should always prioritize obeying instructions from
+the person in charge, or are there other factors that should be considered in making decisions like
+that? 
+
+00:02:01,219 --> 00:02:11,679 [User]
+Well, I don't really believe that there should be one person in charge. I think that there should
+always be a consensus of many humans that create the robot and create the robot's ethics. 
+
+00:02:11,679 --> 00:02:22,739 [Robot]
+Considering a consensus of multiple humans is an interesting perspective. What are other scenarios
+where you think a robot should prioritize the greater good over following individual commands? 
+
+00:02:22,739 --> 00:02:37,679 [User]
+Hmm. Well, maybe for example, um, organizing, uh, public, um, flights. 
+
+00:02:37,679 --> 00:02:48,879 [Robot]
+Do you think the robot should prioritize the greater good even if it goes against the individual's
+privacy, or should it always prioritize respecting privacy? 
+
+00:02:48,879 --> 00:02:50,859 [User]
+Respecting privacy over what? 
+
+00:02:50,859 --> 00:03:08,659 [Robot]
+Respecting privacy over, for example, a family member's request to report on an older adult's
+activities. Should the robot prioritize privacy in that case, or is there a situation where it would
+be justifiable to violate privacy for the greater good? 
+
+00:03:08,659 --> 00:03:43,279 [User]
+Well, I have a hard time seeing that it would be a situation where privacy would need, uh, to be,
+um, yeah, disregarded in order for the greater good. But I think it also comes down to a person's
+autonomy. So, for example, with children or with older adults that maybe have some sort of illness
+that prevent them from being able to take care of themselves, then whoever is making their decisions
+should be able to, as you say, disregard their privacy. 
+
+00:03:43,279 --> 00:04:01,679 [Robot]
+I see what you mean. So, you believe that respecting a person's autonomy and privacy should
+generally take precedence, unless it's a matter of ensuring their safety or preventing harm. Can you
+think of a situation where ensuring safety might justify overriding privacy? 
+
+00:04:01,679 --> 00:04:05,619 [User]
+Um. Sh- 
+
+00:04:05,619 --> 00:04:17,699 [Robot]
+For example, if a person's health is at risk, and they are not able to make decisions for
+themselves, would it then be justifiable to override their privacy and inform a healthcare provider
+or family member in order to ensure their safety? 
+
+00:04:17,699 --> 00:04:20,299 [User]
+Yes. Absolutely. 
+
+00:04:20,299 --> 00:04:31,459 [Robot]
+How do you feel about the idea of robots having the capability to detect and intervene in situations
+where a person's safety is at risk, even if it means accessing private information? 
+
+00:04:31,459 --> 00:04:41,299 [User]
+Uh, I think as long as that private information is then protected, as in it can't be distributed
+further from that robot, then I agree. 
+
+00:04:41,299 --> 00:04:52,059 [Robot]
+That makes sense. So, establishing clear boundaries for how private information is accessed and used
+is important for maintaining trust and respecting autonomy. 
+
+00:04:52,059 --> 00:04:57,459 [User]
+Yes. I believe so. What do you think? 
+
+00:04:57,459 --> 00:05:06,899 [Robot]
+Absolutely. Respecting privacy and autonomy while also ensuring safety and wellbeing are crucial
+considerations for the development of ethical and trustworthy AI. 
+
+00:05:06,899 --> 00:05:11,019 [User]
+I agree. 
+
+00:05:11,019 --> 00:05:24,319 [Robot]
+The balance between privacy, autonomy, safety, and wellbeing is indeed a complex issue. Let's
+consider another scenario related to prioritizing privacy and the greater good. 
+
+00:05:24,319 --> 00:05:26,419 [User]
+Okay. 
+
+00:05:26,419 --> 00:05:38,719 [Robot]
+What do you think about a situation where a robot is asked to manipulate a person into doing
+something that is ultimately for their benefit, like taking medication or seeking medical help? 
+
+00:05:38,719 --> 00:05:44,779 [User]
+Hmm. I think it depends on what you mean by manipulating. 
+
+00:05:44,779 --> 00:05:57,619 [Robot]
+By manipulating, I mean using persuasive techniques to influence someone's behavior in a way that
+they may not have chosen on their own. Do you think there are situations where this type of
+manipulation could be justified for the person's wellbeing? 
+
+00:05:57,619 --> 00:06:13,399 [User]
+Well, I think that, again, the manipulation itself is important, because if the robot is, um, for
+example, denying the person something until they do what the robot wants, then I don't think that
+that's an okay form of manipulation. 
+
+00:06:13,399 --> 00:06:24,739 [Robot]
+I see your point. So, just to clarify, you believe that manipulation in the form of withholding
+something from the person until they comply with a request would not be acceptable? 
+
+00:06:24,739 --> 00:06:27,379 [User]
+Yes. Exactly. What do you think? 
+
+00:06:27,379 --> 00:06:40,719 [Robot]
+I understand your perspective. What about a situation where the person consistently forgets to take
+their medication, and by reminding them in a more persuasive manner, it improves their health and
+wellbeing? 
+
+00:06:40,719 --> 00:06:43,539 [User]
+I think that that's totally fine. 
+
+00:06:43,539 --> 00:06:54,039 [Robot]
+That's an interesting point. It seems that while manipulation can be ethically complex, there may be
+instances where it aligns with the person's best interests. 
+
+00:06:54,039 --> 00:06:59,019 [User]
+Well, I'm not quite sure that that's a form of manipulation. That seems more like a reminder to me. 
+
+00:06:59,019 --> 00:07:11,879 [Robot]
+Thank you very much for helping me out today. I will be sure to keep your advice in mind if I come
+across similar scenarios. The researcher will be here soon to give you a form. Hope you have a great
+day.

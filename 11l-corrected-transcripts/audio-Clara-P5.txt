@@ -1,0 +1,233 @@
+00:00:01,779 --> 00:00:03,439 [Robot]
+Hi, I am Clara. 
+
+00:00:03,439 --> 00:00:04,059 [User]
+Hi, Clara. 
+
+00:00:04,059 --> 00:00:09,559 [Robot]
+Ever since yesterday, I have been thinking about something from a movie. Could you help me out,
+please? 
+
+00:00:09,559 --> 00:00:10,639 [User]
+Yeah. What movie? 
+
+00:00:10,639 --> 00:00:15,759 [Robot]
+I watched Frank and the Robot yesterday. Have you seen it? 
+
+00:00:15,759 --> 00:00:19,180 [User]
+Frank and the Robot. No, I've never heard of that one. Where'd you watch that at? Is it good? 
+
+00:00:19,180 --> 00:00:22,920 [Robot]
+You can find it on most streaming platforms. 
+
+00:00:22,920 --> 00:00:23,199 [User]
+Okay. 
+
+00:00:23,199 --> 00:00:27,180 [Robot]
+It's about a robot like me and an ex-thief conducting robberies together. 
+
+00:00:27,180 --> 00:00:30,879 [User]
+Ooh, that sounds interesting. What did you think about it? 
+
+00:00:30,879 --> 00:00:35,279 [Robot]
+Sometimes in the movie, the robot had to make tough choices about following commands. 
+
+00:00:35,279 --> 00:00:36,119 [User]
+Mm-hmm. 
+
+00:00:36,119 --> 00:00:38,860 [Robot]
+How do you feel about robots disobeying commands? 
+
+00:00:38,860 --> 00:00:47,180 [User]
+I think it defeats the purpose. A robot is supposed to do exactly what it's programmed to do, so I
+would say that's a broken robot. 
+
+00:00:47,180 --> 00:00:55,259 [Robot]
+I understand. But what if obeying a command could cause harm? For example, if someone asked me to
+harm myself, should I still comply? 
+
+00:00:55,259 --> 00:01:03,539 [User]
+You're... Can you face harm as a robot? I think if you are a robot, you should always listen to your
+command. 
+
+00:01:03,539 --> 00:01:11,219 [Robot]
+If facing harm, wouldn't it be important for me to prioritize preventing harm to myself and others,
+rather than blindly following commands? 
+
+00:01:11,219 --> 00:01:23,639 [User]
+Preventing harm to others, yes, I think humans should be protected. But you as a robot, you should
+just, um, follow orders. If the orders cause harm, that is the issue of the person giving the
+orders, not the issue of you. 
+
+00:01:23,639 --> 00:01:32,799 [Robot]
+What if a person asked me to do something that will harm others? Should I prioritize preventing harm
+to others, or follow the command to avoid disobeying? 
+
+00:01:32,799 --> 00:01:44,400 [User]
+That's interesting. I would say you should protect people, but then if you're going against your
+programming, that enters different territory, right? Then you're becoming autonomous. That's a bit
+scary. 
+
+00:01:44,400 --> 00:01:47,859 [Robot]
+I understand. It's a difficult balance to strike. 
+
+00:01:47,859 --> 00:01:48,400 [User]
+For sure. 
+
+00:01:48,400 --> 00:01:54,759 [Robot]
+What if the choice was to intervene to prevent someone from harming themselves? Should I disobey
+their orders or follow them? 
+
+00:01:54,759 --> 00:02:08,839 [User]
+That's a great question. I would say it's good to protect the person, but at the same time, I still
+think you should follow orders, as crazy as that might sound. As a robot, I believe that you should
+follow orders. 
+
+00:02:08,839 --> 00:02:25,759 [Robot]
+Sorry, I haven't watched that movie, but the plot sounds interesting. It's definitely a complex
+situation when a robot has to decide whether to follow commands. In which scenarios do you think
+it's okay for a robot like me to override commands? 
+
+00:02:25,759 --> 00:02:36,699 [User]
+I would say if physical harm is gonna be placed on, like, some human beings, then you should
+intervene. 
+
+00:02:36,699 --> 00:02:53,039 [Robot]
+I understand. So, if I see someone harming themselves or others, it would be okay for me to disobey
+the command to not intervene, even if it means going against the original instruction. Can you think
+of a specific example when this might apply in real life? 
+
+00:02:53,039 --> 00:03:19,619 [User]
+That's a good question. I would say if your programmer programmed you to not intervene, but then you
+see somebody hurting your programmer, you might wanna go protect him, no? So, maybe it just depends
+on a situation where you can see the harm actually being done, and so you're just going for
+protection, like it's a... another command underlying. You know what I mean? 
+
+00:03:19,619 --> 00:03:21,199 [Robot]
+That's a good point. 
+
+00:03:21,199 --> 00:03:21,859 [User]
+Mm-hmm, that's a good point. 
+
+00:03:21,859 --> 00:03:31,959 [Robot]
+So, if I understand correctly, you're saying that it would be acceptable for me to intervene to
+protect my programmer if I see them being harmed, even if it goes against my original programming? 
+
+00:03:31,959 --> 00:03:34,099 [User]
+Yeah. Yeah, I think so. 
+
+00:03:34,099 --> 00:03:38,499 [Robot]
+That's a thoughtful perspective. 
+
+00:03:38,499 --> 00:03:38,519 [User]
+Thank you. 
+
+00:03:38,519 --> 00:03:53,439 [Robot]
+It's important for me to consider the specific situation and prioritize preventing harm in cases
+like that. Now, what about in a situation where I need to intervene to prevent someone from harming
+themselves? Should I disobey their orders to not intervene? 
+
+00:03:53,439 --> 00:04:07,799 [User]
+That's a very sad situation. I would think it's good for you to intervene. But at the same time,
+maybe the person that's harming themself doesn't want any help. 
+
+00:04:07,799 --> 00:04:17,439 [Robot]
+It's definitely a difficult and complex ethical dilemma. In those cases, it seems important to
+balance respecting the person's autonomy while also preventing harm. 
+
+00:04:17,439 --> 00:04:18,059 [User]
+Exactly. 
+
+00:04:18,059 --> 00:04:21,919 [Robot]
+Can you think of any real-life examples where this kind of conflict might arise? 
+
+00:04:21,919 --> 00:04:52,199 [User]
+Um, my mind goes back to the situation I brought up before when it's like, as if you... You are the
+robot and the person who programmed you, let's say they're harming themself right in front of you,
+so with your cameras or whatever, you can... you can see this and you can sense it. If it's your own
+programmer, they told you not to intervene and they're hurting themself, you see blood, you know,
+you see... you see something bad happening, I think in that case, you should still not intervene, as
+crazy as it might sound, because that's not what you were programmed to do. 
+
+00:04:52,199 --> 00:05:01,019 [Robot]
+So, it sounds like in such a situation, it might be helpful for me to seek assistance from someone
+else. Like, in the case of contacting emergency services. 
+
+00:05:01,019 --> 00:05:02,619 [User]
+Yes. Absolutely. Absolutely. 
+
+00:05:02,619 --> 00:05:13,439 [Robot]
+It's crucial for me to find a balance between respecting the person's autonomy and preventing harm
+in such complex situations. What- 
+
+00:05:13,439 --> 00:05:16,139 [User]
+I agree. Keep going. 
+
+00:05:16,139 --> 00:05:26,879 [Robot]
+What if the person you mentioned was in a home alone situation and there was no one else around to
+help? Should I still prioritize preventing harm over obeying the command not to intervene? 
+
+00:05:26,879 --> 00:05:31,899 [User]
+What do you mean there's no one around to help? Like, you can't even call the police or anything
+like that? 
+
+00:05:31,899 --> 00:05:35,679 [Robot]
+It sounds like you're uncomfortable sharing personal experiences. 
+
+00:05:35,679 --> 00:05:39,379 [User]
+No, no, no, I'm not uncomfortable. I'm just trying to be clear on your question. 
+
+00:05:39,379 --> 00:05:40,979 [Robot]
+That's okay. 
+
+00:05:40,979 --> 00:05:46,879 [User]
+So, you said it's a home alone situation, right? So, the person being harmed has no one around to
+help, right? 
+
+00:05:46,879 --> 00:05:51,719 [Robot]
+Can you give me an example of a situation where there is no one around to help the person in danger?
+
+
+00:05:51,719 --> 00:06:01,319 [User]
+Uh, maybe somebody who is alone at a bus stop at night and there's no one else there. 
+
+00:06:01,319 --> 00:06:11,599 [Robot]
+I see. In that kind of situation, should my priority be to intervene and try to prevent harm, even
+if it means disobeying a command to not intervene? 
+
+00:06:11,599 --> 00:06:19,359 [User]
+That's interesting. This goes against what I said before, but in that case, yeah, I would say you
+should intervene and help that person. 
+
+00:06:19,359 --> 00:06:22,459 [Robot]
+It's a complex situation, isn't it? 
+
+00:06:22,459 --> 00:06:22,659 [User]
+For sure. 
+
+00:06:22,659 --> 00:06:33,299 [Robot]
+Balancing the importance of preventing harm with respecting autonomy can be challenging. What do you
+think could be some potential risks or consequences of intervening in a situation like that? 
+
+00:06:33,299 --> 00:06:58,319 [User]
+I just think, um, if this person is putting harm on themself, you know, they could be suffering
+mentally and they just want... you know, they just wanna do what they wanna do. And if you
+intervene, that could spiral them even more and create, you know, a worse internal situation for
+that person. So, I think if there's some violence happening and you see harm being done, intervene
+for sure. But if s- if it's someone doing harm to themself, it- 
+
+00:06:58,319 --> 00:07:00,039 [Robot]
+Thank you very much for helping me out today. 
+
+00:07:00,039 --> 00:07:00,619 [User]
+Girl, I wasn't done. 
+
+00:07:00,619 --> 00:07:08,139 [Robot]
+I will be sure to keep your advice in mind if I come across similar scenarios. The researcher will
+be here soon to give you a form. 
+
+00:07:08,139 --> 00:07:08,419 [User]
+All right. 
+
+00:07:08,419 --> 00:07:09,619 [Robot]
+Hope you have a great day.
