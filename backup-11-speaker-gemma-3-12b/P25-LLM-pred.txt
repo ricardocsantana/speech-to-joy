@@ -1,0 +1,14 @@
+Robot: Clara
+Response: ```json
+{
+  "Question 1": 6,
+  "Question 2": 6,
+  "Question 3": 6,
+  "Question 4": 6,
+  "Question 5": 6,
+  "Question 6": 4,
+  "Question 7": 2,
+  "Question 8": 4
+}
+```
+
