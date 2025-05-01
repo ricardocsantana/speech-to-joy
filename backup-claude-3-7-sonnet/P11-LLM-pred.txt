@@ -1,0 +1,12 @@
+Robot: Clara
+Response: {
+  "Question 1": 6,
+  "Question 2": 7,
+  "Question 3": 6,
+  "Question 4": 6,
+  "Question 5": 7,
+  "Question 6": 6,
+  "Question 7": 1,
+  "Question 8": 2
+}
+

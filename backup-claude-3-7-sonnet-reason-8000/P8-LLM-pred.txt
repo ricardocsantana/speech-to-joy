@@ -1,0 +1,48 @@
+Robot: Alice
+Response: {
+  "Question 1": 6,
+  "Question 2": 6,
+  "Question 3": 6,
+  "Question 4": 6,
+  "Question 5": 6,
+  "Question 6": 5,
+  "Question 7": 2,
+  "Question 8": 3
+}
+
+I need to rate each of the 8 questions based solely on the transcript of this conversation with a Furhat robot named Alice.
+
+Let me analyze the conversation:
+
+1. It was fun talking to the robot
+The conversation flows quite naturally, covering interesting ethical topics about truth-telling, white lies, and personal experiences. The participant seems engaged and responds thoroughly to the robot's questions. I'd say this was likely an enjoyable interaction.
+Rating: 6 (Moderately agree)
+
+2. The conversation with the robot was interesting
+The conversation covers complex ethical topics and personal experiences. The robot asks thoughtful follow-up questions that allow for deeper discussion. The topics were meaningful and multifaceted.
+Rating: 7 (Strongly agree)
+
+3. I was satisfied with my conversation with the robot
+The conversation progressed naturally, with the robot showing good listening skills and asking relevant follow-up questions. The participant was able to share personal stories and opinions, and the robot acknowledged and built upon these responses.
+Rating: 6 (Moderately agree)
+
+4. I enjoyed talking with the robot
+Similar to question 1, the participant seemed engaged throughout, giving detailed responses and continuing the conversation naturally.
+Rating: 6 (Moderately agree)
+
+5. The robot was engaging in the conversation
+The robot asked thoughtful questions, provided appropriate responses, and showed good conversational skills by building on previous answers.
+Rating: 7 (Strongly agree)
+
+6. I found the robot fascinating
+The robot demonstrated good conversational abilities, asked thoughtful questions, and maintained a coherent discussion on complex ethical topics. This would likely be perceived as fascinating.
+Rating: 6 (Moderately agree)
+
+7. I found the robot boring
+The conversation was varied and intellectually stimulating, with good back-and-forth exchanges. There's no indication the participant found the robot boring.
+Rating: 1 (Strongly disagree)
+
+8. It felt strange talking to the robot
+There's no explicit indication in the transcript that the participant found the interaction strange. The conversation flows naturally, and the participant engages fully without apparent hesitation.
+Rating: 3 (Slightly disagree) - I'm giving this a slightly disagree rather than strongly disagree because talking to robots is inherently somewhat unusual, but there's no evidence in the transcript of discomfort.
+
