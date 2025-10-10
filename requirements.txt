@@ -1,0 +1,27 @@
+# Jupyter
+notebook
+ipykernel
+
+# Core Libraries
+numpy
+pandas
+scikit-learn
+
+# Deep Learning
+torch
+transformers
+
+# Audio Processing
+librosa
+pydub
+soundfile
+speechbrain
+
+# Visualization
+matplotlib
+seaborn
+
+# Other
+tqdm
+webrtcvad
+IPython

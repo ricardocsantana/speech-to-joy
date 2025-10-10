@@ -1,114 +1,80 @@
-# Speech-to-Joy
+# Speech-to-Joy: Predicting Enjoyment from Speech
 
-A machine learning project focused on predicting enjoyment levels from speech using both audio features and transcript analysis.
+This repository contains the code and data for the research project "Speech-to-Joy," which focuses on predicting enjoyment levels in dyadic conversations using machine learning. The project leverages both audio and text modalities to train and evaluate various models, from baseline RNNs to state-of-the-art Large Language Models (LLMs).
 
 ## Project Overview
 
-Speech-to-Joy is a research project that analyzes both audio and text data from conversations to predict participant enjoyment. The project uses various machine learning techniques including attention-based models to identify patterns in speech that correlate with self-reported enjoyment ratings.
+The primary goal of this project is to analyze multimodal signals from conversations to automatically predict self-reported enjoyment scores. We explore a range of techniques, including:
 
-The primary components of the project include:
+- **Audio Analysis**: Using raw audio features and advanced speech representations from models like HuBERT and wav2vec2.
+- **Text Analysis**: Processing conversation transcripts to capture semantic and emotional content.
+- **Multimodal Fusion**: Combining audio and text information to improve prediction accuracy.
+- **LLM-based Prediction**: Leveraging the capabilities of modern LLMs (e.g., Gemini, Gemma, Claude) for zero-shot or few-shot enjoyment prediction.
 
-- Audio processing and feature extraction
-- Transcript analysis
-- Various machine learning models for prediction
-- Evaluation and visualization of results
+The evaluation metric used across all models is the **Concordance Correlation Coefficient (CCC)**, which measures the agreement between predicted and ground-truth enjoyment scores.
 
 ## Repository Structure
 
-- **11l-corrected-transcripts/**: Contains the transcripts of audio files with timestamps
-- **data/**: Contains raw and processed audio data
-- **user-self-reports/**: Contains self-reported enjoyment ratings from participants
-- **backup-11-speaker-***: Backup files of various model outputs and predictions
-- **Jupyter Notebooks**: Various notebooks for data processing, model training, and analysis:
-  - `extract-annotations.ipynb`: Processes and extracts annotations from audio files
-  - `attention_audio.ipynb`: Implements attention-based models for audio analysis
-  - `attention_text.ipynb`: Implements attention-based models for text analysis
-  - `hubert.ipynb`: Uses HuBERT (Hidden Unit BERT) models for audio processing
-  - `llms.ipynb`: Experiments with Large Language Models
-  - `mean-pooling.ipynb`: Implements mean pooling techniques
-  - `plots.ipynb`: Generates visualizations of results
-  - `data.ipynb`: Data preprocessing and organization
-  - `random.ipynb`: Random baseline model implementations
+The repository is organized as follows:
 
-## Data Processing
+- **Jupyter Notebooks**: Core scripts for data processing, modeling, and analysis.
+  - `data.ipynb`: Handles initial data loading, preprocessing, and organization.
+  - `extract-annotations.ipynb`: Extracts annotations and timestamps from transcript files.
+  - `ccc_audio.ipynb` / `ccc_audio_rnn.ipynb`: Models for audio-based enjoyment prediction using CCC.
+  - `ccc_text.ipynb` / `ccc_text_rnn.ipynb`: Models for text-based enjoyment prediction using CCC.
+  - `hubert.ipynb` / `wav2vec2.ipynb`: Feature extraction using HuBERT and wav2vec2 models.
+  - `llms.ipynb`: Experiments with various Large Language Models for prediction.
+  - `mean-pooling.ipynb`: Implements mean pooling for feature aggregation.
+  - `plots.ipynb`: Generates visualizations and plots for results analysis.
+  - `random.ipynb`: Implements a random baseline for comparison.
+- **`data/`**: Contains raw and processed data, including audio files and transcripts.
+- **`predictions/`**: Stores the prediction outputs from various models.
+- **`backup-*/`**: Contains backups of predictions from different LLM experiments (e.g., Gemini, Gemma, Claude).
+- **`y-enjoyment.csv`**: The ground-truth file containing self-reported enjoyment scores for each conversation.
+- **`README.md`**: This file.
 
-The project processes audio files through several steps:
+## Methodology
 
-1. Extracting annotations from SRT files
-2. Trimming audio to focus on relevant segments
-3. Voice Activity Detection (VAD) to filter out silence
-4. Feature extraction from audio
-5. Preparation of text data from transcripts
+### 1. Data Preparation
 
-## Models
+The `data.ipynb` notebook is the starting point for preparing the dataset. It involves loading the audio files, transcripts, and the `y-enjoyment.csv` ground-truth labels.
 
-Several machine learning approaches are implemented:
+### 2. Feature Extraction
 
-- Attention-based models for both audio and text
-- HuBERT (Hidden Unit BERT) for audio processing
-- Mean pooling techniques
-- Random baseline models for comparison
+- **Audio**: The `hubert.ipynb` and `wav2vec2.ipynb` notebooks are used to extract deep audio representations. These models convert raw audio into rich embeddings that capture complex speech characteristics.
+- **Text**: Transcripts are processed to create text-based features for the text models.
 
-## Model Configurations
+### 3. Modeling
 
-The attention-based models use configurations like:
+Several modeling approaches are implemented and evaluated:
 
-```python
-CONFIG = {
-    'learning_rate': 1e-3,        
-    'num_epochs': 120,            
-    'batch_size': 37,             
-    'attn_hidden_dim': 1,        
-    'fc_hidden_dim': 2048,
-    'weight_decay': 1e-2,         
-    'dropout_rate': 0.4,          
-    'use_dropout': True,          
-    'device': torch.device("cuda" if torch.cuda.is_available() else
-              "mps" if torch.backends.mps.is_available() else "cpu")
-}
-```
+- **Baseline Models**:
+  - **Random Baseline** (`random.ipynb`): Predicts random scores to establish a lower bound for performance.
+  - **RNN Models** (`ccc_audio_rnn.ipynb`, `ccc_text_rnn.ipynb`): Basic recurrent neural networks for sequence modeling on both audio and text.
+- **Advanced Models**:
+  - **HuBERT/wav2vec2-based Models**: These models use the extracted audio embeddings to predict enjoyment.
+  - **Large Language Models (LLMs)** (`llms.ipynb`): Modern LLMs are prompted with conversation transcripts (and sometimes audio information) to generate enjoyment predictions. Experiments include models like Google's Gemini and Gemma, and Anthropic's Claude.
 
-## Results
+### 4. Evaluation
 
-The results and predictions from different models are stored in:
+All models are evaluated using the Concordance Correlation Coefficient (CCC), which is well-suited for assessing agreement in continuous-valued predictions. The `plots.ipynb` notebook helps visualize and compare the performance of different models.
 
-- `predictions-audio-attention.csv`
-- `predictions-text-attention.csv`
-- `fused_predictions_avg.csv`
+## How to Run
 
-The `y-enjoyment.csv` file contains the ground truth enjoyment ratings.
-
-## Usage
-
-To use this codebase:
-
-1. **Data Preparation**:
-   - Run `data.ipynb` to organize and preprocess the data
-
-2. **Feature Extraction**:
-   - Run `extract-annotations.ipynb` to process the audio files and transcripts
-
-3. **Model Training**:
-   - Run the specific model notebooks (e.g., `attention_audio.ipynb`, `attention_text.ipynb`) to train and evaluate models
-
-4. **Analysis**:
-   - Use `plots.ipynb` to visualize results and compare model performance
+1. **Setup**: Ensure all dependencies listed in the environment are installed.
+2. **Data Processing**: Run `data.ipynb` to prepare the dataset.
+3. **Feature Extraction**: Run `hubert.ipynb` or `wav2vec2.ipynb` to generate audio embeddings.
+4. **Training and Prediction**:
+    - To run the baseline or RNN models, execute the corresponding `ccc_*.ipynb` notebooks.
+    - To run LLM-based predictions, use the `llms.ipynb` notebook.
+5. **Analysis**: Use `plots.ipynb` to generate performance plots and compare results.
 
 ## Dependencies
 
-The project relies on several Python libraries:
+The project relies on several key Python libraries:
 
-- PyTorch
-- NumPy
-- Pandas
-- Scikit-learn
-- SciPy
-- webrtcvad (for Voice Activity Detection)
-- Matplotlib (for visualization)
-- Audio processing libraries (like pydub)
-
-## Notes
-
-This project appears to be focused on analyzing conversations between participants and two conversational agents named "Alice" and "Clara", with the goal of predicting how enjoyable the conversations were based on participant responses.
-
-The data consists of both audio recordings and their corresponding transcripts, with timestamps available for synchronization. The self-reported enjoyment ratings are used as ground truth for model training and evaluation.
+- **Core**: `numpy`, `pandas`, `scikit-learn`
+- **Deep Learning**: `torch`, `transformers`
+- **Audio Processing**: `librosa`, `pydub`, `soundfile`
+- **Visualization**: `matplotlib`, `seaborn`
+- **Jupyter**: For running the notebooks.
