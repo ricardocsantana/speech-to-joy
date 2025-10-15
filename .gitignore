@@ -5,3 +5,4 @@ extract_embeddings/*
 # But do NOT ignore these folders
 !data/text-datasets/
 !data/audio-datasets/
+!data/output_ratings/
