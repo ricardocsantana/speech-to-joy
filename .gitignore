@@ -1,1 +1,7 @@
-data/
+# Ignore everything in data/
+data/*
+extract_embeddings/*
+
+# But do NOT ignore these folders
+!data/text-datasets/
+!data/audio-datasets/
